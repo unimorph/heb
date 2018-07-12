@@ -23,7 +23,7 @@
 אבד	נאבד	V;1;PL;FUT
 אבד	תאבד	V;2;SG;FUT;MASC
 אבד	תאבד	V;3;SG;FUT;FEM
-אבד	תאבדו	V;2;PL;FUT:MASC
+אבד	תאבדו	V;2;PL;FUT;MASC
 אבד	תאבדי	V;2;SG;FUT;FEM
 אבד	תאבדנה	V;2;PL;FUT;FEM
 אבד	תאבדנה	V;3;PL;FUT;FEM
@@ -51,7 +51,7 @@
 אגר	נאגר	V;1;PL;FUT
 אגר	תאגר	V;2;SG;FUT;MASC
 אגר	תאגר	V;3;SG;FUT;FEM
-אגר	תאגרו	V;2;PL;FUT:MASC
+אגר	תאגרו	V;2;PL;FUT;MASC
 אגר	תאגרי	V;2;SG;FUT;FEM
 אגר	תאגרנה	V;2;PL;FUT;FEM
 אגר	תאגרנה	V;3;PL;FUT;FEM
@@ -100,7 +100,7 @@
 אובטח	נאובטח	V;1;PL;FUT
 אובטח	תאובטח	V;2;SG;FUT;MASC
 אובטח	תאובטח	V;3;SG;FUT;FEM
-אובטח	תאובטחו	V;2;PL;FUT:MASC
+אובטח	תאובטחו	V;2;PL;FUT;MASC
 אובטח	תאובטחי	V;2;SG;FUT;FEM
 אובטח	תאובטחנה	V;2;PL;FUT;FEM
 אובטח	תאובטחנה	V;3;PL;FUT;FEM
@@ -156,7 +156,7 @@
 אונן	תאונן	V;3;SG;FUT;FEM
 אונן	תאוננה	V;2;PL;FUT;FEM
 אונן	תאוננה	V;3;PL;FUT;FEM
-אונן	תאוננו	V;2;PL;FUT:MASC
+אונן	תאוננו	V;2;PL;FUT;MASC
 אונן	תאונני	V;2;SG;FUT;FEM
 אזמל	אזמל	N;SG;NDEF
 אזמל	אזמל	N;SG;PSSD
@@ -234,7 +234,7 @@
 איבטח	נאבטח	V;1;PL;FUT
 איבטח	תאבטח	V;2;SG;FUT;MASC
 איבטח	תאבטח	V;3;SG;FUT;FEM
-איבטח	תאבטחו	V;2;PL;FUT:MASC
+איבטח	תאבטחו	V;2;PL;FUT;MASC
 איבטח	תאבטחי	V;2;SG;FUT;FEM
 איבטח	תאבטחנה	V;2;PL;FUT;FEM
 איבטח	תאבטחנה	V;3;PL;FUT;FEM
@@ -262,7 +262,7 @@
 איחד	נאחד	V;1;PL;FUT
 איחד	תאחד	V;2;SG;FUT;MASC
 איחד	תאחד	V;3;SG;FUT;FEM
-איחד	תאחדו	V;2;PL;FUT:MASC
+איחד	תאחדו	V;2;PL;FUT;MASC
 איחד	תאחדי	V;2;SG;FUT;FEM
 איחד	תאחדנה	V;2;PL;FUT;FEM
 איחד	תאחדנה	V;3;PL;FUT;FEM
@@ -342,7 +342,7 @@
 אמר	נאמר	V;1;PL;FUT
 אמר	תאמר	V;2;SG;FUT;MASC
 אמר	תאמר	V;3;SG;FUT;FEM
-אמר	תאמרו	V;2;PL;FUT:MASC
+אמר	תאמרו	V;2;PL;FUT;MASC
 אמר	תאמרי	V;2;SG;FUT;FEM
 אמר	תאמרנה	V;2;PL;FUT;FEM
 אמר	תאמרנה	V;3;PL;FUT;FEM
@@ -396,7 +396,7 @@
 אץ	נאוץ	V;1;PL;FUT
 אץ	תאוץ	V;2;SG;FUT;MASC
 אץ	תאוץ	V;3;SG;FUT;FEM
-אץ	תאוצו	V;2;PL;FUT:MASC
+אץ	תאוצו	V;2;PL;FUT;MASC
 אץ	תאוצי	V;2;SG;FUT;FEM
 אץ	תאוצנה	V;2;PL;FUT;FEM
 אץ	תאוצנה	V;3;PL;FUT;FEM
@@ -478,7 +478,7 @@
 בא	תבאנה	V;3;PL;FUT;FEM
 בא	תבוא	V;2;SG;FUT;MASC
 בא	תבוא	V;3;SG;FUT;FEM
-בא	תבואו	V;2;PL;FUT:MASC
+בא	תבואו	V;2;PL;FUT;MASC
 בא	תבואי	V;2;SG;FUT;FEM
 בגד	אבגד	V;1;SG;FUT
 בגד	בגד	V;2;SG;IMP;MASC
@@ -504,7 +504,7 @@
 בגד	נבגד	V;1;PL;FUT
 בגד	תבגד	V;2;SG;FUT;MASC
 בגד	תבגד	V;3;SG;FUT;FEM
-בגד	תבגדו	V;2;PL;FUT:MASC
+בגד	תבגדו	V;2;PL;FUT;MASC
 בגד	תבגדי	V;2;SG;FUT;FEM
 בגד	תבגדנה	V;2;PL;FUT;FEM
 בגד	תבגדנה	V;3;PL;FUT;FEM
@@ -532,7 +532,7 @@
 בדה	נבדה	V;1;PL;FUT
 בדה	תבדה	V;2;SG;FUT;MASC
 בדה	תבדה	V;3;SG;FUT;FEM
-בדה	תבדו	V;2;PL;FUT:MASC
+בדה	תבדו	V;2;PL;FUT;MASC
 בדה	תבדי	V;2;SG;FUT;FEM
 בדה	תבדינה	V;2;PL;FUT;FEM
 בדה	תבדינה	V;3;PL;FUT;FEM
@@ -562,7 +562,7 @@
 בדק	תבדוק	V;3;SG;FUT;FEM
 בדק	תבדוקנה	V;2;PL;FUT;FEM
 בדק	תבדוקנה	V;3;PL;FUT;FEM
-בדק	תבדקו	V;2;PL;FUT:MASC
+בדק	תבדקו	V;2;PL;FUT;MASC
 בדק	תבדקי	V;2;SG;FUT;FEM
 בוטא	אבוטא	V;1;SG;FUT
 בוטא	בוטא	V;3;SG;PST;MASC
@@ -583,7 +583,7 @@
 בוטא	נבוטא	V;1;PL;FUT
 בוטא	תבוטא	V;2;SG;FUT;MASC
 בוטא	תבוטא	V;3;SG;FUT;FEM
-בוטא	תבוטאו	V;2;PL;FUT:MASC
+בוטא	תבוטאו	V;2;PL;FUT;MASC
 בוטא	תבוטאי	V;2;SG;FUT;FEM
 בוטא	תבוטאנה	V;2;PL;FUT;FEM
 בוטא	תבוטאנה	V;3;PL;FUT;FEM
@@ -606,7 +606,7 @@
 בוטל	נבוטל	V;1;PL;FUT
 בוטל	תבוטל	V;2;SG;FUT;MASC
 בוטל	תבוטל	V;3;SG;FUT;FEM
-בוטל	תבוטלו	V;2;PL;FUT:MASC
+בוטל	תבוטלו	V;2;PL;FUT;MASC
 בוטל	תבוטלי	V;2;SG;FUT;FEM
 בוטל	תבוטלנה	V;2;PL;FUT;FEM
 בוטל	תבוטלנה	V;3;PL;FUT;FEM
@@ -660,7 +660,7 @@
 בחר	נבחר	V;1;PL;FUT
 בחר	תבחר	V;2;SG;FUT;MASC
 בחר	תבחר	V;3;SG;FUT;FEM
-בחר	תבחרו	V;2;PL;FUT:MASC
+בחר	תבחרו	V;2;PL;FUT;MASC
 בחר	תבחרי	V;2;SG;FUT;FEM
 בחר	תבחרנה	V;2;PL;FUT;FEM
 בחר	תבחרנה	V;3;PL;FUT;FEM
@@ -688,7 +688,7 @@
 בטח	נבטח	V;1;PL;FUT
 בטח	תבטח	V;2;SG;FUT;MASC
 בטח	תבטח	V;3;SG;FUT;FEM
-בטח	תבטחו	V;2;PL;FUT:MASC
+בטח	תבטחו	V;2;PL;FUT;MASC
 בטח	תבטחי	V;2;SG;FUT;FEM
 בטח	תבטחנה	V;2;PL;FUT;FEM
 בטח	תבטחנה	V;3;PL;FUT;FEM
@@ -742,7 +742,7 @@
 ביאס	נבאס	V;1;PL;FUT
 ביאס	תבאס	V;2;SG;FUT;MASC
 ביאס	תבאס	V;3;SG;FUT;FEM
-ביאס	תבאסו	V;2;PL;FUT:MASC
+ביאס	תבאסו	V;2;PL;FUT;MASC
 ביאס	תבאסי	V;2;SG;FUT;FEM
 ביאס	תבאסנה	V;2;PL;FUT;FEM
 ביאס	תבאסנה	V;3;PL;FUT;FEM
@@ -770,7 +770,7 @@
 ביטא	נבטא	V;1;PL;FUT
 ביטא	תבטא	V;2;SG;FUT;MASC
 ביטא	תבטא	V;3;SG;FUT;FEM
-ביטא	תבטאו	V;2;PL;FUT:MASC
+ביטא	תבטאו	V;2;PL;FUT;MASC
 ביטא	תבטאי	V;2;SG;FUT;FEM
 ביטא	תבטאנה	V;2;PL;FUT;FEM
 ביטא	תבטאנה	V;3;PL;FUT;FEM
@@ -798,7 +798,7 @@
 ביכה	נבכה	V;1;PL;FUT
 ביכה	תבכה	V;2;SG;FUT;MASC
 ביכה	תבכה	V;3;SG;FUT;FEM
-ביכה	תבכו	V;2;PL;FUT:MASC
+ביכה	תבכו	V;2;PL;FUT;MASC
 ביכה	תבכי	V;2;SG;FUT;FEM
 ביכה	תבכינה	V;2;PL;FUT;FEM
 ביכה	תבכינה	V;3;PL;FUT;FEM
@@ -826,7 +826,7 @@
 בילבל	נבלבל	V;1;PL;FUT
 בילבל	תבלבל	V;2;SG;FUT;MASC
 בילבל	תבלבל	V;3;SG;FUT;FEM
-בילבל	תבלבלו	V;2;PL;FUT:MASC
+בילבל	תבלבלו	V;2;PL;FUT;MASC
 בילבל	תבלבלי	V;2;SG;FUT;FEM
 בילבל	תבלבלנה	V;2;PL;FUT;FEM
 בילבל	תבלבלנה	V;3;PL;FUT;FEM
@@ -854,7 +854,7 @@
 בילה	נבלה	V;1;PL;FUT
 בילה	תבלה	V;2;SG;FUT;MASC
 בילה	תבלה	V;3;SG;FUT;FEM
-בילה	תבלו	V;2;PL;FUT:MASC
+בילה	תבלו	V;2;PL;FUT;MASC
 בילה	תבלי	V;2;SG;FUT;FEM
 בילה	תבלינה	V;2;PL;FUT;FEM
 בילה	תבלינה	V;3;PL;FUT;FEM
@@ -882,7 +882,7 @@
 ביקר	נבקר	V;1;PL;FUT
 ביקר	תבקר	V;2;SG;FUT;MASC
 ביקר	תבקר	V;3;SG;FUT;FEM
-ביקר	תבקרו	V;2;PL;FUT:MASC
+ביקר	תבקרו	V;2;PL;FUT;MASC
 ביקר	תבקרי	V;2;SG;FUT;FEM
 ביקר	תבקרנה	V;2;PL;FUT;FEM
 ביקר	תבקרנה	V;3;PL;FUT;FEM
@@ -910,7 +910,7 @@
 בישל	נבשׁל	V;1;PL;FUT
 בישל	תבשׁל	V;2;SG;FUT;MASC
 בישל	תבשׁל	V;3;SG;FUT;FEM
-בישל	תבשׁלו	V;2;PL;FUT:MASC
+בישל	תבשׁלו	V;2;PL;FUT;MASC
 בישל	תבשׁלי	V;2;SG;FUT;FEM
 בישל	תבשׁלנה	V;2;PL;FUT;FEM
 בישל	תבשׁלנה	V;3;PL;FUT;FEM
@@ -938,7 +938,7 @@
 בכה	נבכה	V;1;PL;FUT
 בכה	תבכה	V;2;SG;FUT;MASC
 בכה	תבכה	V;3;SG;FUT;FEM
-בכה	תבכו	V;2;PL;FUT:MASC
+בכה	תבכו	V;2;PL;FUT;MASC
 בכה	תבכי	V;2;SG;FUT;FEM
 בכה	תבכינה	V;2;PL;FUT;FEM
 בכה	תבכינה	V;3;PL;FUT;FEM
@@ -992,7 +992,7 @@
 בלה	נבלה	V;1;PL;FUT
 בלה	תבלה	V;2;SG;FUT;MASC
 בלה	תבלה	V;3;SG;FUT;FEM
-בלה	תבלו	V;2;PL;FUT:MASC
+בלה	תבלו	V;2;PL;FUT;MASC
 בלה	תבלי	V;2;SG;FUT;FEM
 בלה	תבלינה	V;3;PL;FUT;FEM
 בלה	תבלנה	V;2;PL;FUT;FEM
@@ -1020,7 +1020,7 @@
 בלע	נבלע	V;1;PL;FUT
 בלע	תבלע	V;2;SG;FUT;MASC
 בלע	תבלע	V;3;SG;FUT;FEM
-בלע	תבלעו	V;2;PL;FUT:MASC
+בלע	תבלעו	V;2;PL;FUT;MASC
 בלע	תבלעי	V;2;SG;FUT;FEM
 בלע	תבלענה	V;2;PL;FUT;FEM
 בלע	תבלענה	V;3;PL;FUT;FEM
@@ -1100,7 +1100,7 @@
 ברח	נברח	V;1;PL;FUT
 ברח	תברח	V;2;SG;FUT;MASC
 ברח	תברח	V;3;SG;FUT;FEM
-ברח	תברחו	V;2;PL;FUT:MASC
+ברח	תברחו	V;2;PL;FUT;MASC
 ברח	תברחי	V;2;SG;FUT;FEM
 ברח	תברחנה	V;2;PL;FUT;FEM
 ברח	תברחנה	V;3;PL;FUT;FEM
@@ -1279,7 +1279,7 @@
 גולה	נגולה	V;1;PL;FUT
 גולה	תגולה	V;2;SG;FUT;MASC
 גולה	תגולה	V;3;SG;FUT;FEM
-גולה	תגולו	V;2;PL;FUT:MASC
+גולה	תגולו	V;2;PL;FUT;MASC
 גולה	תגולי	V;2;SG;FUT;FEM
 גולה	תגולינה	V;2;PL;FUT;FEM
 גולה	תגולינה	V;3;PL;FUT;FEM
@@ -1361,7 +1361,7 @@
 גזר	תגזור	V;3;SG;FUT;FEM
 גזר	תגזורנה	V;2;PL;FUT;FEM
 גזר	תגזורנה	V;3;PL;FUT;FEM
-גזר	תגזרו	V;2;PL;FUT:MASC
+גזר	תגזרו	V;2;PL;FUT;MASC
 גזר	תגזרי	V;2;SG;FUT;FEM
 גילגל	אגלגל	V;1;SG;FUT
 גילגל	גילגל	V;3;SG;PST;MASC
@@ -1387,7 +1387,7 @@
 גילגל	נגלגל	V;1;PL;FUT
 גילגל	תגלגל	V;2;SG;FUT;MASC
 גילגל	תגלגל	V;3;SG;FUT;FEM
-גילגל	תגלגלו	V;2;PL;FUT:MASC
+גילגל	תגלגלו	V;2;PL;FUT;MASC
 גילגל	תגלגלי	V;2;SG;FUT;FEM
 גילגל	תגלגלנה	V;2;PL;FUT;FEM
 גילגל	תגלגלנה	V;3;PL;FUT;FEM
@@ -1415,7 +1415,7 @@
 גילח	נגלח	V;1;PL;FUT
 גילח	תגלח	V;2;SG;FUT;MASC
 גילח	תגלח	V;3;SG;FUT;FEM
-גילח	תגלחו	V;2;PL;FUT:MASC
+גילח	תגלחו	V;2;PL;FUT;MASC
 גילח	תגלחי	V;2;SG;FUT;FEM
 גילח	תגלחנה	V;2;PL;FUT;FEM
 גילח	תגלחנה	V;3;PL;FUT;FEM
@@ -1443,7 +1443,7 @@
 גלה	נגלה	V;1;PL;FUT
 גלה	תגלה	V;2;SG;FUT;MASC
 גלה	תגלה	V;3;SG;FUT;FEM
-גלה	תגלו	V;2;PL;FUT:MASC
+גלה	תגלו	V;2;PL;FUT;MASC
 גלה	תגלי	V;2;SG;FUT;FEM
 גלה	תגלינה	V;2;PL;FUT;FEM
 גלה	תגלינה	V;3;PL;FUT;FEM
@@ -1525,7 +1525,7 @@
 גמר	תגמור	V;3;SG;FUT;FEM
 גמר	תגמורנה	V;2;PL;FUT;FEM
 גמר	תגמורנה	V;3;PL;FUT;FEM
-גמר	תגמרו	V;2;PL;FUT:MASC
+גמר	תגמרו	V;2;PL;FUT;MASC
 גמר	תגמרי	V;2;SG;FUT;FEM
 גנב	אגנוב	V;1;SG;FUT
 גנב	גונב	V;SG;PRS;MASC
@@ -1549,7 +1549,7 @@
 גנב	יגנוב	V;3;SG;FUT;MASC
 גנב	לגנוב	V;NFIN
 גנב	נגנוב	V;1;PL;FUT
-גנב	תגנבו	V;2;PL;FUT:MASC
+גנב	תגנבו	V;2;PL;FUT;MASC
 גנב	תגנבי	V;2;SG;FUT;FEM
 גנב	תגנוב	V;2;SG;FUT;MASC
 גנב	תגנוב	V;3;SG;FUT;FEM
@@ -1581,7 +1581,7 @@
 גרם	תגרום	V;3;SG;FUT;FEM
 גרם	תגרומנה	V;2;PL;FUT;FEM
 גרם	תגרומנה	V;3;PL;FUT;FEM
-גרם	תגרמו	V;2;PL;FUT:MASC
+גרם	תגרמו	V;2;PL;FUT;MASC
 גרם	תגרמי	V;2;SG;FUT;FEM
 דבורה	דבורה	N;SG;NDEF
 דבורה	דבורי	N;PL;PSSD
@@ -1659,7 +1659,7 @@
 דג	נדוג	V;1;PL;FUT
 דג	תדוג	V;2;SG;FUT;MASC
 דג	תדוג	V;3;SG;FUT;FEM
-דג	תדוגו	V;2;PL;FUT:MASC
+דג	תדוגו	V;2;PL;FUT;MASC
 דג	תדוגי	V;2;SG;FUT;FEM
 דג	תדוגנה	V;2;PL;FUT;FEM
 דג	תדוגנה	V;3;PL;FUT;FEM
@@ -1682,7 +1682,7 @@
 דוכא	נדוכא	V;1;PL;FUT
 דוכא	תדוכא	V;2;SG;FUT;MASC
 דוכא	תדוכא	V;3;SG;FUT;FEM
-דוכא	תדוכאו	V;2;PL;FUT:MASC
+דוכא	תדוכאו	V;2;PL;FUT;MASC
 דוכא	תדוכאי	V;2;SG;FUT;FEM
 דוכא	תדוכאנה	V;2;PL;FUT;FEM
 דוכא	תדוכאנה	V;3;PL;FUT;FEM
@@ -1710,7 +1710,7 @@
 דיבר	נדבר	V;1;PL;FUT
 דיבר	תדבר	V;2;SG;FUT;MASC
 דיבר	תדבר	V;3;SG;FUT;FEM
-דיבר	תדברו	V;2;PL;FUT:MASC
+דיבר	תדברו	V;2;PL;FUT;MASC
 דיבר	תדברי	V;2;SG;FUT;FEM
 דיבר	תדברנה	V;2;PL;FUT;FEM
 דיבר	תדברנה	V;3;PL;FUT;FEM
@@ -1738,7 +1738,7 @@
 דיכא	נדכא	V;1;PL;FUT
 דיכא	תדכא	V;2;SG;FUT;MASC
 דיכא	תדכא	V;3;SG;FUT;FEM
-דיכא	תדכאו	V;2;PL;FUT:MASC
+דיכא	תדכאו	V;2;PL;FUT;MASC
 דיכא	תדכאי	V;2;SG;FUT;FEM
 דיכא	תדכאנה	V;2;PL;FUT;FEM
 דיכא	תדכאנה	V;3;PL;FUT;FEM
@@ -1766,7 +1766,7 @@
 דימם	נדמם	V;1;PL;FUT
 דימם	תדמם	V;2;SG;FUT;MASC
 דימם	תדמם	V;3;SG;FUT;FEM
-דימם	תדממו	V;2;PL;FUT:MASC
+דימם	תדממו	V;2;PL;FUT;MASC
 דימם	תדממי	V;2;SG;FUT;FEM
 דימם	תדממנה	V;2;PL;FUT;FEM
 דימם	תדממנה	V;3;PL;FUT;FEM
@@ -1794,7 +1794,7 @@
 דלה	נדלה	V;1;PL;FUT
 דלה	תדלה	V;2;SG;FUT;MASC
 דלה	תדלה	V;3;SG;FUT;FEM
-דלה	תדלו	V;2;PL;FUT:MASC
+דלה	תדלו	V;2;PL;FUT;MASC
 דלה	תדלי	V;2;SG;FUT;FEM
 דלה	תדלינה	V;2;PL;FUT;FEM
 דלה	תדלינה	V;3;PL;FUT;FEM
@@ -1848,7 +1848,7 @@
 דמה	נדמה	V;1;PL;FUT
 דמה	תדמה	V;2;SG;FUT;MASC
 דמה	תדמה	V;3;SG;FUT;FEM
-דמה	תדמו	V;2;PL;FUT:MASC
+דמה	תדמו	V;2;PL;FUT;MASC
 דמה	תדמי	V;2;SG;FUT;FEM
 דמה	תדמינה	V;2;PL;FUT;FEM
 דמה	תדמינה	V;3;PL;FUT;FEM
@@ -1878,7 +1878,7 @@
 דפק	תדפוק	V;3;SG;FUT;FEM
 דפק	תדפוקנה	V;2;PL;FUT;FEM
 דפק	תדפוקנה	V;3;PL;FUT;FEM
-דפק	תדפקו	V;2;PL;FUT:MASC
+דפק	תדפקו	V;2;PL;FUT;MASC
 דפק	תדפקי	V;2;SG;FUT;FEM
 דקר	אדקור	V;1;SG;FUT
 דקר	דוקר	V;SG;PRS;MASC
@@ -1906,7 +1906,7 @@
 דקר	תדקור	V;3;SG;FUT;FEM
 דקר	תדקורנה	V;2;PL;FUT;FEM
 דקר	תדקורנה	V;3;PL;FUT;FEM
-דקר	תדקרו	V;2;PL;FUT:MASC
+דקר	תדקרו	V;2;PL;FUT;MASC
 דקר	תדקרי	V;2;SG;FUT;FEM
 דר	אדור	V;1;SG;FUT
 דר	דור	V;2;SG;IMP;MASC
@@ -1956,11 +1956,11 @@
 דרש	תדרוש	V;3;SG;FUT;FEM
 דרש	תדרושנה	V;2;PL;FUT;FEM
 דרש	תדרושנה	V;3;PL;FUT;FEM
-דרש	תדרשׁו	V;2;PL;FUT:MASC
+דרש	תדרשׁו	V;2;PL;FUT;MASC
 דרש	תדרשׁי	V;2;SG;FUT;FEM
 דר	תדור	V;2;SG;FUT;MASC
 דר	תדור	V;3;SG;FUT;FEM
-דר	תדורו	V;2;PL;FUT:MASC
+דר	תדורו	V;2;PL;FUT;MASC
 דר	תדורי	V;2;SG;FUT;FEM
 דר	תדורנה	V;2;PL;FUT;FEM
 דר	תדורנה	V;3;PL;FUT;FEM
@@ -1988,7 +1988,7 @@
 האט	נאט	V;1;PL;FUT
 האט	תאט	V;2;SG;FUT;MASC
 האט	תאט	V;3;SG;FUT;FEM
-האט	תאטו	V;2;PL;FUT:MASC
+האט	תאטו	V;2;PL;FUT;MASC
 האט	תאטי	V;2;SG;FUT;FEM
 האט	תאטנה	V;2;PL;FUT;FEM
 האט	תאטנה	V;3;PL;FUT;FEM
@@ -2016,7 +2016,7 @@
 האמין	נאמין	V;1;PL;FUT
 האמין	תאמין	V;2;SG;FUT;MASC
 האמין	תאמין	V;3;SG;FUT;FEM
-האמין	תאמינו	V;2;PL;FUT:MASC
+האמין	תאמינו	V;2;PL;FUT;MASC
 האמין	תאמיני	V;2;SG;FUT;FEM
 האמין	תאמנה	V;2;PL;FUT;FEM
 האמין	תאמנה	V;3;PL;FUT;FEM
@@ -2070,7 +2070,7 @@
 הביא	נביא	V;1;PL;FUT
 הביא	תביא	V;2;SG;FUT;MASC
 הביא	תביא	V;3;SG;FUT;FEM
-הביא	תביאו	V;2;PL;FUT:MASC
+הביא	תביאו	V;2;PL;FUT;MASC
 הביא	תביאי	V;2;SG;FUT;FEM
 הביא	תביאנה	V;2;PL;FUT;FEM
 הביא	תביאנה	V;3;PL;FUT;FEM
@@ -2100,7 +2100,7 @@
 הביט	תבטנה	V;3;PL;FUT;FEM
 הביט	תביט	V;2;SG;FUT;MASC
 הביט	תביט	V;3;SG;FUT;FEM
-הביט	תביטו	V;2;PL;FUT:MASC
+הביט	תביטו	V;2;PL;FUT;MASC
 הביט	תביטי	V;2;SG;FUT;FEM
 הבין	אבין	V;1;SG;FUT
 הבין	הבין	V;3;SG;PST;MASC
@@ -2126,7 +2126,7 @@
 הבין	נבין	V;1;PL;FUT
 הבין	תבין	V;2;SG;FUT;MASC
 הבין	תבין	V;3;SG;FUT;FEM
-הבין	תבינו	V;2;PL;FUT:MASC
+הבין	תבינו	V;2;PL;FUT;MASC
 הבין	תביני	V;2;SG;FUT;FEM
 הבין	תבנה	V;2;PL;FUT;FEM
 הבין	תבנה	V;3;PL;FUT;FEM
@@ -2154,7 +2154,7 @@
 הבליע	נבליע	V;1;PL;FUT
 הבליע	תבליע	V;2;SG;FUT;MASC
 הבליע	תבליע	V;3;SG;FUT;FEM
-הבליע	תבליעו	V;2;PL;FUT:MASC
+הבליע	תבליעו	V;2;PL;FUT;MASC
 הבליע	תבליעי	V;2;SG;FUT;FEM
 הבליע	תבלענה	V;2;PL;FUT;FEM
 הבליע	תבלענה	V;3;PL;FUT;FEM
@@ -2183,7 +2183,7 @@
 הגיב	תגבנה	V;3;PL;FUT;FEM
 הגיב	תגיב	V;2;SG;FUT;MASC
 הגיב	תגיב	V;3;SG;FUT;FEM
-הגיב	תגיבו	V;2;PL;FUT:MASC
+הגיב	תגיבו	V;2;PL;FUT;MASC
 הגיב	תגיבי	V;2;SG;FUT;FEM
 הגיב	תגיבנה	V;2;PL;FUT;FEM
 הגיע	אגיע	V;1;SG;FUT
@@ -2210,7 +2210,7 @@
 הגיע	נגיע	V;1;PL;FUT
 הגיע	תגיע	V;2;SG;FUT;MASC
 הגיע	תגיע	V;3;SG;FUT;FEM
-הגיע	תגיעו	V;2;PL;FUT:MASC
+הגיע	תגיעו	V;2;PL;FUT;MASC
 הגיע	תגיעי	V;2;SG;FUT;FEM
 הגיע	תגענה	V;2;PL;FUT;FEM
 הגיע	תגענה	V;3;PL;FUT;FEM
@@ -2238,7 +2238,7 @@
 הדליק	נדליק	V;1;PL;FUT
 הדליק	תדליק	V;2;SG;FUT;MASC
 הדליק	תדליק	V;3;SG;FUT;FEM
-הדליק	תדליקו	V;2;PL;FUT:MASC
+הדליק	תדליקו	V;2;PL;FUT;MASC
 הדליק	תדליקי	V;2;SG;FUT;FEM
 הדליק	תדלקנה	V;2;PL;FUT;FEM
 הדליק	תדלקנה	V;3;PL;FUT;FEM
@@ -2266,7 +2266,7 @@
 הוביל	נוביל	V;1;PL;FUT
 הוביל	תוביל	V;2;SG;FUT;MASC
 הוביל	תוביל	V;3;SG;FUT;FEM
-הוביל	תובילו	V;2;PL;FUT:MASC
+הוביל	תובילו	V;2;PL;FUT;MASC
 הוביל	תובילי	V;2;SG;FUT;FEM
 הוביל	תובלנה	V;2;PL;FUT;FEM
 הוביל	תובלנה	V;3;PL;FUT;FEM
@@ -2289,7 +2289,7 @@
 הובל	נובל	V;1;PL;FUT
 הובל	תובל	V;2;SG;FUT;MASC
 הובל	תובל	V;3;SG;FUT;FEM
-הובל	תובלו	V;2;PL;FUT:MASC
+הובל	תובלו	V;2;PL;FUT;MASC
 הובל	תובלי	V;2;SG;FUT;FEM
 הובל	תובלנה	V;2;PL;FUT;FEM
 הובל	תובלנה	V;3;PL;FUT;FEM
@@ -2317,7 +2317,7 @@
 הודיע	נודיע	V;1;PL;FUT
 הודיע	תודיע	V;2;SG;FUT;MASC
 הודיע	תודיע	V;3;SG;FUT;FEM
-הודיע	תודיעו	V;2;PL;FUT:MASC
+הודיע	תודיעו	V;2;PL;FUT;MASC
 הודיע	תודיעי	V;2;SG;FUT;FEM
 הודיע	תודענה	V;2;PL;FUT;FEM
 הודיע	תודענה	V;3;PL;FUT;FEM
@@ -2340,7 +2340,7 @@
 הוזכר	נוזכר	V;1;PL;FUT
 הוזכר	תוזכר	V;2;SG;FUT;MASC
 הוזכר	תוזכר	V;3;SG;FUT;FEM
-הוזכר	תוזכרו	V;2;PL;FUT:MASC
+הוזכר	תוזכרו	V;2;PL;FUT;MASC
 הוזכר	תוזכרי	V;2;SG;FUT;FEM
 הוזכר	תוזכרנה	V;2;PL;FUT;FEM
 הוזכר	תוזכרנה	V;3;PL;FUT;FEM
@@ -2363,7 +2363,7 @@
 הוחלט	נוחלט	V;1;PL;FUT
 הוחלט	תוחלט	V;2;SG;FUT;MASC
 הוחלט	תוחלט	V;3;SG;FUT;FEM
-הוחלט	תוחלטו	V;2;PL;FUT:MASC
+הוחלט	תוחלטו	V;2;PL;FUT;MASC
 הוחלט	תוחלטי	V;2;SG;FUT;FEM
 הוחלט	תוחלטנה	V;2;PL;FUT;FEM
 הוחלט	תוחלטנה	V;3;PL;FUT;FEM
@@ -2386,7 +2386,7 @@
 הוכח	נוכח	V;1;PL;FUT
 הוכח	תוכח	V;2;SG;FUT;MASC
 הוכח	תוכח	V;3;SG;FUT;FEM
-הוכח	תוכחו	V;2;PL;FUT:MASC
+הוכח	תוכחו	V;2;PL;FUT;MASC
 הוכח	תוכחי	V;2;SG;FUT;FEM
 הוכח	תוכחנה	V;2;PL;FUT;FEM
 הוכח	תוכחנה	V;3;PL;FUT;FEM
@@ -2416,7 +2416,7 @@
 הוכיח	תוכחנה	V;3;PL;FUT;FEM
 הוכיח	תוכיח	V;2;SG;FUT;MASC
 הוכיח	תוכיח	V;3;SG;FUT;FEM
-הוכיח	תוכיחו	V;2;PL;FUT:MASC
+הוכיח	תוכיחו	V;2;PL;FUT;MASC
 הוכיח	תוכיחי	V;2;SG;FUT;FEM
 הוכנס	אוכנס	V;1;SG;FUT
 הוכנס	הוכנס	V;3;SG;PST;MASC
@@ -2437,7 +2437,7 @@
 הוכנס	נוכנס	V;1;PL;FUT
 הוכנס	תוכנס	V;2;SG;FUT;MASC
 הוכנס	תוכנס	V;3;SG;FUT;FEM
-הוכנס	תוכנסו	V;2;PL;FUT:MASC
+הוכנס	תוכנסו	V;2;PL;FUT;MASC
 הוכנס	תוכנסי	V;2;SG;FUT;FEM
 הוכנס	תוכנסנה	V;2;PL;FUT;FEM
 הוכנס	תוכנסנה	V;3;PL;FUT;FEM
@@ -2460,7 +2460,7 @@
 הוכר	נוכר	V;1;PL;FUT
 הוכר	תוכר	V;2;SG;FUT;MASC
 הוכר	תוכר	V;3;SG;FUT;FEM
-הוכר	תוכרו	V;2;PL;FUT:MASC
+הוכר	תוכרו	V;2;PL;FUT;MASC
 הוכר	תוכרי	V;2;SG;FUT;FEM
 הוכר	תוכרנה	V;2;PL;FUT;FEM
 הוכר	תוכרנה	V;3;PL;FUT;FEM
@@ -2483,7 +2483,7 @@
 הוכשר	נוכשר	V;1;PL;FUT
 הוכשר	תוכשר	V;2;SG;FUT;MASC
 הוכשר	תוכשר	V;3;SG;FUT;FEM
-הוכשר	תוכשרו	V;2;PL;FUT:MASC
+הוכשר	תוכשרו	V;2;PL;FUT;MASC
 הוכשר	תוכשרי	V;2;SG;FUT;FEM
 הוכשר	תוכשרנה	V;2;PL;FUT;FEM
 הוכשר	תוכשרנה	V;3;PL;FUT;FEM
@@ -2513,7 +2513,7 @@
 הוליד	תולדנה	V;3;PL;FUT;FEM
 הוליד	תוליד	V;2;SG;FUT;MASC
 הוליד	תוליד	V;3;SG;FUT;FEM
-הוליד	תולידו	V;2;PL;FUT:MASC
+הוליד	תולידו	V;2;PL;FUT;MASC
 הוליד	תולידי	V;2;SG;FUT;FEM
 הוסיף	אוסיף	V;1;SG;FUT
 הוסיף	הוסיף	V;3;SG;PST;MASC
@@ -2539,7 +2539,7 @@
 הוסיף	נוסיף	V;1;PL;FUT
 הוסיף	תוסיף	V;2;SG;FUT;MASC
 הוסיף	תוסיף	V;3;SG;FUT;FEM
-הוסיף	תוסיפו	V;2;PL;FUT:MASC
+הוסיף	תוסיפו	V;2;PL;FUT;MASC
 הוסיף	תוסיפי	V;2;SG;FUT;FEM
 הוסיף	תוספנה	V;2;PL;FUT;FEM
 הוסיף	תוספנה	V;3;PL;FUT;FEM
@@ -2562,7 +2562,7 @@
 הוסע	נוסע	V;1;PL;FUT
 הוסע	תוסע	V;2;SG;FUT;MASC
 הוסע	תוסע	V;3;SG;FUT;FEM
-הוסע	תוסעו	V;2;PL;FUT:MASC
+הוסע	תוסעו	V;2;PL;FUT;MASC
 הוסע	תוסעי	V;2;SG;FUT;FEM
 הוסע	תוסענה	V;2;PL;FUT;FEM
 הוסע	תוסענה	V;3;PL;FUT;FEM
@@ -2585,7 +2585,7 @@
 הוסף	נוסף	V;1;PL;FUT
 הוסף	תוסף	V;2;SG;FUT;MASC
 הוסף	תוסף	V;3;SG;FUT;FEM
-הוסף	תוספו	V;2;PL;FUT:MASC
+הוסף	תוספו	V;2;PL;FUT;MASC
 הוסף	תוספי	V;2;SG;FUT;FEM
 הוסף	תוספנה	V;2;PL;FUT;FEM
 הוסף	תוספנה	V;3;PL;FUT;FEM
@@ -2613,7 +2613,7 @@
 הופיע	נופיע	V;1;PL;FUT
 הופיע	תופיע	V;2;SG;FUT;MASC
 הופיע	תופיע	V;3;SG;FUT;FEM
-הופיע	תופיעו	V;2;PL;FUT:MASC
+הופיע	תופיעו	V;2;PL;FUT;MASC
 הופיע	תופיעי	V;2;SG;FUT;FEM
 הופיע	תופענה	V;2;PL;FUT;FEM
 הופיע	תופענה	V;3;PL;FUT;FEM
@@ -2636,7 +2636,7 @@
 הופשט	נופשט	V;1;PL;FUT
 הופשט	תופשט	V;2;SG;FUT;MASC
 הופשט	תופשט	V;3;SG;FUT;FEM
-הופשט	תופשטו	V;2;PL;FUT:MASC
+הופשט	תופשטו	V;2;PL;FUT;MASC
 הופשט	תופשטי	V;2;SG;FUT;FEM
 הופשט	תופשטנה	V;2;PL;FUT;FEM
 הופשט	תופשטנה	V;3;PL;FUT;FEM
@@ -2666,7 +2666,7 @@
 הוציא	תוצאנה	V;3;PL;FUT;FEM
 הוציא	תוציא	V;2;SG;FUT;MASC
 הוציא	תוציא	V;3;SG;FUT;FEM
-הוציא	תוציאו	V;2;PL;FUT:MASC
+הוציא	תוציאו	V;2;PL;FUT;MASC
 הוציא	תוציאי	V;2;SG;FUT;FEM
 הוצל	אוצל	V;1;SG;FUT
 הוצל	הוצל	V;3;SG;PST;MASC
@@ -2687,7 +2687,7 @@
 הוצל	נוצל	V;1;PL;FUT
 הוצל	תוצל	V;2;SG;FUT;MASC
 הוצל	תוצל	V;3;SG;FUT;FEM
-הוצל	תוצלו	V;2;PL;FUT:MASC
+הוצל	תוצלו	V;2;PL;FUT;MASC
 הוצל	תוצלי	V;2;SG;FUT;FEM
 הוצל	תוצלנה	V;2;PL;FUT;FEM
 הוצל	תוצלנה	V;3;PL;FUT;FEM
@@ -2710,7 +2710,7 @@
 הוקף	נוקף	V;1;PL;FUT
 הוקף	תוקף	V;2;SG;FUT;MASC
 הוקף	תוקף	V;3;SG;FUT;FEM
-הוקף	תוקפו	V;2;PL;FUT:MASC
+הוקף	תוקפו	V;2;PL;FUT;MASC
 הוקף	תוקפי	V;2;SG;FUT;FEM
 הוקף	תוקפנה	V;2;PL;FUT;FEM
 הוקף	תוקפנה	V;3;PL;FUT;FEM
@@ -2733,7 +2733,7 @@
 הורד	נורד	V;1;PL;FUT
 הורד	תורד	V;2;SG;FUT;MASC
 הורד	תורד	V;3;SG;FUT;FEM
-הורד	תורדו	V;2;PL;FUT:MASC
+הורד	תורדו	V;2;PL;FUT;MASC
 הורד	תורדי	V;2;SG;FUT;FEM
 הורד	תורדנה	V;2;PL;FUT;FEM
 הורד	תורדנה	V;3;PL;FUT;FEM
@@ -2763,7 +2763,7 @@
 הוריד	תורדנה	V;3;PL;FUT;FEM
 הוריד	תוריד	V;2;SG;FUT;MASC
 הוריד	תוריד	V;3;SG;FUT;FEM
-הוריד	תורידו	V;2;PL;FUT:MASC
+הוריד	תורידו	V;2;PL;FUT;MASC
 הוריד	תורידי	V;2;SG;FUT;FEM
 הוריש	אורישׁ	V;1;SG;FUT
 הוריש	הורישׁ	V;3;SG;PST;MASC
@@ -2789,7 +2789,7 @@
 הוריש	נורישׁ	V;1;PL;FUT
 הוריש	תורישׁ	V;2;SG;FUT;MASC
 הוריש	תורישׁ	V;3;SG;FUT;FEM
-הוריש	תורישׁו	V;2;PL;FUT:MASC
+הוריש	תורישׁו	V;2;PL;FUT;MASC
 הוריש	תורישׁי	V;2;SG;FUT;FEM
 הוריש	תורשׁנה	V;2;PL;FUT;FEM
 הוריש	תורשׁנה	V;3;PL;FUT;FEM
@@ -2819,7 +2819,7 @@
 הושיב	תושׁבנה	V;3;PL;FUT;FEM
 הושיב	תושׁיב	V;2;SG;FUT;MASC
 הושיב	תושׁיב	V;3;SG;FUT;FEM
-הושיב	תושׁיבו	V;2;PL;FUT:MASC
+הושיב	תושׁיבו	V;2;PL;FUT;MASC
 הושיב	תושׁיבי	V;2;SG;FUT;FEM
 הושלט	אושלט	V;1;SG;FUT
 הושלט	הושלט	V;3;SG;PST;MASC
@@ -2840,7 +2840,7 @@
 הושלט	נושלט	V;1;PL;FUT
 הושלט	תושלט	V;2;SG;FUT;MASC
 הושלט	תושלט	V;3;SG;FUT;FEM
-הושלט	תושלטו	V;2;PL;FUT:MASC
+הושלט	תושלטו	V;2;PL;FUT;MASC
 הושלט	תושלטי	V;2;SG;FUT;FEM
 הושלט	תושלטנה	V;2;PL;FUT;FEM
 הושלט	תושלטנה	V;3;PL;FUT;FEM
@@ -2868,7 +2868,7 @@
 הותיר	נותיר	V;1;PL;FUT
 הותיר	תותיר	V;2;SG;FUT;MASC
 הותיר	תותיר	V;3;SG;FUT;FEM
-הותיר	תותירו	V;2;PL;FUT:MASC
+הותיר	תותירו	V;2;PL;FUT;MASC
 הותיר	תותירי	V;2;SG;FUT;FEM
 הותיר	תותרנה	V;2;PL;FUT;FEM
 הותיר	תותרנה	V;3;PL;FUT;FEM
@@ -2891,7 +2891,7 @@
 הותפל	נותפל	V;1;PL;FUT
 הותפל	תותפל	V;2;SG;FUT;MASC
 הותפל	תותפל	V;3;SG;FUT;FEM
-הותפל	תותפלו	V;2;PL;FUT:MASC
+הותפל	תותפלו	V;2;PL;FUT;MASC
 הותפל	תותפלי	V;2;SG;FUT;FEM
 הותפל	תותפלנה	V;2;PL;FUT;FEM
 הותפל	תותפלנה	V;3;PL;FUT;FEM
@@ -2914,7 +2914,7 @@
 הותקף	נותקף	V;1;PL;FUT
 הותקף	תותקף	V;2;SG;FUT;MASC
 הותקף	תותקף	V;3;SG;FUT;FEM
-הותקף	תותקפו	V;2;PL;FUT:MASC
+הותקף	תותקפו	V;2;PL;FUT;MASC
 הותקף	תותקפי	V;2;SG;FUT;FEM
 הותקף	תותקפנה	V;2;PL;FUT;FEM
 הותקף	תותקפנה	V;3;PL;FUT;FEM
@@ -2968,7 +2968,7 @@
 הזכיר	נזכיר	V;1;PL;FUT
 הזכיר	תזכיר	V;2;SG;FUT;MASC
 הזכיר	תזכיר	V;3;SG;FUT;FEM
-הזכיר	תזכירו	V;2;PL;FUT:MASC
+הזכיר	תזכירו	V;2;PL;FUT;MASC
 הזכיר	תזכירי	V;2;SG;FUT;FEM
 הזכיר	תזכרנה	V;2;PL;FUT;FEM
 הזכיר	תזכרנה	V;3;PL;FUT;FEM
@@ -3024,7 +3024,7 @@
 החליט	תחלטנה	V;3;PL;FUT;FEM
 החליט	תחליט	V;2;SG;FUT;MASC
 החליט	תחליט	V;3;SG;FUT;FEM
-החליט	תחליטו	V;2;PL;FUT:MASC
+החליט	תחליטו	V;2;PL;FUT;MASC
 החליט	תחליטי	V;2;SG;FUT;FEM
 החמיץ	אחמיץ	V;1;SG;FUT
 החמיץ	החמיץ	V;3;SG;PST;MASC
@@ -3050,7 +3050,7 @@
 החמיץ	נחמיץ	V;1;PL;FUT
 החמיץ	תחמיץ	V;2;SG;FUT;MASC
 החמיץ	תחמיץ	V;3;SG;FUT;FEM
-החמיץ	תחמיצו	V;2;PL;FUT:MASC
+החמיץ	תחמיצו	V;2;PL;FUT;MASC
 החמיץ	תחמיצי	V;2;SG;FUT;FEM
 החמיץ	תחמצנה	V;2;PL;FUT;FEM
 החמיץ	תחמצנה	V;3;PL;FUT;FEM
@@ -3078,7 +3078,7 @@
 היה	נהיה	V;1;PL;FUT
 היה	תהיה	V;2;SG;FUT;MASC
 היה	תהיה	V;3;SG;FUT;FEM
-היה	תהיו	V;2;PL;FUT:MASC
+היה	תהיו	V;2;PL;FUT;MASC
 היה	תהיי	V;2;SG;FUT;FEM
 היה	תהיינה	V;2;PL;FUT;FEM
 היה	תהיינה	V;3;PL;FUT;FEM
@@ -3106,7 +3106,7 @@
 היטה	נהטה	V;1;PL;FUT
 היטה	תהטה	V;2;SG;FUT;MASC
 היטה	תהטה	V;3;SG;FUT;FEM
-היטה	תהטו	V;2;PL;FUT:MASC
+היטה	תהטו	V;2;PL;FUT;MASC
 היטה	תהטי	V;2;SG;FUT;FEM
 היטה	תהטינה	V;2;PL;FUT;FEM
 היטה	תהטינה	V;3;PL;FUT;FEM
@@ -3134,7 +3134,7 @@
 הכחיש	נכחישׁ	V;1;PL;FUT
 הכחיש	תכחישׁ	V;2;SG;FUT;MASC
 הכחיש	תכחישׁ	V;3;SG;FUT;FEM
-הכחיש	תכחישׁו	V;2;PL;FUT:MASC
+הכחיש	תכחישׁו	V;2;PL;FUT;MASC
 הכחיש	תכחישׁי	V;2;SG;FUT;FEM
 הכחיש	תכחשׁנה	V;2;PL;FUT;FEM
 הכחיש	תכחשׁנה	V;3;PL;FUT;FEM
@@ -3162,7 +3162,7 @@
 הכיל	נכיל	V;1;PL;FUT
 הכיל	תכיל	V;2;SG;FUT;MASC
 הכיל	תכיל	V;3;SG;FUT;FEM
-הכיל	תכילו	V;2;PL;FUT:MASC
+הכיל	תכילו	V;2;PL;FUT;MASC
 הכיל	תכילי	V;2;SG;FUT;FEM
 הכיל	תכילנה	V;2;PL;FUT;FEM
 הכיל	תכלנה	V;3;PL;FUT;FEM
@@ -3190,7 +3190,7 @@
 הכיר	נכיר	V;1;PL;FUT
 הכיר	תכיר	V;2;SG;FUT;MASC
 הכיר	תכיר	V;3;SG;FUT;FEM
-הכיר	תכירו	V;2;PL;FUT:MASC
+הכיר	תכירו	V;2;PL;FUT;MASC
 הכיר	תכירי	V;2;SG;FUT;FEM
 הכיר	תכרנה	V;2;PL;FUT;FEM
 הכיר	תכרנה	V;3;PL;FUT;FEM
@@ -3218,7 +3218,7 @@
 הכשיר	נכשׁיר	V;1;PL;FUT
 הכשיר	תכשׁיר	V;2;SG;FUT;MASC
 הכשיר	תכשׁיר	V;3;SG;FUT;FEM
-הכשיר	תכשׁירו	V;2;PL;FUT:MASC
+הכשיר	תכשׁירו	V;2;PL;FUT;MASC
 הכשיר	תכשׁירי	V;2;SG;FUT;FEM
 הכשיר	תכשׁרנה	V;2;PL;FUT;FEM
 הכשיר	תכשׁרנה	V;3;PL;FUT;FEM
@@ -3274,7 +3274,7 @@
 המציא	תמצאנה	V;3;PL;FUT;FEM
 המציא	תמציא	V;2;SG;FUT;MASC
 המציא	תמציא	V;3;SG;FUT;FEM
-המציא	תמציאו	V;2;PL;FUT:MASC
+המציא	תמציאו	V;2;PL;FUT;MASC
 המציא	תמציאי	V;2;SG;FUT;FEM
 הסב	אסב	V;1;SG;FUT
 הסב	הסב	V;2;SG;IMP;MASC
@@ -3316,7 +3316,7 @@
 הסביר	נסביר	V;1;PL;FUT
 הסביר	תסביר	V;2;SG;FUT;MASC
 הסביר	תסביר	V;3;SG;FUT;FEM
-הסביר	תסבירו	V;2;PL;FUT:MASC
+הסביר	תסבירו	V;2;PL;FUT;MASC
 הסביר	תסבירי	V;2;SG;FUT;FEM
 הסביר	תסברנה	V;2;PL;FUT;FEM
 הסביר	תסברנה	V;3;PL;FUT;FEM
@@ -3328,7 +3328,7 @@
 הסב	נסב	V;1;PL;FUT
 הסב	תסב	V;2;SG;FUT;MASC
 הסב	תסב	V;3;SG;FUT;FEM
-הסב	תסבו	V;2;PL;FUT:MASC
+הסב	תסבו	V;2;PL;FUT;MASC
 הסב	תסבי	V;2;SG;FUT;FEM
 הסב	תסבנה	V;2;PL;FUT;FEM
 הסב	תסבנה	V;3;PL;FUT;FEM
@@ -3356,7 +3356,7 @@
 הסיע	נסיע	V;1;PL;FUT
 הסיע	תסיע	V;2;SG;FUT;MASC
 הסיע	תסיע	V;3;SG;FUT;FEM
-הסיע	תסיעו	V;2;PL;FUT:MASC
+הסיע	תסיעו	V;2;PL;FUT;MASC
 הסיע	תסיעי	V;2;SG;FUT;FEM
 הסיע	תסענה	V;2;PL;FUT;FEM
 הסיע	תסענה	V;3;PL;FUT;FEM
@@ -3384,7 +3384,7 @@
 הסיר	נסיר	V;1;PL;FUT
 הסיר	תסיר	V;2;SG;FUT;MASC
 הסיר	תסיר	V;3;SG;FUT;FEM
-הסיר	תסירו	V;2;PL;FUT:MASC
+הסיר	תסירו	V;2;PL;FUT;MASC
 הסיר	תסירי	V;2;SG;FUT;FEM
 הסיר	תסירנה	V;2;PL;FUT;FEM
 הסיר	תסרנה	V;3;PL;FUT;FEM
@@ -3412,7 +3412,7 @@
 הסמיק	נסמיק	V;1;PL;FUT
 הסמיק	תסמיק	V;2;SG;FUT;MASC
 הסמיק	תסמיק	V;3;SG;FUT;FEM
-הסמיק	תסמיקו	V;2;PL;FUT:MASC
+הסמיק	תסמיקו	V;2;PL;FUT;MASC
 הסמיק	תסמיקי	V;2;SG;FUT;FEM
 הסמיק	תסמקנה	V;2;PL;FUT;FEM
 הסמיק	תסמקנה	V;3;PL;FUT;FEM
@@ -3440,7 +3440,7 @@
 הסתיר	נסתיר	V;1;PL;FUT
 הסתיר	תסתיר	V;2;SG;FUT;MASC
 הסתיר	תסתיר	V;3;SG;FUT;FEM
-הסתיר	תסתירו	V;2;PL;FUT:MASC
+הסתיר	תסתירו	V;2;PL;FUT;MASC
 הסתיר	תסתירי	V;2;SG;FUT;FEM
 הסתיר	תסתרנה	V;2;PL;FUT;FEM
 הסתיר	תסתרנה	V;3;PL;FUT;FEM
@@ -3468,7 +3468,7 @@
 העז	נעז	V;1;PL;FUT
 העז	תעז	V;2;SG;FUT;MASC
 העז	תעז	V;3;SG;FUT;FEM
-העז	תעזו	V;2;PL;FUT:MASC
+העז	תעזו	V;2;PL;FUT;MASC
 העז	תעזי	V;2;SG;FUT;FEM
 העז	תעזנה	V;2;PL;FUT;FEM
 העז	תעזנה	V;3;PL;FUT;FEM
@@ -3498,7 +3498,7 @@
 הפחיד	תפחדנה	V;3;PL;FUT;FEM
 הפחיד	תפחיד	V;2;SG;FUT;MASC
 הפחיד	תפחיד	V;3;SG;FUT;FEM
-הפחיד	תפחידו	V;2;PL;FUT:MASC
+הפחיד	תפחידו	V;2;PL;FUT;MASC
 הפחיד	תפחידי	V;2;SG;FUT;FEM
 הפליא	אפליא	V;1;SG;FUT
 הפליא	הפלא	V;2;SG;IMP;MASC
@@ -3526,7 +3526,7 @@
 הפליא	תפלאנה	V;3;PL;FUT;FEM
 הפליא	תפליא	V;2;SG;FUT;MASC
 הפליא	תפליא	V;3;SG;FUT;FEM
-הפליא	תפליאו	V;2;PL;FUT:MASC
+הפליא	תפליאו	V;2;PL;FUT;MASC
 הפליא	תפליאי	V;2;SG;FUT;FEM
 הפליץ	אפליץ	V;1;SG;FUT
 הפליץ	הפליץ	V;3;SG;PST;MASC
@@ -3552,7 +3552,7 @@
 הפליץ	נפליץ	V;1;PL;FUT
 הפליץ	תפליץ	V;2;SG;FUT;MASC
 הפליץ	תפליץ	V;3;SG;FUT;FEM
-הפליץ	תפליצו	V;2;PL;FUT:MASC
+הפליץ	תפליצו	V;2;PL;FUT;MASC
 הפליץ	תפליצי	V;2;SG;FUT;FEM
 הפליץ	תפלצנה	V;2;PL;FUT;FEM
 הפליץ	תפלצנה	V;3;PL;FUT;FEM
@@ -3582,7 +3582,7 @@
 הפסיד	תפסדנה	V;3;PL;FUT;FEM
 הפסיד	תפסיד	V;2;SG;FUT;MASC
 הפסיד	תפסיד	V;3;SG;FUT;FEM
-הפסיד	תפסידו	V;2;PL;FUT:MASC
+הפסיד	תפסידו	V;2;PL;FUT;MASC
 הפסיד	תפסידי	V;2;SG;FUT;FEM
 הפשיט	אפשׁיט	V;1;SG;FUT
 הפשיט	הפשׁט	V;2;SG;IMP;MASC
@@ -3610,7 +3610,7 @@
 הפשיט	תפשׁטנה	V;3;PL;FUT;FEM
 הפשיט	תפשׁיט	V;2;SG;FUT;MASC
 הפשיט	תפשׁיט	V;3;SG;FUT;FEM
-הפשיט	תפשׁיטו	V;2;PL;FUT:MASC
+הפשיט	תפשׁיטו	V;2;PL;FUT;MASC
 הפשיט	תפשׁיטי	V;2;SG;FUT;FEM
 הצחיק	אצחיק	V;1;SG;FUT
 הצחיק	הצחיק	V;3;SG;PST;MASC
@@ -3636,7 +3636,7 @@
 הצחיק	נצחיק	V;1;PL;FUT
 הצחיק	תצחיק	V;2;SG;FUT;MASC
 הצחיק	תצחיק	V;3;SG;FUT;FEM
-הצחיק	תצחיקו	V;2;PL;FUT:MASC
+הצחיק	תצחיקו	V;2;PL;FUT;MASC
 הצחיק	תצחיקי	V;2;SG;FUT;FEM
 הצחיק	תצחקנה	V;2;PL;FUT;FEM
 הצחיק	תצחקנה	V;3;PL;FUT;FEM
@@ -3664,7 +3664,7 @@
 הציל	נציל	V;1;PL;FUT
 הציל	תציל	V;2;SG;FUT;MASC
 הציל	תציל	V;3;SG;FUT;FEM
-הציל	תצילו	V;2;PL;FUT:MASC
+הציל	תצילו	V;2;PL;FUT;MASC
 הציל	תצילי	V;2;SG;FUT;FEM
 הציל	תצלנה	V;2;PL;FUT;FEM
 הציל	תצלנה	V;3;PL;FUT;FEM
@@ -3720,7 +3720,7 @@
 הצליח	תצלחנה	V;3;PL;FUT;FEM
 הצליח	תצליח	V;2;SG;FUT;MASC
 הצליח	תצליח	V;3;SG;FUT;FEM
-הצליח	תצליחו	V;2;PL;FUT:MASC
+הצליח	תצליחו	V;2;PL;FUT;MASC
 הצליח	תצליחי	V;2;SG;FUT;FEM
 הקביל	אקביל	V;1;SG;FUT
 הקביל	הקביל	V;3;SG;PST;MASC
@@ -3746,7 +3746,7 @@
 הקביל	נקביל	V;1;PL;FUT
 הקביל	תקביל	V;2;SG;FUT;MASC
 הקביל	תקביל	V;3;SG;FUT;FEM
-הקביל	תקבילו	V;2;PL;FUT:MASC
+הקביל	תקבילו	V;2;PL;FUT;MASC
 הקביל	תקבילי	V;2;SG;FUT;FEM
 הקביל	תקבלנה	V;2;PL;FUT;FEM
 הקביל	תקבלנה	V;3;PL;FUT;FEM
@@ -3774,7 +3774,7 @@
 הקיף	נקיף	V;1;PL;FUT
 הקיף	תקיף	V;2;SG;FUT;MASC
 הקיף	תקיף	V;3;SG;FUT;FEM
-הקיף	תקיפו	V;2;PL;FUT:MASC
+הקיף	תקיפו	V;2;PL;FUT;MASC
 הקיף	תקיפי	V;2;SG;FUT;FEM
 הקיף	תקפנה	V;2;PL;FUT;FEM
 הקיף	תקפנה	V;3;PL;FUT;FEM
@@ -3804,7 +3804,7 @@
 הקפיא	תקפאנה	V;3;PL;FUT;FEM
 הקפיא	תקפיא	V;2;SG;FUT;MASC
 הקפיא	תקפיא	V;3;SG;FUT;FEM
-הקפיא	תקפיאו	V;2;PL;FUT:MASC
+הקפיא	תקפיאו	V;2;PL;FUT;MASC
 הקפיא	תקפיאי	V;2;SG;FUT;FEM
 הקריא	אקריא	V;1;SG;FUT
 הקריא	הקרא	V;2;SG;IMP;MASC
@@ -3832,7 +3832,7 @@
 הקריא	תקראנה	V;3;PL;FUT;FEM
 הקריא	תקריא	V;2;SG;FUT;MASC
 הקריא	תקריא	V;3;SG;FUT;FEM
-הקריא	תקריאו	V;2;PL;FUT:MASC
+הקריא	תקריאו	V;2;PL;FUT;MASC
 הקריא	תקריאי	V;2;SG;FUT;FEM
 הקריס	אקריס	V;1;SG;FUT
 הקריס	הקריס	V;3;SG;PST;MASC
@@ -3858,7 +3858,7 @@
 הקריס	נקריס	V;1;PL;FUT
 הקריס	תקריס	V;2;SG;FUT;MASC
 הקריס	תקריס	V;3;SG;FUT;FEM
-הקריס	תקריסו	V;2;PL;FUT:MASC
+הקריס	תקריסו	V;2;PL;FUT;MASC
 הקריס	תקריסי	V;2;SG;FUT;FEM
 הקריס	תקרסנה	V;2;PL;FUT;FEM
 הקריס	תקרסנה	V;3;PL;FUT;FEM
@@ -3888,7 +3888,7 @@
 הקשיב	תקשׁבנה	V;3;PL;FUT;FEM
 הקשיב	תקשׁיב	V;2;SG;FUT;MASC
 הקשיב	תקשׁיב	V;3;SG;FUT;FEM
-הקשיב	תקשׁיבו	V;2;PL;FUT:MASC
+הקשיב	תקשׁיבו	V;2;PL;FUT;MASC
 הקשיב	תקשׁיבי	V;2;SG;FUT;FEM
 הרג	אהרוג	V;1;SG;FUT
 הרג	הורג	V;SG;PRS;MASC
@@ -3912,7 +3912,7 @@
 הרג	יהרוג	V;3;SG;FUT;MASC
 הרג	להרוג	V;NFIN
 הרג	נהרוג	V;1;PL;FUT
-הרג	תהרגו	V;2;PL;FUT:MASC
+הרג	תהרגו	V;2;PL;FUT;MASC
 הרג	תהרגי	V;2;SG;FUT;FEM
 הרג	תהרוג	V;2;SG;FUT;MASC
 הרג	תהרוג	V;3;SG;FUT;FEM
@@ -3942,7 +3942,7 @@
 הרחיק	נרחיק	V;1;PL;FUT
 הרחיק	תרחיק	V;2;SG;FUT;MASC
 הרחיק	תרחיק	V;3;SG;FUT;FEM
-הרחיק	תרחיקו	V;2;PL;FUT:MASC
+הרחיק	תרחיקו	V;2;PL;FUT;MASC
 הרחיק	תרחיקי	V;2;SG;FUT;FEM
 הרחיק	תרחקנה	V;2;PL;FUT;FEM
 הרחיק	תרחקנה	V;3;PL;FUT;FEM
@@ -3972,7 +3972,7 @@
 הרכיב	תרכבנה	V;3;PL;FUT;FEM
 הרכיב	תרכיב	V;2;SG;FUT;MASC
 הרכיב	תרכיב	V;3;SG;FUT;FEM
-הרכיב	תרכיבו	V;2;PL;FUT:MASC
+הרכיב	תרכיבו	V;2;PL;FUT;MASC
 הרכיב	תרכיבי	V;2;SG;FUT;FEM
 השליט	אשׁליט	V;1;SG;FUT
 השליט	השׁלט	V;2;SG;IMP;MASC
@@ -4000,7 +4000,7 @@
 השליט	תשׁלטנה	V;3;PL;FUT;FEM
 השליט	תשׁליט	V;2;SG;FUT;MASC
 השליט	תשׁליט	V;3;SG;FUT;FEM
-השליט	תשׁליטו	V;2;PL;FUT:MASC
+השליט	תשׁליטו	V;2;PL;FUT;MASC
 השליט	תשׁליטי	V;2;SG;FUT;FEM
 השמיד	אשׁמיד	V;1;SG;FUT
 השמיד	השׁמד	V;2;SG;IMP;MASC
@@ -4028,7 +4028,7 @@
 השמיד	תשׁמדנה	V;3;PL;FUT;FEM
 השמיד	תשׁמיד	V;2;SG;FUT;MASC
 השמיד	תשׁמיד	V;3;SG;FUT;FEM
-השמיד	תשׁמידו	V;2;PL;FUT:MASC
+השמיד	תשׁמידו	V;2;PL;FUT;MASC
 השמיד	תשׁמידי	V;2;SG;FUT;FEM
 השפיע	אשׁפיע	V;1;SG;FUT
 השפיע	השׁפיע	V;3;SG;PST;MASC
@@ -4054,7 +4054,7 @@
 השפיע	נשׁפיע	V;1;PL;FUT
 השפיע	תשׁפיע	V;2;SG;FUT;MASC
 השפיע	תשׁפיע	V;3;SG;FUT;FEM
-השפיע	תשׁפיעו	V;2;PL;FUT:MASC
+השפיע	תשׁפיעו	V;2;PL;FUT;MASC
 השפיע	תשׁפיעי	V;2;SG;FUT;FEM
 השפיע	תשׁפענה	V;2;PL;FUT;FEM
 השפיע	תשׁפענה	V;3;PL;FUT;FEM
@@ -4082,7 +4082,7 @@
 התאבד	נתאבד	V;1;PL;FUT
 התאבד	תתאבד	V;2;SG;FUT;MASC
 התאבד	תתאבד	V;3;SG;FUT;FEM
-התאבד	תתאבדו	V;2;PL;FUT:MASC
+התאבד	תתאבדו	V;2;PL;FUT;MASC
 התאבד	תתאבדי	V;2;SG;FUT;FEM
 התאבד	תתאבדנה	V;2;PL;FUT;FEM
 התאבד	תתאבדנה	V;3;PL;FUT;FEM
@@ -4110,7 +4110,7 @@
 התאבך	נתאבך	V;1;PL;FUT
 התאבך	תתאבך	V;2;SG;FUT;MASC
 התאבך	תתאבך	V;3;SG;FUT;FEM
-התאבך	תתאבכו	V;2;PL;FUT:MASC
+התאבך	תתאבכו	V;2;PL;FUT;MASC
 התאבך	תתאבכי	V;2;SG;FUT;FEM
 התאבך	תתאבכנה	V;2;PL;FUT;FEM
 התאבך	תתאבכנה	V;3;PL;FUT;FEM
@@ -4138,7 +4138,7 @@
 התאבל	נתאבל	V;1;PL;FUT
 התאבל	תתאבל	V;2;SG;FUT;MASC
 התאבל	תתאבל	V;3;SG;FUT;FEM
-התאבל	תתאבלו	V;2;PL;FUT:MASC
+התאבל	תתאבלו	V;2;PL;FUT;MASC
 התאבל	תתאבלי	V;2;SG;FUT;FEM
 התאבל	תתאבלנה	V;2;PL;FUT;FEM
 התאבל	תתאבלנה	V;3;PL;FUT;FEM
@@ -4166,7 +4166,7 @@
 התבטא	נתבטא	V;1;PL;FUT
 התבטא	תתבטא	V;2;SG;FUT;MASC
 התבטא	תתבטא	V;3;SG;FUT;FEM
-התבטא	תתבטאו	V;2;PL;FUT:MASC
+התבטא	תתבטאו	V;2;PL;FUT;MASC
 התבטא	תתבטאי	V;2;SG;FUT;FEM
 התבטא	תתבטאנה	V;2;PL;FUT;FEM
 התבטא	תתבטאנה	V;3;PL;FUT;FEM
@@ -4194,7 +4194,7 @@
 התבשל	נתבשׁל	V;1;PL;FUT
 התבשל	תתבשׁל	V;2;SG;FUT;MASC
 התבשל	תתבשׁל	V;3;SG;FUT;FEM
-התבשל	תתבשׁלו	V;2;PL;FUT:MASC
+התבשל	תתבשׁלו	V;2;PL;FUT;MASC
 התבשל	תתבשׁלי	V;2;SG;FUT;FEM
 התבשל	תתבשׁלנה	V;2;PL;FUT;FEM
 התבשל	תתבשׁלנה	V;3;PL;FUT;FEM
@@ -4222,7 +4222,7 @@
 התגלגל	נתגלגל	V;1;PL;FUT
 התגלגל	תתגלגל	V;2;SG;FUT;MASC
 התגלגל	תתגלגל	V;3;SG;FUT;FEM
-התגלגל	תתגלגלו	V;2;PL;FUT:MASC
+התגלגל	תתגלגלו	V;2;PL;FUT;MASC
 התגלגל	תתגלגלי	V;2;SG;FUT;FEM
 התגלגל	תתגלגלנה	V;2;PL;FUT;FEM
 התגלגל	תתגלגלנה	V;3;PL;FUT;FEM
@@ -4250,7 +4250,7 @@
 התווכח	נתוכח	V;1;PL;FUT
 התווכח	תתוכח	V;2;SG;FUT;MASC
 התווכח	תתוכח	V;3;SG;FUT;FEM
-התווכח	תתוכחו	V;2;PL;FUT:MASC
+התווכח	תתוכחו	V;2;PL;FUT;MASC
 התווכח	תתוכחי	V;2;SG;FUT;FEM
 התווכח	תתוכחנה	V;2;PL;FUT;FEM
 התווכח	תתוכחנה	V;3;PL;FUT;FEM
@@ -4278,7 +4278,7 @@
 התחבא	נתחבא	V;1;PL;FUT
 התחבא	תתחבא	V;2;SG;FUT;MASC
 התחבא	תתחבא	V;3;SG;FUT;FEM
-התחבא	תתחבאו	V;2;PL;FUT:MASC
+התחבא	תתחבאו	V;2;PL;FUT;MASC
 התחבא	תתחבאי	V;2;SG;FUT;FEM
 התחבא	תתחבאנה	V;2;PL;FUT;FEM
 התחבא	תתחבאנה	V;3;PL;FUT;FEM
@@ -4306,7 +4306,7 @@
 התחבר	נתחבר	V;1;PL;FUT
 התחבר	תתחבר	V;2;SG;FUT;MASC
 התחבר	תתחבר	V;3;SG;FUT;FEM
-התחבר	תתחברו	V;2;PL;FUT:MASC
+התחבר	תתחברו	V;2;PL;FUT;MASC
 התחבר	תתחברי	V;2;SG;FUT;FEM
 התחבר	תתחברנה	V;2;PL;FUT;FEM
 התחבר	תתחברנה	V;3;PL;FUT;FEM
@@ -4334,7 +4334,7 @@
 התחמם	נתחמם	V;1;PL;FUT
 התחמם	תתחמם	V;2;SG;FUT;MASC
 התחמם	תתחמם	V;3;SG;FUT;FEM
-התחמם	תתחממו	V;2;PL;FUT:MASC
+התחמם	תתחממו	V;2;PL;FUT;MASC
 התחמם	תתחממי	V;2;SG;FUT;FEM
 התחמם	תתחממנה	V;2;PL;FUT;FEM
 התחמם	תתחממנה	V;3;PL;FUT;FEM
@@ -4362,7 +4362,7 @@
 התחרט	נתחרט	V;1;PL;FUT
 התחרט	תתחרט	V;2;SG;FUT;MASC
 התחרט	תתחרט	V;3;SG;FUT;FEM
-התחרט	תתחרטו	V;2;PL;FUT:MASC
+התחרט	תתחרטו	V;2;PL;FUT;MASC
 התחרט	תתחרטי	V;2;SG;FUT;FEM
 התחרט	תתחרטנה	V;2;PL;FUT;FEM
 התחרט	תתחרטנה	V;3;PL;FUT;FEM
@@ -4392,7 +4392,7 @@
 התכונן	תתכונן	V;3;SG;FUT;FEM
 התכונן	תתכוננה	V;2;PL;FUT;FEM
 התכונן	תתכוננה	V;3;PL;FUT;FEM
-התכונן	תתכוננו	V;2;PL;FUT:MASC
+התכונן	תתכוננו	V;2;PL;FUT;MASC
 התכונן	תתכונני	V;2;SG;FUT;FEM
 התכופף	אתכופף	V;1;SG;FUT
 התכופף	התכופף	V;2;SG;IMP;MASC
@@ -4418,7 +4418,7 @@
 התכופף	נתכופף	V;1;PL;FUT
 התכופף	תתכופף	V;2;SG;FUT;MASC
 התכופף	תתכופף	V;3;SG;FUT;FEM
-התכופף	תתכופפו	V;2;PL;FUT:MASC
+התכופף	תתכופפו	V;2;PL;FUT;MASC
 התכופף	תתכופפי	V;2;SG;FUT;FEM
 התכופף	תתכופפנה	V;2;PL;FUT;FEM
 התכופף	תתכופפנה	V;3;PL;FUT;FEM
@@ -4446,7 +4446,7 @@
 התכנס	נתכנס	V;1;PL;FUT
 התכנס	תתכנס	V;2;SG;FUT;MASC
 התכנס	תתכנס	V;3;SG;FUT;FEM
-התכנס	תתכנסו	V;2;PL;FUT:MASC
+התכנס	תתכנסו	V;2;PL;FUT;MASC
 התכנס	תתכנסי	V;2;SG;FUT;FEM
 התכנס	תתכנסנה	V;2;PL;FUT;FEM
 התכנס	תתכנסנה	V;3;PL;FUT;FEM
@@ -4474,7 +4474,7 @@
 התכתב	נתכתב	V;1;PL;FUT
 התכתב	תתכתב	V;2;SG;FUT;MASC
 התכתב	תתכתב	V;3;SG;FUT;FEM
-התכתב	תתכתבו	V;2;PL;FUT:MASC
+התכתב	תתכתבו	V;2;PL;FUT;MASC
 התכתב	תתכתבי	V;2;SG;FUT;FEM
 התכתב	תתכתבנה	V;2;PL;FUT;FEM
 התכתב	תתכתבנה	V;3;PL;FUT;FEM
@@ -4502,7 +4502,7 @@
 התלבש	נתלבשׁ	V;1;PL;FUT
 התלבש	תתלבשׁ	V;2;SG;FUT;MASC
 התלבש	תתלבשׁ	V;3;SG;FUT;FEM
-התלבש	תתלבשׁו	V;2;PL;FUT:MASC
+התלבש	תתלבשׁו	V;2;PL;FUT;MASC
 התלבש	תתלבשׁי	V;2;SG;FUT;FEM
 התלבש	תתלבשׁנה	V;2;PL;FUT;FEM
 התלבש	תתלבשׁנה	V;3;PL;FUT;FEM
@@ -4532,7 +4532,7 @@
 התלונן	תתלונן	V;3;SG;FUT;FEM
 התלונן	תתלוננה	V;2;PL;FUT;FEM
 התלונן	תתלוננה	V;3;PL;FUT;FEM
-התלונן	תתלוננו	V;2;PL;FUT:MASC
+התלונן	תתלוננו	V;2;PL;FUT;MASC
 התלונן	תתלונני	V;2;SG;FUT;FEM
 התמודד	אתמודד	V;1;SG;FUT
 התמודד	התמודד	V;2;SG;IMP;MASC
@@ -4558,7 +4558,7 @@
 התמודד	נתמודד	V;1;PL;FUT
 התמודד	תתמודד	V;2;SG;FUT;MASC
 התמודד	תתמודד	V;3;SG;FUT;FEM
-התמודד	תתמודדו	V;2;PL;FUT:MASC
+התמודד	תתמודדו	V;2;PL;FUT;MASC
 התמודד	תתמודדי	V;2;SG;FUT;FEM
 התמודד	תתמודדנה	V;2;PL;FUT;FEM
 התמודד	תתמודדנה	V;3;PL;FUT;FEM
@@ -4586,7 +4586,7 @@
 התמכר	נתמכר	V;1;PL;FUT
 התמכר	תתמכר	V;2;SG;FUT;MASC
 התמכר	תתמכר	V;3;SG;FUT;FEM
-התמכר	תתמכרו	V;2;PL;FUT:MASC
+התמכר	תתמכרו	V;2;PL;FUT;MASC
 התמכר	תתמכרי	V;2;SG;FUT;FEM
 התמכר	תתמכרנה	V;2;PL;FUT;FEM
 התמכר	תתמכרנה	V;3;PL;FUT;FEM
@@ -4614,7 +4614,7 @@
 התמלא	נתמלא	V;1;PL;FUT
 התמלא	תתמלא	V;2;SG;FUT;MASC
 התמלא	תתמלא	V;3;SG;FUT;FEM
-התמלא	תתמלאו	V;2;PL;FUT:MASC
+התמלא	תתמלאו	V;2;PL;FUT;MASC
 התמלא	תתמלאי	V;2;SG;FUT;FEM
 התמלא	תתמלאנה	V;2;PL;FUT;FEM
 התמלא	תתמלאנה	V;3;PL;FUT;FEM
@@ -4642,7 +4642,7 @@
 התמצא	נתמצא	V;1;PL;FUT
 התמצא	תתמצא	V;2;SG;FUT;MASC
 התמצא	תתמצא	V;3;SG;FUT;FEM
-התמצא	תתמצאו	V;2;PL;FUT:MASC
+התמצא	תתמצאו	V;2;PL;FUT;MASC
 התמצא	תתמצאי	V;2;SG;FUT;FEM
 התמצא	תתמצאנה	V;2;PL;FUT;FEM
 התמצא	תתמצאנה	V;3;PL;FUT;FEM
@@ -4670,7 +4670,7 @@
 התנבא	נתנבא	V;1;PL;FUT
 התנבא	תתנבא	V;2;SG;FUT;MASC
 התנבא	תתנבא	V;3;SG;FUT;FEM
-התנבא	תתנבאו	V;2;PL;FUT:MASC
+התנבא	תתנבאו	V;2;PL;FUT;MASC
 התנבא	תתנבאי	V;2;SG;FUT;FEM
 התנבא	תתנבאנה	V;2;PL;FUT;FEM
 התנבא	תתנבאנה	V;3;PL;FUT;FEM
@@ -4698,7 +4698,7 @@
 התנגד	נתנגד	V;1;PL;FUT
 התנגד	תתנגד	V;2;SG;FUT;MASC
 התנגד	תתנגד	V;3;SG;FUT;FEM
-התנגד	תתנגדו	V;2;PL;FUT:MASC
+התנגד	תתנגדו	V;2;PL;FUT;MASC
 התנגד	תתנגדי	V;2;SG;FUT;FEM
 התנגד	תתנגדנה	V;2;PL;FUT;FEM
 התנגד	תתנגדנה	V;3;PL;FUT;FEM
@@ -4726,7 +4726,7 @@
 התנדב	נתנדב	V;1;PL;FUT
 התנדב	תתנדב	V;2;SG;FUT;MASC
 התנדב	תתנדב	V;3;SG;FUT;FEM
-התנדב	תתנדבו	V;2;PL;FUT:MASC
+התנדב	תתנדבו	V;2;PL;FUT;MASC
 התנדב	תתנדבי	V;2;SG;FUT;FEM
 התנדב	תתנדבנה	V;2;PL;FUT;FEM
 התנדב	תתנדבנה	V;3;PL;FUT;FEM
@@ -4754,7 +4754,7 @@
 התנזר	נתנזר	V;1;PL;FUT
 התנזר	תתנזר	V;2;SG;FUT;MASC
 התנזר	תתנזר	V;3;SG;FUT;FEM
-התנזר	תתנזרו	V;2;PL;FUT:MASC
+התנזר	תתנזרו	V;2;PL;FUT;MASC
 התנזר	תתנזרי	V;2;SG;FUT;FEM
 התנזר	תתנזרנה	V;2;PL;FUT;FEM
 התנזר	תתנזרנה	V;3;PL;FUT;FEM
@@ -4782,7 +4782,7 @@
 התנכר	נתנכר	V;1;PL;FUT
 התנכר	תתנכר	V;2;SG;FUT;MASC
 התנכר	תתנכר	V;3;SG;FUT;FEM
-התנכר	תתנכרו	V;2;PL;FUT:MASC
+התנכר	תתנכרו	V;2;PL;FUT;MASC
 התנכר	תתנכרי	V;2;SG;FUT;FEM
 התנכר	תתנכרנה	V;2;PL;FUT;FEM
 התנכר	תתנכרנה	V;3;PL;FUT;FEM
@@ -4810,7 +4810,7 @@
 התנפל	נתנפל	V;1;PL;FUT
 התנפל	תתנפל	V;2;SG;FUT;MASC
 התנפל	תתנפל	V;3;SG;FUT;FEM
-התנפל	תתנפלו	V;2;PL;FUT:MASC
+התנפל	תתנפלו	V;2;PL;FUT;MASC
 התנפל	תתנפלי	V;2;SG;FUT;FEM
 התנפל	תתנפלנה	V;2;PL;FUT;FEM
 התנפל	תתנפלנה	V;3;PL;FUT;FEM
@@ -4838,7 +4838,7 @@
 התנצל	נתנצל	V;1;PL;FUT
 התנצל	תתנצל	V;2;SG;FUT;MASC
 התנצל	תתנצל	V;3;SG;FUT;FEM
-התנצל	תתנצלו	V;2;PL;FUT:MASC
+התנצל	תתנצלו	V;2;PL;FUT;MASC
 התנצל	תתנצלי	V;2;SG;FUT;FEM
 התנצל	תתנצלנה	V;2;PL;FUT;FEM
 התנצל	תתנצלנה	V;3;PL;FUT;FEM
@@ -4866,7 +4866,7 @@
 התנקש	נתנקשׁ	V;1;PL;FUT
 התנקש	תתנקשׁ	V;2;SG;FUT;MASC
 התנקש	תתנקשׁ	V;3;SG;FUT;FEM
-התנקש	תתנקשׁו	V;2;PL;FUT:MASC
+התנקש	תתנקשׁו	V;2;PL;FUT;MASC
 התנקש	תתנקשׁי	V;2;SG;FUT;FEM
 התנקש	תתנקשׁנה	V;2;PL;FUT;FEM
 התנקש	תתנקשׁנה	V;3;PL;FUT;FEM
@@ -4894,7 +4894,7 @@
 התנשק	נתנשׁק	V;1;PL;FUT
 התנשק	תתנשׁק	V;2;SG;FUT;MASC
 התנשק	תתנשׁק	V;3;SG;FUT;FEM
-התנשק	תתנשׁקו	V;2;PL;FUT:MASC
+התנשק	תתנשׁקו	V;2;PL;FUT;MASC
 התנשק	תתנשׁקי	V;2;SG;FUT;FEM
 התנשק	תתנשׁקנה	V;2;PL;FUT;FEM
 התנשק	תתנשׁקנה	V;3;PL;FUT;FEM
@@ -4922,7 +4922,7 @@
 התעורר	נתעורר	V;1;PL;FUT
 התעורר	תתעורר	V;2;SG;FUT;MASC
 התעורר	תתעורר	V;3;SG;FUT;FEM
-התעורר	תתעוררו	V;2;PL;FUT:MASC
+התעורר	תתעוררו	V;2;PL;FUT;MASC
 התעורר	תתעוררי	V;2;SG;FUT;FEM
 התעורר	תתעוררנה	V;2;PL;FUT;FEM
 התעורר	תתעוררנה	V;3;PL;FUT;FEM
@@ -4950,7 +4950,7 @@
 התעטף	נתעטף	V;1;PL;FUT
 התעטף	תתעטף	V;2;SG;FUT;MASC
 התעטף	תתעטף	V;3;SG;FUT;FEM
-התעטף	תתעטפו	V;2;PL;FUT:MASC
+התעטף	תתעטפו	V;2;PL;FUT;MASC
 התעטף	תתעטפי	V;2;SG;FUT;FEM
 התעטף	תתעטפנה	V;2;PL;FUT;FEM
 התעטף	תתעטפנה	V;3;PL;FUT;FEM
@@ -4978,7 +4978,7 @@
 התעלל	נתעלל	V;1;PL;FUT
 התעלל	תתעלל	V;2;SG;FUT;MASC
 התעלל	תתעלל	V;3;SG;FUT;FEM
-התעלל	תתעללו	V;2;PL;FUT:MASC
+התעלל	תתעללו	V;2;PL;FUT;MASC
 התעלל	תתעללי	V;2;SG;FUT;FEM
 התעלל	תתעללנה	V;2;PL;FUT;FEM
 התעלל	תתעללנה	V;3;PL;FUT;FEM
@@ -5006,7 +5006,7 @@
 התעלף	נתעלף	V;1;PL;FUT
 התעלף	תתעלף	V;2;SG;FUT;MASC
 התעלף	תתעלף	V;3;SG;FUT;FEM
-התעלף	תתעלפו	V;2;PL;FUT:MASC
+התעלף	תתעלפו	V;2;PL;FUT;MASC
 התעלף	תתעלפי	V;2;SG;FUT;FEM
 התעלף	תתעלפנה	V;2;PL;FUT;FEM
 התעלף	תתעלפנה	V;3;PL;FUT;FEM
@@ -5034,7 +5034,7 @@
 התעצל	נתעצל	V;1;PL;FUT
 התעצל	תתעצל	V;2;SG;FUT;MASC
 התעצל	תתעצל	V;3;SG;FUT;FEM
-התעצל	תתעצלו	V;2;PL;FUT:MASC
+התעצל	תתעצלו	V;2;PL;FUT;MASC
 התעצל	תתעצלי	V;2;SG;FUT;FEM
 התעצל	תתעצלנה	V;2;PL;FUT;FEM
 התעצל	תתעצלנה	V;3;PL;FUT;FEM
@@ -5062,7 +5062,7 @@
 התפוצץ	נתפוצץ	V;1;PL;FUT
 התפוצץ	תתפוצץ	V;2;SG;FUT;MASC
 התפוצץ	תתפוצץ	V;3;SG;FUT;FEM
-התפוצץ	תתפוצצו	V;2;PL;FUT:MASC
+התפוצץ	תתפוצצו	V;2;PL;FUT;MASC
 התפוצץ	תתפוצצי	V;2;SG;FUT;FEM
 התפוצץ	תתפוצצנה	V;2;PL;FUT;FEM
 התפוצץ	תתפוצצנה	V;3;PL;FUT;FEM
@@ -5090,7 +5090,7 @@
 התפלא	נתפלא	V;1;PL;FUT
 התפלא	תתפלא	V;2;SG;FUT;MASC
 התפלא	תתפלא	V;3;SG;FUT;FEM
-התפלא	תתפלאו	V;2;PL;FUT:MASC
+התפלא	תתפלאו	V;2;PL;FUT;MASC
 התפלא	תתפלאי	V;2;SG;FUT;FEM
 התפלא	תתפלאנה	V;2;PL;FUT;FEM
 התפלא	תתפלאנה	V;3;PL;FUT;FEM
@@ -5118,7 +5118,7 @@
 התפלל	נתפלל	V;1;PL;FUT
 התפלל	תתפלל	V;2;SG;FUT;MASC
 התפלל	תתפלל	V;3;SG;FUT;FEM
-התפלל	תתפללו	V;2;PL;FUT:MASC
+התפלל	תתפללו	V;2;PL;FUT;MASC
 התפלל	תתפללי	V;2;SG;FUT;FEM
 התפלל	תתפללנה	V;2;PL;FUT;FEM
 התפלל	תתפללנה	V;3;PL;FUT;FEM
@@ -5146,7 +5146,7 @@
 התפספס	נתפספס	V;1;PL;FUT
 התפספס	תתפספס	V;2;SG;FUT;MASC
 התפספס	תתפספס	V;3;SG;FUT;FEM
-התפספס	תתפספסו	V;2;PL;FUT:MASC
+התפספס	תתפספסו	V;2;PL;FUT;MASC
 התפספס	תתפספסי	V;2;SG;FUT;FEM
 התפספס	תתפספסנה	V;2;PL;FUT;FEM
 התפספס	תתפספסנה	V;3;PL;FUT;FEM
@@ -5174,7 +5174,7 @@
 התפשט	נתפשׁט	V;1;PL;FUT
 התפשט	תתפשׁט	V;2;SG;FUT;MASC
 התפשט	תתפשׁט	V;3;SG;FUT;FEM
-התפשט	תתפשׁטו	V;2;PL;FUT:MASC
+התפשט	תתפשׁטו	V;2;PL;FUT;MASC
 התפשט	תתפשׁטי	V;2;SG;FUT;FEM
 התפשט	תתפשׁטנה	V;2;PL;FUT;FEM
 התפשט	תתפשׁטנה	V;3;PL;FUT;FEM
@@ -5202,7 +5202,7 @@
 התקבל	נתקבל	V;1;PL;FUT
 התקבל	תתקבל	V;2;SG;FUT;MASC
 התקבל	תתקבל	V;3;SG;FUT;FEM
-התקבל	תתקבלו	V;2;PL;FUT:MASC
+התקבל	תתקבלו	V;2;PL;FUT;MASC
 התקבל	תתקבלי	V;2;SG;FUT;FEM
 התקבל	תתקבלנה	V;2;PL;FUT;FEM
 התקבל	תתקבלנה	V;3;PL;FUT;FEM
@@ -5230,7 +5230,7 @@
 התקדם	נתקדם	V;1;PL;FUT
 התקדם	תתקדם	V;2;SG;FUT;MASC
 התקדם	תתקדם	V;3;SG;FUT;FEM
-התקדם	תתקדמו	V;2;PL;FUT:MASC
+התקדם	תתקדמו	V;2;PL;FUT;MASC
 התקדם	תתקדמי	V;2;SG;FUT;FEM
 התקדם	תתקדמנה	V;2;PL;FUT;FEM
 התקדם	תתקדמנה	V;3;PL;FUT;FEM
@@ -5258,7 +5258,7 @@
 התקומם	נתקומם	V;1;PL;FUT
 התקומם	תתקומם	V;2;SG;FUT;MASC
 התקומם	תתקומם	V;3;SG;FUT;FEM
-התקומם	תתקוממו	V;2;PL;FUT:MASC
+התקומם	תתקוממו	V;2;PL;FUT;MASC
 התקומם	תתקוממי	V;2;SG;FUT;FEM
 התקומם	תתקוממנה	V;2;PL;FUT;FEM
 התקומם	תתקוממנה	V;3;PL;FUT;FEM
@@ -5286,7 +5286,7 @@
 התקמט	נתקמט	V;1;PL;FUT
 התקמט	תתקמט	V;2;SG;FUT;MASC
 התקמט	תתקמט	V;3;SG;FUT;FEM
-התקמט	תתקמטו	V;2;PL;FUT:MASC
+התקמט	תתקמטו	V;2;PL;FUT;MASC
 התקמט	תתקמטי	V;2;SG;FUT;FEM
 התקמט	תתקמטנה	V;2;PL;FUT;FEM
 התקמט	תתקמטנה	V;3;PL;FUT;FEM
@@ -5314,7 +5314,7 @@
 התקנא	נתקנא	V;1;PL;FUT
 התקנא	תתקנא	V;2;SG;FUT;MASC
 התקנא	תתקנא	V;3;SG;FUT;FEM
-התקנא	תתקנאו	V;2;PL;FUT:MASC
+התקנא	תתקנאו	V;2;PL;FUT;MASC
 התקנא	תתקנאי	V;2;SG;FUT;FEM
 התקנא	תתקנאנה	V;2;PL;FUT;FEM
 התקנא	תתקנאנה	V;3;PL;FUT;FEM
@@ -5342,7 +5342,7 @@
 התקרב	נתקרב	V;1;PL;FUT
 התקרב	תתקרב	V;2;SG;FUT;MASC
 התקרב	תתקרב	V;3;SG;FUT;FEM
-התקרב	תתקרבו	V;2;PL;FUT:MASC
+התקרב	תתקרבו	V;2;PL;FUT;MASC
 התקרב	תתקרבי	V;2;SG;FUT;FEM
 התקרב	תתקרבנה	V;2;PL;FUT;FEM
 התקרב	תתקרבנה	V;3;PL;FUT;FEM
@@ -5370,7 +5370,7 @@
 התקשר	נתקשר	V;1;PL;FUT
 התקשר	תתקשר	V;2;SG;FUT;MASC
 התקשר	תתקשר	V;3;SG;FUT;FEM
-התקשר	תתקשרו	V;2;PL;FUT:MASC
+התקשר	תתקשרו	V;2;PL;FUT;MASC
 התקשר	תתקשרי	V;2;SG;FUT;FEM
 התקשר	תתקשרנה	V;2;PL;FUT;FEM
 התקשר	תתקשרנה	V;3;PL;FUT;FEM
@@ -5398,7 +5398,7 @@
 התרגז	נתרגז	V;1;PL;FUT
 התרגז	תתרגז	V;2;SG;FUT;MASC
 התרגז	תתרגז	V;3;SG;FUT;FEM
-התרגז	תתרגזו	V;2;PL;FUT:MASC
+התרגז	תתרגזו	V;2;PL;FUT;MASC
 התרגז	תתרגזי	V;2;SG;FUT;FEM
 התרגז	תתרגזנה	V;2;PL;FUT;FEM
 התרגז	תתרגזנה	V;3;PL;FUT;FEM
@@ -5426,7 +5426,7 @@
 התרגל	נתרגל	V;1;PL;FUT
 התרגל	תתרגל	V;2;SG;FUT;MASC
 התרגל	תתרגל	V;3;SG;FUT;FEM
-התרגל	תתרגלו	V;2;PL;FUT:MASC
+התרגל	תתרגלו	V;2;PL;FUT;MASC
 התרגל	תתרגלי	V;2;SG;FUT;FEM
 התרגל	תתרגלנה	V;2;PL;FUT;FEM
 התרגל	תתרגלנה	V;3;PL;FUT;FEM
@@ -5454,7 +5454,7 @@
 התרומם	נתרומם	V;1;PL;FUT
 התרומם	תתרומם	V;2;SG;FUT;MASC
 התרומם	תתרומם	V;3;SG;FUT;FEM
-התרומם	תתרוממו	V;2;PL;FUT:MASC
+התרומם	תתרוממו	V;2;PL;FUT;MASC
 התרומם	תתרוממי	V;2;SG;FUT;FEM
 התרומם	תתרוממנה	V;2;PL;FUT;FEM
 התרומם	תתרוממנה	V;3;PL;FUT;FEM
@@ -5482,7 +5482,7 @@
 התרפא	נתרפא	V;1;PL;FUT
 התרפא	תתרפא	V;2;SG;FUT;MASC
 התרפא	תתרפא	V;3;SG;FUT;FEM
-התרפא	תתרפאו	V;2;PL;FUT:MASC
+התרפא	תתרפאו	V;2;PL;FUT;MASC
 התרפא	תתרפאי	V;2;SG;FUT;FEM
 התרפא	תתרפאנה	V;2;PL;FUT;FEM
 התרפא	תתרפאנה	V;3;PL;FUT;FEM
@@ -5536,7 +5536,7 @@
 זז	נזוז	V;1;PL;FUT
 זז	תזוז	V;2;SG;FUT;MASC
 זז	תזוז	V;3;SG;FUT;FEM
-זז	תזוזו	V;2;PL;FUT:MASC
+זז	תזוזו	V;2;PL;FUT;MASC
 זז	תזוזי	V;2;SG;FUT;FEM
 זז	תזוזנה	V;2;PL;FUT;FEM
 זז	תזוזנה	V;3;PL;FUT;FEM
@@ -5564,7 +5564,7 @@
 זיהה	נזהה	V;1;PL;FUT
 זיהה	תזהה	V;2;SG;FUT;MASC
 זיהה	תזהה	V;3;SG;FUT;FEM
-זיהה	תזהו	V;2;PL;FUT:MASC
+זיהה	תזהו	V;2;PL;FUT;MASC
 זיהה	תזהי	V;2;SG;FUT;FEM
 זיהה	תזהינה	V;2;PL;FUT;FEM
 זיהה	תזהינה	V;3;PL;FUT;FEM
@@ -5594,7 +5594,7 @@
 זיין	תזיין	V;3;SG;FUT;FEM
 זיין	תזיינה	V;2;PL;FUT;FEM
 זיין	תזיינה	V;3;PL;FUT;FEM
-זיין	תזיינו	V;2;PL;FUT:MASC
+זיין	תזיינו	V;2;PL;FUT;MASC
 זיין	תזייני	V;2;SG;FUT;FEM
 זיכרון	הזיכרון	N;SG;DEF
 זיכרון	הזיכרונות	N;PL;DEF
@@ -5646,7 +5646,7 @@
 זכה	נזכה	V;1;PL;FUT
 זכה	תזכה	V;2;SG;FUT;MASC
 זכה	תזכה	V;3;SG;FUT;FEM
-זכה	תזכו	V;2;PL;FUT:MASC
+זכה	תזכו	V;2;PL;FUT;MASC
 זכה	תזכי	V;2;SG;FUT;FEM
 זכה	תזכינה	V;2;PL;FUT;FEM
 זכה	תזכינה	V;3;PL;FUT;FEM
@@ -5676,7 +5676,7 @@
 זכר	תזכור	V;3;SG;FUT;FEM
 זכר	תזכורנה	V;2;PL;FUT;FEM
 זכר	תזכורנה	V;3;PL;FUT;FEM
-זכר	תזכרו	V;2;PL;FUT:MASC
+זכר	תזכרו	V;2;PL;FUT;MASC
 זכר	תזכרי	V;2;SG;FUT;FEM
 זמן	הזמן	N;SG;DEF
 זמן	הזמנים	N;PL;DEF
@@ -5730,7 +5730,7 @@
 זן	תזון	V;3;SG;FUT;FEM
 זן	תזונה	V;2;PL;FUT;FEM
 זן	תזונה	V;3;PL;FUT;FEM
-זן	תזונו	V;2;PL;FUT:MASC
+זן	תזונו	V;2;PL;FUT;MASC
 זן	תזוני	V;2;SG;FUT;FEM
 זנח	אזנח	V;1;SG;FUT
 זנח	זונח	V;SG;PRS;MASC
@@ -5756,7 +5756,7 @@
 זנח	נזנח	V;1;PL;FUT
 זנח	תזנח	V;2;SG;FUT;MASC
 זנח	תזנח	V;3;SG;FUT;FEM
-זנח	תזנחו	V;2;PL;FUT:MASC
+זנח	תזנחו	V;2;PL;FUT;MASC
 זנח	תזנחי	V;2;SG;FUT;FEM
 זנח	תזנחנה	V;2;PL;FUT;FEM
 זנח	תזנחנה	V;3;PL;FUT;FEM
@@ -5810,7 +5810,7 @@
 זעף	נזעף	V;1;PL;FUT
 זעף	תזעף	V;2;SG;FUT;MASC
 זעף	תזעף	V;3;SG;FUT;FEM
-זעף	תזעפו	V;2;PL;FUT:MASC
+זעף	תזעפו	V;2;PL;FUT;MASC
 זעף	תזעפי	V;2;SG;FUT;FEM
 זעף	תזעפנה	V;2;PL;FUT;FEM
 זעף	תזעפנה	V;3;PL;FUT;FEM
@@ -5840,7 +5840,7 @@
 זקף	תזקוף	V;3;SG;FUT;FEM
 זקף	תזקופנה	V;2;PL;FUT;FEM
 זקף	תזקופנה	V;3;PL;FUT;FEM
-זקף	תזקפו	V;2;PL;FUT:MASC
+זקף	תזקפו	V;2;PL;FUT;MASC
 זקף	תזקפי	V;2;SG;FUT;FEM
 זרח	אזרח	V;1;SG;FUT
 זרח	זורח	V;SG;PRS;MASC
@@ -5866,7 +5866,7 @@
 זרח	נזרח	V;1;PL;FUT
 זרח	תזרח	V;2;SG;FUT;MASC
 זרח	תזרח	V;3;SG;FUT;FEM
-זרח	תזרחו	V;2;PL;FUT:MASC
+זרח	תזרחו	V;2;PL;FUT;MASC
 זרח	תזרחי	V;2;SG;FUT;FEM
 זרח	תזרחנה	V;2;PL;FUT;FEM
 זרח	תזרחנה	V;3;PL;FUT;FEM
@@ -5922,7 +5922,7 @@
 זרק	תזרוק	V;3;SG;FUT;FEM
 זרק	תזרוקנה	V;2;PL;FUT;FEM
 זרק	תזרוקנה	V;3;PL;FUT;FEM
-זרק	תזרקו	V;2;PL;FUT:MASC
+זרק	תזרקו	V;2;PL;FUT;MASC
 זרק	תזרקי	V;2;SG;FUT;FEM
 חדר	אחדור	V;1;SG;FUT
 חדר	חדור	V;2;SG;IMP;MASC
@@ -5950,7 +5950,7 @@
 חדר	תחדור	V;3;SG;FUT;FEM
 חדר	תחדורנה	V;2;PL;FUT;FEM
 חדר	תחדורנה	V;3;PL;FUT;FEM
-חדר	תחדרו	V;2;PL;FUT:MASC
+חדר	תחדרו	V;2;PL;FUT;MASC
 חדר	תחדרי	V;2;SG;FUT;FEM
 חווה	החווה	N;SG;DEF
 חווה	החוות	N;PL;DEF
@@ -6002,7 +6002,7 @@
 חולל	נחולל	V;1;PL;FUT
 חולל	תחולל	V;2;SG;FUT;MASC
 חולל	תחולל	V;3;SG;FUT;FEM
-חולל	תחוללו	V;2;PL;FUT:MASC
+חולל	תחוללו	V;2;PL;FUT;MASC
 חולל	תחוללי	V;2;SG;FUT;FEM
 חולל	תחוללנה	V;2;PL;FUT;FEM
 חולל	תחוללנה	V;3;PL;FUT;FEM
@@ -6136,7 +6136,7 @@
 חזק	תחזוק	V;3;SG;FUT;FEM
 חזק	תחזוקנה	V;2;PL;FUT;FEM
 חזק	תחזוקנה	V;3;PL;FUT;FEM
-חזק	תחזקו	V;2;PL;FUT:MASC
+חזק	תחזקו	V;2;PL;FUT;MASC
 חזק	תחזקי	V;2;SG;FUT;FEM
 חזרה	החזרה	N;SG;DEF
 חזרה	החזרות	N;PL;DEF
@@ -6234,7 +6234,7 @@
 חיכה	נחכה	V;1;PL;FUT
 חיכה	תחכה	V;2;SG;FUT;MASC
 חיכה	תחכה	V;3;SG;FUT;FEM
-חיכה	תחכו	V;2;PL;FUT:MASC
+חיכה	תחכו	V;2;PL;FUT;MASC
 חיכה	תחכי	V;2;SG;FUT;FEM
 חיכה	תחכינה	V;2;PL;FUT;FEM
 חיכה	תחכינה	V;3;PL;FUT;FEM
@@ -6263,7 +6263,7 @@
 חילל	נבקר	V;1;PL;FUT
 חילל	תבקר	V;2;SG;FUT;MASC
 חילל	תבקר	V;3;SG;FUT;FEM
-חילל	תבקרו	V;2;PL;FUT:MASC
+חילל	תבקרו	V;2;PL;FUT;MASC
 חילל	תבקרי	V;2;SG;FUT;FEM
 חילל	תבקרנה	V;2;PL;FUT;FEM
 חילל	תבקרנה	V;3;PL;FUT;FEM
@@ -6292,7 +6292,7 @@
 חינך	נחנך	V;1;PL;FUT
 חינך	תחנך	V;2;SG;FUT;MASC
 חינך	תחנך	V;3;SG;FUT;FEM
-חינך	תחנכו	V;2;PL;FUT:MASC
+חינך	תחנכו	V;2;PL;FUT;MASC
 חינך	תחנכי	V;2;SG;FUT;FEM
 חינך	תחנכנה	V;2;PL;FUT;FEM
 חינך	תחנכנה	V;3;PL;FUT;FEM
@@ -6320,13 +6320,13 @@
 חיקה	נחקה	V;1;PL;FUT
 חיקה	תחקה	V;2;SG;FUT;MASC
 חיקה	תחקה	V;3;SG;FUT;FEM
-חיקה	תחקו	V;2;PL;FUT:MASC
+חיקה	תחקו	V;2;PL;FUT;MASC
 חיקה	תחקי	V;2;SG;FUT;FEM
 חיקה	תחקינה	V;2;PL;FUT;FEM
 חיקה	תחקינה	V;3;PL;FUT;FEM
 חי	תחיה	V;2;SG;FUT;MASC
 חי	תחיה	V;3;SG;FUT;FEM
-חי	תחיו	V;2;PL;FUT:MASC
+חי	תחיו	V;2;PL;FUT;MASC
 חי	תחיי	V;2;SG;FUT;FEM
 חי	תחיינה	V;2;PL;FUT;FEM
 חי	תחיינה	V;3;PL;FUT;FEM
@@ -6382,7 +6382,7 @@
 חלק	תחלוק	V;3;SG;FUT;FEM
 חלק	תחלוקנה	V;2;PL;FUT;FEM
 חלק	תחלוקנה	V;3;PL;FUT;FEM
-חלק	תחלקו	V;2;PL;FUT:MASC
+חלק	תחלקו	V;2;PL;FUT;MASC
 חלק	תחלקי	V;2;SG;FUT;FEM
 חמות	החמות	N;SG;DEF
 חמות	החמיות	N;PL;DEF
@@ -6512,7 +6512,7 @@
 חס	נחוס	V;1;PL;FUT
 חס	תחוס	V;2;SG;FUT;MASC
 חס	תחוס	V;3;SG;FUT;FEM
-חס	תחוסו	V;2;PL;FUT:MASC
+חס	תחוסו	V;2;PL;FUT;MASC
 חס	תחוסי	V;2;SG;FUT;FEM
 חס	תחוסנה	V;2;PL;FUT;FEM
 חס	תחוסנה	V;3;PL;FUT;FEM
@@ -6542,7 +6542,7 @@
 חפר	תחפור	V;3;SG;FUT;FEM
 חפר	תחפורנה	V;2;PL;FUT;FEM
 חפר	תחפורנה	V;3;PL;FUT;FEM
-חפר	תחפרו	V;2;PL;FUT:MASC
+חפר	תחפרו	V;2;PL;FUT;MASC
 חפר	תחפרי	V;2;SG;FUT;FEM
 טבע	אטבע	V;1;SG;FUT
 טבע	טבע	V;2;SG;IMP;MASC
@@ -6568,7 +6568,7 @@
 טבע	נטבע	V;1;PL;FUT
 טבע	תטבע	V;2;SG;FUT;MASC
 טבע	תטבע	V;3;SG;FUT;FEM
-טבע	תטבעו	V;2;PL;FUT:MASC
+טבע	תטבעו	V;2;PL;FUT;MASC
 טבע	תטבעי	V;2;SG;FUT;FEM
 טבע	תטבענה	V;2;PL;FUT;FEM
 טבע	תטבענה	V;3;PL;FUT;FEM
@@ -6591,7 +6591,7 @@
 טופל	נטופל	V;1;PL;FUT
 טופל	תטופל	V;2;SG;FUT;MASC
 טופל	תטופל	V;3;SG;FUT;FEM
-טופל	תטופלו	V;2;PL;FUT:MASC
+טופל	תטופלו	V;2;PL;FUT;MASC
 טופל	תטופלי	V;2;SG;FUT;FEM
 טופל	תטופלנה	V;2;PL;FUT;FEM
 טופל	תטופלנה	V;3;PL;FUT;FEM
@@ -6619,7 +6619,7 @@
 טחן	נטחן	V;1;PL;FUT
 טחן	תטחן	V;2;SG;FUT;MASC
 טחן	תטחן	V;3;SG;FUT;FEM
-טחן	תטחנו	V;2;PL;FUT:MASC
+טחן	תטחנו	V;2;PL;FUT;MASC
 טחן	תטחני	V;2;SG;FUT;FEM
 טחן	תטחננה	V;2;PL;FUT;FEM
 טחן	תטחננה	V;3;PL;FUT;FEM
@@ -6649,7 +6649,7 @@
 טיגן	תטגן	V;3;SG;FUT;FEM
 טיגן	תטגנה	V;2;PL;FUT;FEM
 טיגן	תטגנה	V;3;PL;FUT;FEM
-טיגן	תטגנו	V;2;PL;FUT:MASC
+טיגן	תטגנו	V;2;PL;FUT;MASC
 טיגן	תטגני	V;2;SG;FUT;FEM
 טילטל	אטלטל	V;1;SG;FUT
 טילטל	טילטל	V;3;SG;PST;MASC
@@ -6675,7 +6675,7 @@
 טילטל	נטלטל	V;1;PL;FUT
 טילטל	תטלטל	V;2;SG;FUT;MASC
 טילטל	תטלטל	V;3;SG;FUT;FEM
-טילטל	תטלטלו	V;2;PL;FUT:MASC
+טילטל	תטלטלו	V;2;PL;FUT;MASC
 טילטל	תטלטלי	V;2;SG;FUT;FEM
 טילטל	תטלטלנה	V;2;PL;FUT;FEM
 טילטל	תטלטלנה	V;3;PL;FUT;FEM
@@ -6703,7 +6703,7 @@
 טיפס	נטפס	V;1;PL;FUT
 טיפס	תטפס	V;2;SG;FUT;MASC
 טיפס	תטפס	V;3;SG;FUT;FEM
-טיפס	תטפסו	V;2;PL;FUT:MASC
+טיפס	תטפסו	V;2;PL;FUT;MASC
 טיפס	תטפסי	V;2;SG;FUT;FEM
 טיפס	תטפסנה	V;2;PL;FUT;FEM
 טיפס	תטפסנה	V;3;PL;FUT;FEM
@@ -6757,7 +6757,7 @@
 טס	נטוס	V;1;PL;FUT
 טס	תטוס	V;2;SG;FUT;MASC
 טס	תטוס	V;3;SG;FUT;FEM
-טס	תטוסו	V;2;PL;FUT:MASC
+טס	תטוסו	V;2;PL;FUT;MASC
 טס	תטוסי	V;2;SG;FUT;FEM
 טס	תטוסנה	V;2;PL;FUT;FEM
 טס	תטוסנה	V;3;PL;FUT;FEM
@@ -6785,7 +6785,7 @@
 טעה	נטעה	V;1;PL;FUT
 טעה	תטעה	V;2;SG;FUT;MASC
 טעה	תטעה	V;3;SG;FUT;FEM
-טעה	תטעו	V;2;PL;FUT:MASC
+טעה	תטעו	V;2;PL;FUT;MASC
 טעה	תטעי	V;2;SG;FUT;FEM
 טעה	תטעינה	V;2;PL;FUT;FEM
 טעה	תטעינה	V;3;PL;FUT;FEM
@@ -6867,7 +6867,7 @@
 טרף	תטרוף	V;3;SG;FUT;FEM
 טרף	תטרופנה	V;2;PL;FUT;FEM
 טרף	תטרופנה	V;3;PL;FUT;FEM
-טרף	תטרפו	V;2;PL;FUT:MASC
+טרף	תטרפו	V;2;PL;FUT;MASC
 טרף	תטרפי	V;2;SG;FUT;FEM
 ידע	אדע	V;1;SG;FUT
 ידע	דע	V;2;SG;IMP;MASC
@@ -6893,7 +6893,7 @@
 ידע	נדע	V;1;PL;FUT
 ידע	תדע	V;2;SG;FUT;MASC
 ידע	תדע	V;3;SG;FUT;FEM
-ידע	תדעו	V;2;PL;FUT:MASC
+ידע	תדעו	V;2;PL;FUT;MASC
 ידע	תדעי	V;2;SG;FUT;FEM
 ידע	תדענה	V;2;PL;FUT;FEM
 ידע	תדענה	V;3;PL;FUT;FEM
@@ -6973,7 +6973,7 @@
 ייחד	ניחד	V;1;PL;FUT
 ייחד	תיחד	V;2;SG;FUT;MASC
 ייחד	תיחד	V;3;SG;FUT;FEM
-ייחד	תיחדו	V;2;PL;FUT:MASC
+ייחד	תיחדו	V;2;PL;FUT;MASC
 ייחד	תיחדי	V;2;SG;FUT;FEM
 ייחד	תיחדנה	V;2;PL;FUT;FEM
 ייחד	תיחדנה	V;3;PL;FUT;FEM
@@ -6997,7 +6997,7 @@
 יכול	נוכל	V;1;PL;FUT
 יכול	תוכל	V;2;SG;FUT;MASC
 יכול	תוכל	V;3;SG;FUT;FEM
-יכול	תוכלו	V;2;PL;FUT:MASC
+יכול	תוכלו	V;2;PL;FUT;MASC
 יכול	תוכלי	V;2;SG;FUT;FEM
 יכול	תוכלנה	V;2;PL;FUT;FEM
 יכול	תוכלנה	V;3;PL;FUT;FEM
@@ -7025,7 +7025,7 @@
 ירה	נירה	V;1;PL;FUT
 ירה	תירה	V;2;SG;FUT;MASC
 ירה	תירה	V;3;SG;FUT;FEM
-ירה	תירו	V;2;PL;FUT:MASC
+ירה	תירו	V;2;PL;FUT;MASC
 ירה	תירי	V;2;SG;FUT;FEM
 ירה	תירינה	V;2;PL;FUT;FEM
 ירה	תירינה	V;3;PL;FUT;FEM
@@ -7100,7 +7100,7 @@
 כובה	נכובה	V;1;PL;FUT
 כובה	תכובה	V;2;SG;FUT;MASC
 כובה	תכובה	V;3;SG;FUT;FEM
-כובה	תכובו	V;2;PL;FUT:MASC
+כובה	תכובו	V;2;PL;FUT;MASC
 כובה	תכובי	V;2;SG;FUT;FEM
 כובה	תכובינה	V;2;PL;FUT;FEM
 כובה	תכובינה	V;3;PL;FUT;FEM
@@ -7149,7 +7149,7 @@
 כונס	נכונס	V;1;PL;FUT
 כונס	תכונס	V;2;SG;FUT;MASC
 כונס	תכונס	V;3;SG;FUT;FEM
-כונס	תכונסו	V;2;PL;FUT:MASC
+כונס	תכונסו	V;2;PL;FUT;MASC
 כונס	תכונסי	V;2;SG;FUT;FEM
 כונס	תכונסנה	V;2;PL;FUT;FEM
 כונס	תכונסנה	V;3;PL;FUT;FEM
@@ -7177,7 +7177,7 @@
 כיבד	נכבד	V;1;PL;FUT
 כיבד	תכבד	V;2;SG;FUT;MASC
 כיבד	תכבד	V;3;SG;FUT;FEM
-כיבד	תכבדו	V;2;PL;FUT:MASC
+כיבד	תכבדו	V;2;PL;FUT;MASC
 כיבד	תכבדי	V;2;SG;FUT;FEM
 כיבד	תכבדנה	V;2;PL;FUT;FEM
 כיבד	תכבדנה	V;3;PL;FUT;FEM
@@ -7205,7 +7205,7 @@
 כיבה	נכבה	V;1;PL;FUT
 כיבה	תכבה	V;2;SG;FUT;MASC
 כיבה	תכבה	V;3;SG;FUT;FEM
-כיבה	תכבו	V;2;PL;FUT:MASC
+כיבה	תכבו	V;2;PL;FUT;MASC
 כיבה	תכבי	V;2;SG;FUT;FEM
 כיבה	תכבינה	V;2;PL;FUT;FEM
 כיבה	תכבינה	V;3;PL;FUT;FEM
@@ -7233,7 +7233,7 @@
 כיבס	נכבס	V;1;PL;FUT
 כיבס	תכבס	V;2;SG;FUT;MASC
 כיבס	תכבס	V;3;SG;FUT;FEM
-כיבס	תכבסו	V;2;PL;FUT:MASC
+כיבס	תכבסו	V;2;PL;FUT;MASC
 כיבס	תכבסי	V;2;SG;FUT;FEM
 כיבס	תכבסנה	V;2;PL;FUT;FEM
 כיבס	תכבסנה	V;3;PL;FUT;FEM
@@ -7287,7 +7287,7 @@
 כיסה	נכסה	V;1;PL;FUT
 כיסה	תכסה	V;2;SG;FUT;MASC
 כיסה	תכסה	V;3;SG;FUT;FEM
-כיסה	תכסו	V;2;PL;FUT:MASC
+כיסה	תכסו	V;2;PL;FUT;MASC
 כיסה	תכסי	V;2;SG;FUT;FEM
 כיסה	תכסינה	V;2;PL;FUT;FEM
 כיסה	תכסינה	V;3;PL;FUT;FEM
@@ -7395,7 +7395,7 @@
 כפל	תכפול	V;3;SG;FUT;FEM
 כפל	תכפולנה	V;2;PL;FUT;FEM
 כפל	תכפולנה	V;3;PL;FUT;FEM
-כפל	תכפלו	V;2;PL;FUT:MASC
+כפל	תכפלו	V;2;PL;FUT;MASC
 כפל	תכפלי	V;2;SG;FUT;FEM
 כרע	אכרע	V;1;SG;FUT
 כרע	יכרע	V;3;SG;FUT;MASC
@@ -7421,7 +7421,7 @@
 כרע	נכרע	V;1;PL;FUT
 כרע	תכרע	V;2;SG;FUT;MASC
 כרע	תכרע	V;3;SG;FUT;FEM
-כרע	תכרעו	V;2;PL;FUT:MASC
+כרע	תכרעו	V;2;PL;FUT;MASC
 כרע	תכרעי	V;2;SG;FUT;FEM
 כרע	תכרענה	V;2;PL;FUT;FEM
 כרע	תכרענה	V;3;PL;FUT;FEM
@@ -7447,7 +7447,7 @@
 כתב	כתובנה	V;2;PL;IMP;FEM
 כתב	לכתוב	V;NFIN
 כתב	נכתוב	V;1;PL;FUT
-כתב	תכתבו	V;2;PL;FUT:MASC
+כתב	תכתבו	V;2;PL;FUT;MASC
 כתב	תכתבי	V;2;SG;FUT;FEM
 כתב	תכתוב	V;2;SG;FUT;MASC
 כתב	תכתוב	V;3;SG;FUT;FEM
@@ -7529,7 +7529,7 @@
 לבש	נלבשׁ	V;1;PL;FUT
 לבש	תלבשׁ	V;2;SG;FUT;MASC
 לבש	תלבשׁ	V;3;SG;FUT;FEM
-לבש	תלבשׁו	V;2;PL;FUT:MASC
+לבש	תלבשׁו	V;2;PL;FUT;MASC
 לבש	תלבשׁי	V;2;SG;FUT;FEM
 לבש	תלבשׁנה	V;2;PL;FUT;FEM
 לבש	תלבשׁנה	V;3;PL;FUT;FEM
@@ -7552,7 +7552,7 @@
 לוקק	נלוקק	V;1;PL;FUT
 לוקק	תלוקק	V;2;SG;FUT;MASC
 לוקק	תלוקק	V;3;SG;FUT;FEM
-לוקק	תלוקקו	V;2;PL;FUT:MASC
+לוקק	תלוקקו	V;2;PL;FUT;MASC
 לוקק	תלוקקי	V;2;SG;FUT;FEM
 לוקק	תלוקקנה	V;2;PL;FUT;FEM
 לוקק	תלוקקנה	V;3;PL;FUT;FEM
@@ -7580,7 +7580,7 @@
 לחש	נלחשׁ	V;1;PL;FUT
 לחש	תלחשׁ	V;2;SG;FUT;MASC
 לחש	תלחשׁ	V;3;SG;FUT;FEM
-לחש	תלחשׁו	V;2;PL;FUT:MASC
+לחש	תלחשׁו	V;2;PL;FUT;MASC
 לחש	תלחשׁי	V;2;SG;FUT;FEM
 לחש	תלחשׁנה	V;2;PL;FUT;FEM
 לחש	תלחשׁנה	V;3;PL;FUT;FEM
@@ -7610,7 +7610,7 @@
 ליבן	תלבן	V;3;SG;FUT;FEM
 ליבן	תלבנה	V;2;PL;FUT;FEM
 ליבן	תלבנה	V;3;PL;FUT;FEM
-ליבן	תלבנו	V;2;PL;FUT:MASC
+ליבן	תלבנו	V;2;PL;FUT;MASC
 ליבן	תלבני	V;2;SG;FUT;FEM
 ליטף	אלטף	V;1;SG;FUT
 ליטף	ילטף	V;3;SG;FUT;MASC
@@ -7636,7 +7636,7 @@
 ליטף	נלטף	V;1;PL;FUT
 ליטף	תלטף	V;2;SG;FUT;MASC
 ליטף	תלטף	V;3;SG;FUT;FEM
-ליטף	תלטפו	V;2;PL;FUT:MASC
+ליטף	תלטפו	V;2;PL;FUT;MASC
 ליטף	תלטפי	V;2;SG;FUT;FEM
 ליטף	תלטפנה	V;2;PL;FUT;FEM
 ליטף	תלטפנה	V;3;PL;FUT;FEM
@@ -7664,7 +7664,7 @@
 לימד	נלמד	V;1;PL;FUT
 לימד	תלמד	V;2;SG;FUT;MASC
 לימד	תלמד	V;3;SG;FUT;FEM
-לימד	תלמדו	V;2;PL;FUT:MASC
+לימד	תלמדו	V;2;PL;FUT;MASC
 לימד	תלמדי	V;2;SG;FUT;FEM
 לימד	תלמדנה	V;2;PL;FUT;FEM
 לימד	תלמדנה	V;3;PL;FUT;FEM
@@ -7692,7 +7692,7 @@
 ליקק	נלקק	V;1;PL;FUT
 ליקק	תלקק	V;2;SG;FUT;MASC
 ליקק	תלקק	V;3;SG;FUT;FEM
-ליקק	תלקקו	V;2;PL;FUT:MASC
+ליקק	תלקקו	V;2;PL;FUT;MASC
 ליקק	תלקקי	V;2;SG;FUT;FEM
 ליקק	תלקקנה	V;2;PL;FUT;FEM
 ליקק	תלקקנה	V;3;PL;FUT;FEM
@@ -7720,7 +7720,7 @@
 לקה	נלקה	V;1;PL;FUT
 לקה	תלקה	V;2;SG;FUT;MASC
 לקה	תלקה	V;3;SG;FUT;FEM
-לקה	תלקו	V;2;PL;FUT:MASC
+לקה	תלקו	V;2;PL;FUT;MASC
 לקה	תלקי	V;2;SG;FUT;FEM
 לקה	תלקינה	V;2;PL;FUT;FEM
 לקה	תלקינה	V;3;PL;FUT;FEM
@@ -7928,7 +7928,7 @@
 מדד	מודדים	V;PL;PRS;MASC
 מדד	מודדת	V;SG;PRS;FEM
 מדד	נמדוד	V;1;PL;FUT
-מדד	תמדדו	V;2;PL;FUT:MASC
+מדד	תמדדו	V;2;PL;FUT;MASC
 מדד	תמדדי	V;2;SG;FUT;FEM
 מדד	תמדוד	V;2;SG;FUT;MASC
 מדד	תמדוד	V;3;SG;FUT;FEM
@@ -7979,7 +7979,7 @@
 מוזג	נמוזג	V;1;PL;FUT
 מוזג	תמוזג	V;2;SG;FUT;MASC
 מוזג	תמוזג	V;3;SG;FUT;FEM
-מוזג	תמוזגו	V;2;PL;FUT:MASC
+מוזג	תמוזגו	V;2;PL;FUT;MASC
 מוזג	תמוזגי	V;2;SG;FUT;FEM
 מוזג	תמוזגנה	V;2;PL;FUT;FEM
 מוזג	תמוזגנה	V;3;PL;FUT;FEM
@@ -8007,7 +8007,7 @@
 מוטט	נמוטט	V;1;PL;FUT
 מוטט	תמוטט	V;2;SG;FUT;MASC
 מוטט	תמוטט	V;3;SG;FUT;FEM
-מוטט	תמוטטו	V;2;PL;FUT:MASC
+מוטט	תמוטטו	V;2;PL;FUT;MASC
 מוטט	תמוטטי	V;2;SG;FUT;FEM
 מוטט	תמוטטנה	V;2;PL;FUT;FEM
 מוטט	תמוטטנה	V;3;PL;FUT;FEM
@@ -8030,7 +8030,7 @@
 מולא	נמולא	V;1;PL;FUT
 מולא	תמולא	V;2;SG;FUT;MASC
 מולא	תמולא	V;3;SG;FUT;FEM
-מולא	תמולאו	V;2;PL;FUT:MASC
+מולא	תמולאו	V;2;PL;FUT;MASC
 מולא	תמולאי	V;2;SG;FUT;FEM
 מולא	תמולאנה	V;2;PL;FUT;FEM
 מולא	תמולאנה	V;3;PL;FUT;FEM
@@ -8079,7 +8079,7 @@
 מוקש	נמוקש	V;1;PL;FUT
 מוקש	תמוקש	V;2;SG;FUT;MASC
 מוקש	תמוקש	V;3;SG;FUT;FEM
-מוקש	תמוקשו	V;2;PL;FUT:MASC
+מוקש	תמוקשו	V;2;PL;FUT;MASC
 מוקש	תמוקשי	V;2;SG;FUT;FEM
 מוקש	תמוקשנה	V;2;PL;FUT;FEM
 מוקש	תמוקשנה	V;3;PL;FUT;FEM
@@ -8185,7 +8185,7 @@
 מיזג	נמזג	V;1;PL;FUT
 מיזג	תמזג	V;2;SG;FUT;MASC
 מיזג	תמזג	V;3;SG;FUT;FEM
-מיזג	תמזגו	V;2;PL;FUT:MASC
+מיזג	תמזגו	V;2;PL;FUT;MASC
 מיזג	תמזגי	V;2;SG;FUT;FEM
 מיזג	תמזגנה	V;2;PL;FUT;FEM
 מיזג	תמזגנה	V;3;PL;FUT;FEM
@@ -8213,7 +8213,7 @@
 מיפה	נמפה	V;1;PL;FUT
 מיפה	תמפה	V;2;SG;FUT;MASC
 מיפה	תמפה	V;3;SG;FUT;FEM
-מיפה	תמפו	V;2;PL;FUT:MASC
+מיפה	תמפו	V;2;PL;FUT;MASC
 מיפה	תמפי	V;2;SG;FUT;FEM
 מיפה	תמפינה	V;2;PL;FUT;FEM
 מיפה	תמפינה	V;3;PL;FUT;FEM
@@ -8243,7 +8243,7 @@
 מכר	תמכור	V;3;SG;FUT;FEM
 מכר	תמכורנה	V;2;PL;FUT;FEM
 מכר	תמכורנה	V;3;PL;FUT;FEM
-מכר	תמכרו	V;2;PL;FUT:MASC
+מכר	תמכרו	V;2;PL;FUT;MASC
 מכר	תמכרי	V;2;SG;FUT;FEM
 מכשיר	המכשׁיר	N;SG;DEF
 מכשיר	המכשׁירים	N;PL;DEF
@@ -8399,7 +8399,7 @@
 מנע	נמנע	V;1;PL;FUT
 מנע	תמנע	V;2;SG;FUT;MASC
 מנע	תמנע	V;3;SG;FUT;FEM
-מנע	תמנעו	V;2;PL;FUT:MASC
+מנע	תמנעו	V;2;PL;FUT;MASC
 מנע	תמנעי	V;2;SG;FUT;FEM
 מנע	תמנענה	V;2;PL;FUT;FEM
 מנע	תמנענה	V;3;PL;FUT;FEM
@@ -8453,7 +8453,7 @@
 מצא	נמצא	V;1;PL;FUT
 מצא	תמצא	V;2;SG;FUT;MASC
 מצא	תמצא	V;3;SG;FUT;FEM
-מצא	תמצאו	V;2;PL;FUT:MASC
+מצא	תמצאו	V;2;PL;FUT;MASC
 מצא	תמצאי	V;2;SG;FUT;FEM
 מצא	תמצאנה	V;2;PL;FUT;FEM
 מצא	תמצאנה	V;3;PL;FUT;FEM
@@ -8509,7 +8509,7 @@
 מצץ	תמצוץ	V;3;SG;FUT;FEM
 מצץ	תמצוצנה	V;2;PL;FUT;FEM
 מצץ	תמצוצנה	V;3;PL;FUT;FEM
-מצץ	תמצצו	V;2;PL;FUT:MASC
+מצץ	תמצצו	V;2;PL;FUT;MASC
 מצץ	תמצצי	V;2;SG;FUT;FEM
 מקהלה	המקהלה	N;SG;DEF
 מקהלה	המקהלות	N;PL;DEF
@@ -8585,7 +8585,7 @@
 מרד	מרוד	V;2;SG;IMP;MASC
 מרד	מרודנה	V;2;PL;IMP;FEM
 מרד	נמרוד	V;1;PL;FUT
-מרד	תמרדו	V;2;PL;FUT:MASC
+מרד	תמרדו	V;2;PL;FUT;MASC
 מרד	תמרדי	V;2;SG;FUT;FEM
 מרד	תמרוד	V;2;SG;FUT;MASC
 מרד	תמרוד	V;3;SG;FUT;FEM
@@ -8615,7 +8615,7 @@
 מרח	נמרח	V;1;PL;FUT
 מרח	תמרח	V;2;SG;FUT;MASC
 מרח	תמרח	V;3;SG;FUT;FEM
-מרח	תמרחו	V;2;PL;FUT:MASC
+מרח	תמרחו	V;2;PL;FUT;MASC
 מרח	תמרחי	V;2;SG;FUT;FEM
 מרח	תמרחנה	V;2;PL;FUT;FEM
 מרח	תמרחנה	V;3;PL;FUT;FEM
@@ -8669,7 +8669,7 @@
 משח	נמשׁח	V;1;PL;FUT
 משח	תמשׁח	V;2;SG;FUT;MASC
 משח	תמשׁח	V;3;SG;FUT;FEM
-משח	תמשׁחו	V;2;PL;FUT:MASC
+משח	תמשׁחו	V;2;PL;FUT;MASC
 משח	תמשׁחי	V;2;SG;FUT;FEM
 משח	תמשׁחנה	V;2;PL;FUT;FEM
 משח	תמשׁחנה	V;3;PL;FUT;FEM
@@ -8725,7 +8725,7 @@
 משך	תמשוך	V;3;SG;FUT;FEM
 משך	תמשוכנה	V;2;PL;FUT;FEM
 משך	תמשוכנה	V;3;PL;FUT;FEM
-משך	תמשׁכו	V;2;PL;FUT:MASC
+משך	תמשׁכו	V;2;PL;FUT;MASC
 משך	תמשׁכי	V;2;SG;FUT;FEM
 משפחה	המשׁפחה	N;SG;DEF
 משפחה	המשׁפחות	N;PL;DEF
@@ -8777,7 +8777,7 @@
 מת	נמות	V;1;PL;FUT
 מת	תמות	V;2;SG;FUT;MASC
 מת	תמות	V;3;SG;FUT;FEM
-מת	תמותו	V;2;PL;FUT:MASC
+מת	תמותו	V;2;PL;FUT;MASC
 מת	תמותי	V;2;SG;FUT;FEM
 מת	תמתנה	V;2;PL;FUT;FEM
 מת	תמתנה	V;3;PL;FUT;FEM
@@ -8805,7 +8805,7 @@
 נאבק	נאבקתן	V;2;PL;PST;FEM
 נאבק	תאבק	V;2;SG;FUT;MASC
 נאבק	תאבק	V;3;SG;FUT;FEM
-נאבק	תאבקו	V;2;PL;FUT:MASC
+נאבק	תאבקו	V;2;PL;FUT;MASC
 נאבק	תאבקי	V;2;SG;FUT;FEM
 נאבק	תאבקנה	V;2;PL;FUT;FEM
 נאבק	תאבקנה	V;3;PL;FUT;FEM
@@ -8833,7 +8833,7 @@
 נאגר	נאגרתן	V;2;PL;PST;FEM
 נאגר	תאגר	V;2;SG;FUT;MASC
 נאגר	תאגר	V;3;SG;FUT;FEM
-נאגר	תאגרו	V;2;PL;FUT:MASC
+נאגר	תאגרו	V;2;PL;FUT;MASC
 נאגר	תאגרי	V;2;SG;FUT;FEM
 נאגר	תאגרנה	V;2;PL;FUT;FEM
 נאגר	תאגרנה	V;3;PL;FUT;FEM
@@ -8861,7 +8861,7 @@
 נאהב	נאהבתן	V;2;PL;PST;FEM
 נאהב	תאהב	V;2;SG;FUT;MASC
 נאהב	תאהב	V;3;SG;FUT;FEM
-נאהב	תאהבו	V;2;PL;FUT:MASC
+נאהב	תאהבו	V;2;PL;FUT;MASC
 נאהב	תאהבי	V;2;SG;FUT;FEM
 נאהב	תאהבנה	V;2;PL;FUT;FEM
 נאהב	תאהבנה	V;3;PL;FUT;FEM
@@ -8889,7 +8889,7 @@
 נאהד	נאהדתן	V;2;PL;PST;FEM
 נאהד	תאהד	V;2;SG;FUT;MASC
 נאהד	תאהד	V;3;SG;FUT;FEM
-נאהד	תאהדו	V;2;PL;FUT:MASC
+נאהד	תאהדו	V;2;PL;FUT;MASC
 נאהד	תאהדי	V;2;SG;FUT;FEM
 נאהד	תאהדנה	V;2;PL;FUT;FEM
 נאהד	תאהדנה	V;3;PL;FUT;FEM
@@ -8917,7 +8917,7 @@
 נאחז	נאחזתן	V;2;PL;PST;FEM
 נאחז	תאחז	V;2;SG;FUT;MASC
 נאחז	תאחז	V;3;SG;FUT;FEM
-נאחז	תאחזו	V;2;PL;FUT:MASC
+נאחז	תאחזו	V;2;PL;FUT;MASC
 נאחז	תאחזי	V;2;SG;FUT;FEM
 נאחז	תאחזנה	V;2;PL;FUT;FEM
 נאחז	תאחזנה	V;3;PL;FUT;FEM
@@ -8945,7 +8945,7 @@
 נאכל	נאכלתן	V;2;PL;PST;FEM
 נאכל	תאכל	V;2;SG;FUT;MASC
 נאכל	תאכל	V;3;SG;FUT;FEM
-נאכל	תאכלו	V;2;PL;FUT:MASC
+נאכל	תאכלו	V;2;PL;FUT;MASC
 נאכל	תאכלי	V;2;SG;FUT;FEM
 נאכל	תאכלנה	V;2;PL;FUT;FEM
 נאכל	תאכלנה	V;3;PL;FUT;FEM
@@ -8973,7 +8973,7 @@
 נאכף	נאכפתן	V;2;PL;PST;FEM
 נאכף	תאכף	V;2;SG;FUT;MASC
 נאכף	תאכף	V;3;SG;FUT;FEM
-נאכף	תאכפו	V;2;PL;FUT:MASC
+נאכף	תאכפו	V;2;PL;FUT;MASC
 נאכף	תאכפי	V;2;SG;FUT;FEM
 נאכף	תאכפנה	V;2;PL;FUT;FEM
 נאכף	תאכפנה	V;3;PL;FUT;FEM
@@ -9001,7 +9001,7 @@
 נבדק	נבדקתן	V;2;PL;PST;FEM
 נבדק	תבדק	V;2;SG;FUT;MASC
 נבדק	תבדק	V;3;SG;FUT;FEM
-נבדק	תבדקו	V;2;PL;FUT:MASC
+נבדק	תבדקו	V;2;PL;FUT;MASC
 נבדק	תבדקי	V;2;SG;FUT;FEM
 נבדק	תבדקנה	V;2;PL;FUT;FEM
 נבדק	תבדקנה	V;3;PL;FUT;FEM
@@ -9029,7 +9029,7 @@
 נבח	ננבח	V;1;PL;FUT
 נבח	תנבח	V;2;SG;FUT;MASC
 נבח	תנבח	V;3;SG;FUT;FEM
-נבח	תנבחו	V;2;PL;FUT:MASC
+נבח	תנבחו	V;2;PL;FUT;MASC
 נבח	תנבחי	V;2;SG;FUT;FEM
 נבח	תנבחנה	V;2;PL;FUT;FEM
 נבח	תנבחנה	V;3;PL;FUT;FEM
@@ -9057,7 +9057,7 @@
 נברא	ניברא	V;1;PL;FUT
 נברא	תיברא	V;2;SG;FUT;MASC
 נברא	תיברא	V;3;SG;FUT;FEM
-נברא	תיבראו	V;2;PL;FUT:MASC
+נברא	תיבראו	V;2;PL;FUT;MASC
 נברא	תיבראי	V;2;SG;FUT;FEM
 נברא	תיבראנה	V;2;PL;FUT;FEM
 נברא	תיבראנה	V;3;PL;FUT;FEM
@@ -9083,7 +9083,7 @@
 נגד	נוגדים	V;PL;PRS;MASC
 נגד	נוגדת	V;SG;PRS;FEM
 נגד	ננגוד	V;1;PL;FUT
-נגד	תנגדו	V;2;PL;FUT:MASC
+נגד	תנגדו	V;2;PL;FUT;MASC
 נגד	תנגדי	V;2;SG;FUT;FEM
 נגד	תנגוד	V;2;SG;FUT;MASC
 נגד	תנגוד	V;3;SG;FUT;FEM
@@ -9113,7 +9113,7 @@
 נגמר	נגמרתן	V;2;PL;PST;FEM
 נגמר	תגמר	V;2;SG;FUT;MASC
 נגמר	תגמר	V;3;SG;FUT;FEM
-נגמר	תגמרו	V;2;PL;FUT:MASC
+נגמר	תגמרו	V;2;PL;FUT;MASC
 נגמר	תגמרי	V;2;SG;FUT;FEM
 נגמר	תגמרנה	V;2;PL;FUT;FEM
 נגמר	תגמרנה	V;3;PL;FUT;FEM
@@ -9141,7 +9141,7 @@
 נהר	ננהר	V;1;PL;FUT
 נהר	תנהר	V;2;SG;FUT;MASC
 נהר	תנהר	V;3;SG;FUT;FEM
-נהר	תנהרו	V;2;PL;FUT:MASC
+נהר	תנהרו	V;2;PL;FUT;MASC
 נהר	תנהרי	V;2;SG;FUT;FEM
 נהר	תנהרנה	V;2;PL;FUT;FEM
 נהר	תנהרנה	V;3;PL;FUT;FEM
@@ -9164,7 +9164,7 @@
 נוסה	ננוסה	V;1;PL;FUT
 נוסה	תנוסה	V;2;SG;FUT;MASC
 נוסה	תנוסה	V;3;SG;FUT;FEM
-נוסה	תנוסו	V;2;PL;FUT:MASC
+נוסה	תנוסו	V;2;PL;FUT;MASC
 נוסה	תנוסי	V;2;SG;FUT;FEM
 נוסה	תנוסינה	V;2;PL;FUT;FEM
 נוסה	תנוסינה	V;3;PL;FUT;FEM
@@ -9218,7 +9218,7 @@
 נטה	ננטה	V;1;PL;FUT
 נטה	תנטה	V;2;SG;FUT;MASC
 נטה	תנטה	V;3;SG;FUT;FEM
-נטה	תנטו	V;2;PL;FUT:MASC
+נטה	תנטו	V;2;PL;FUT;MASC
 נטה	תנטי	V;2;SG;FUT;FEM
 נטה	תנטינה	V;3;PL;FUT;FEM
 נטה	תנטנה	V;2;PL;FUT;FEM
@@ -9246,7 +9246,7 @@
 ניבא	ננבא	V;1;PL;FUT
 ניבא	תנבא	V;2;SG;FUT;MASC
 ניבא	תנבא	V;3;SG;FUT;FEM
-ניבא	תנבאו	V;2;PL;FUT:MASC
+ניבא	תנבאו	V;2;PL;FUT;MASC
 ניבא	תנבאי	V;2;SG;FUT;FEM
 ניבא	תנבאנה	V;2;PL;FUT;FEM
 ניבא	תנבאנה	V;3;PL;FUT;FEM
@@ -9302,7 +9302,7 @@
 ניגן	תנגן	V;3;SG;FUT;FEM
 ניגן	תנגנה	V;2;PL;FUT;FEM
 ניגן	תנגנה	V;3;PL;FUT;FEM
-ניגן	תנגנו	V;2;PL;FUT:MASC
+ניגן	תנגנו	V;2;PL;FUT;MASC
 ניגן	תנגני	V;2;SG;FUT;FEM
 ניגש	אגשׁ	V;1;SG;FUT
 ניגש	גשׁ	V;2;SG;IMP;MASC
@@ -9328,7 +9328,7 @@
 ניגש	ניגשתן	V;2;PL;PST;FEM
 ניגש	תיגש	V;2;SG;FUT;MASC
 ניגש	תיגש	V;3;SG;FUT;FEM
-ניגש	תיגשו	V;2;PL;FUT:MASC
+ניגש	תיגשו	V;2;PL;FUT;MASC
 ניגש	תיגשי	V;2;SG;FUT;FEM
 ניגש	תיגשנה	V;2;PL;FUT;FEM
 ניגש	תיגשנה	V;3;PL;FUT;FEM
@@ -9356,7 +9356,7 @@
 ניחש	ננחשׁ	V;1;PL;FUT
 ניחש	תנחשׁ	V;2;SG;FUT;MASC
 ניחש	תנחשׁ	V;3;SG;FUT;FEM
-ניחש	תנחשׁו	V;2;PL;FUT:MASC
+ניחש	תנחשׁו	V;2;PL;FUT;MASC
 ניחש	תנחשׁי	V;2;SG;FUT;FEM
 ניחש	תנחשׁנה	V;2;PL;FUT;FEM
 ניחש	תנחשׁנה	V;3;PL;FUT;FEM
@@ -9384,7 +9384,7 @@
 ניסה	נסינה	V;2;PL;IMP;FEM
 ניסה	תנסה	V;2;SG;FUT;MASC
 ניסה	תנסה	V;3;SG;FUT;FEM
-ניסה	תנסו	V;2;PL;FUT:MASC
+ניסה	תנסו	V;2;PL;FUT;MASC
 ניסה	תנסי	V;2;SG;FUT;FEM
 ניסה	תנסינה	V;2;PL;FUT;FEM
 ניסה	תנסינה	V;3;PL;FUT;FEM
@@ -9412,7 +9412,7 @@
 ניפץ	נפצנה	V;2;PL;IMP;FEM
 ניפץ	תנפץ	V;2;SG;FUT;MASC
 ניפץ	תנפץ	V;3;SG;FUT;FEM
-ניפץ	תנפצו	V;2;PL;FUT:MASC
+ניפץ	תנפצו	V;2;PL;FUT;MASC
 ניפץ	תנפצי	V;2;SG;FUT;FEM
 ניפץ	תנפצנה	V;2;PL;FUT;FEM
 ניפץ	תנפצנה	V;3;PL;FUT;FEM
@@ -9440,7 +9440,7 @@
 נישק	נשׁקנה	V;2;PL;IMP;FEM
 נישק	תנשׁק	V;2;SG;FUT;MASC
 נישק	תנשׁק	V;3;SG;FUT;FEM
-נישק	תנשׁקו	V;2;PL;FUT:MASC
+נישק	תנשׁקו	V;2;PL;FUT;MASC
 נישק	תנשׁקי	V;2;SG;FUT;FEM
 נישק	תנשׁקנה	V;2;PL;FUT;FEM
 נישק	תנשׁקנה	V;3;PL;FUT;FEM
@@ -9468,7 +9468,7 @@
 נמאס	נמאסתן	V;2;PL;PST;FEM
 נמאס	תמאס	V;2;SG;FUT;MASC
 נמאס	תמאס	V;3;SG;FUT;FEM
-נמאס	תמאסו	V;2;PL;FUT:MASC
+נמאס	תמאסו	V;2;PL;FUT;MASC
 נמאס	תמאסי	V;2;SG;FUT;FEM
 נמאס	תמאסנה	V;2;PL;FUT;FEM
 נמאס	תמאסנה	V;3;PL;FUT;FEM
@@ -9496,7 +9496,7 @@
 נמס	נמסים	V;PL;PRS;MASC
 נמס	תימס	V;2;SG;FUT;MASC
 נמס	תימס	V;3;SG;FUT;FEM
-נמס	תימסו	V;2;PL;FUT:MASC
+נמס	תימסו	V;2;PL;FUT;MASC
 נמס	תימסי	V;2;SG;FUT;FEM
 נמס	תימסנה	V;2;PL;FUT;FEM
 נמס	תימסנה	V;3;PL;FUT;FEM
@@ -9524,7 +9524,7 @@
 נמצא	נמצאתן	V;2;PL;PST;FEM
 נמצא	תימצא	V;2;SG;FUT;MASC
 נמצא	תימצא	V;3;SG;FUT;FEM
-נמצא	תימצאו	V;2;PL;FUT:MASC
+נמצא	תימצאו	V;2;PL;FUT;MASC
 נמצא	תימצאי	V;2;SG;FUT;FEM
 נמצא	תימצאנה	V;2;PL;FUT;FEM
 נמצא	תימצאנה	V;3;PL;FUT;FEM
@@ -9552,7 +9552,7 @@
 נע	נעתן	V;2;PL;PST;FEM
 נע	תנוע	V;2;SG;FUT;MASC
 נע	תנוע	V;3;SG;FUT;FEM
-נע	תנועו	V;2;PL;FUT:MASC
+נע	תנועו	V;2;PL;FUT;MASC
 נע	תנועי	V;2;SG;FUT;FEM
 נע	תנענה	V;2;PL;FUT;FEM
 נע	תנענה	V;3;PL;FUT;FEM
@@ -9580,7 +9580,7 @@
 נפגש	נפגשׁתן	V;2;PL;PST;FEM
 נפגש	תפגשׁ	V;2;SG;FUT;MASC
 נפגש	תפגשׁ	V;3;SG;FUT;FEM
-נפגש	תפגשׁו	V;2;PL;FUT:MASC
+נפגש	תפגשׁו	V;2;PL;FUT;MASC
 נפגש	תפגשׁי	V;2;SG;FUT;FEM
 נפגש	תפגשׁנה	V;2;PL;FUT;FEM
 נפגש	תפגשׁנה	V;3;PL;FUT;FEM
@@ -9688,7 +9688,7 @@
 נשם	תנשום	V;3;SG;FUT;FEM
 נשם	תנשומנה	V;2;PL;FUT;FEM
 נשם	תנשומנה	V;3;PL;FUT;FEM
-נשם	תנשׁמו	V;2;PL;FUT:MASC
+נשם	תנשׁמו	V;2;PL;FUT;MASC
 נשם	תנשׁמי	V;2;SG;FUT;FEM
 נשמה	הנשׁמה	N;SG;DEF
 נשמה	הנשׁמות	N;PL;DEF
@@ -9738,7 +9738,7 @@
 נתן	תיתן	V;3;SG;FUT;FEM
 נתן	תיתנב	V;2;PL;FUT;FEM
 נתן	תיתנה	V;3;PL;FUT;FEM
-נתן	תיתנו	V;2;PL;FUT:MASC
+נתן	תיתנו	V;2;PL;FUT;MASC
 נתן	תיתני	V;2;SG;FUT;FEM
 נתן	תן	V;2;SG;IMP;MASC
 נתן	תנה	V;2;PL;IMP;FEM
@@ -9770,7 +9770,7 @@
 סבל	תסבול	V;3;SG;FUT;FEM
 סבל	תסבולנה	V;2;PL;FUT;FEM
 סבל	תסבולנה	V;3;PL;FUT;FEM
-סבל	תסבלו	V;2;PL;FUT:MASC
+סבל	תסבלו	V;2;PL;FUT;MASC
 סבל	תסבלי	V;2;SG;FUT;FEM
 סגר	אסגור	V;1;SG;FUT
 סגר	יסגור	V;3;SG;FUT;MASC
@@ -9798,7 +9798,7 @@
 סגר	תסגור	V;3;SG;FUT;FEM
 סגר	תסגורנה	V;2;PL;FUT;FEM
 סגר	תסגורנה	V;3;PL;FUT;FEM
-סגר	תסגרו	V;2;PL;FUT:MASC
+סגר	תסגרו	V;2;PL;FUT;MASC
 סגר	תסגרי	V;2;SG;FUT;FEM
 סדרה	הסדרה	N;SG;DEF
 סדרה	הסדרות	N;PL;DEF
@@ -9876,7 +9876,7 @@
 סחט	סיחטי	V;2;SG;IMP;FEM
 סחט	תסחט	V;2;SG;FUT;MASC
 סחט	תסחט	V;3;SG;FUT;FEM
-סחט	תסחטו	V;2;PL;FUT:MASC
+סחט	תסחטו	V;2;PL;FUT;MASC
 סחט	תסחטי	V;2;SG;FUT;FEM
 סחט	תסחטנה	V;2;PL;FUT;FEM
 סחט	תסחטנה	V;3;PL;FUT;FEM
@@ -9904,7 +9904,7 @@
 סיים	סיימתן	V;2;PL;PST;FEM
 סיים	תסיים	V;2;SG;FUT;MASC
 סיים	תסיים	V;3;SG;FUT;FEM
-סיים	תסיימו	V;2;PL;FUT:MASC
+סיים	תסיימו	V;2;PL;FUT;MASC
 סיים	תסיימי	V;2;SG;FUT;FEM
 סיים	תסיימנה	V;2;PL;FUT;FEM
 סיים	תסיימנה	V;3;PL;FUT;FEM
@@ -9934,7 +9934,7 @@
 סיכן	תסכן	V;3;SG;FUT;FEM
 סיכן	תסכנה	V;2;PL;FUT;FEM
 סיכן	תסכנה	V;3;PL;FUT;FEM
-סיכן	תסכנו	V;2;PL;FUT:MASC
+סיכן	תסכנו	V;2;PL;FUT;MASC
 סיכן	תסכני	V;2;SG;FUT;FEM
 סיפק	אספק	V;1;SG;FUT
 סיפק	יספק	V;3;SG;FUT;MASC
@@ -9960,7 +9960,7 @@
 סיפק	ספקנה	V;2;PL;IMP;FEM
 סיפק	תספק	V;2;SG;FUT;MASC
 סיפק	תספק	V;3;SG;FUT;FEM
-סיפק	תספקו	V;2;PL;FUT:MASC
+סיפק	תספקו	V;2;PL;FUT;MASC
 סיפק	תספקי	V;2;SG;FUT;FEM
 סיפק	תספקנה	V;2;PL;FUT;FEM
 סיפק	תספקנה	V;3;PL;FUT;FEM
@@ -9988,7 +9988,7 @@
 סיפר	ספרנה	V;2;PL;IMP;FEM
 סיפר	תספר	V;2;SG;FUT;MASC
 סיפר	תספר	V;3;SG;FUT;FEM
-סיפר	תספרו	V;2;PL;FUT:MASC
+סיפר	תספרו	V;2;PL;FUT;MASC
 סיפר	תספרי	V;2;SG;FUT;FEM
 סיפר	תספרנה	V;2;PL;FUT;FEM
 סיפר	תספרנה	V;3;PL;FUT;FEM
@@ -10016,7 +10016,7 @@
 סלח	סלחתן	V;2;PL;PST;FEM
 סלח	תסלח	V;2;SG;FUT;MASC
 סלח	תסלח	V;3;SG;FUT;FEM
-סלח	תסלחו	V;2;PL;FUT:MASC
+סלח	תסלחו	V;2;PL;FUT;MASC
 סלח	תסלחי	V;2;SG;FUT;FEM
 סלח	תסלחנה	V;2;PL;FUT;FEM
 סלח	תסלחנה	V;3;PL;FUT;FEM
@@ -10042,7 +10042,7 @@
 ספג	ספגתן	V;2;PL;PST;FEM
 ספג	ספוג	V;2;SG;IMP;MASC
 ספג	ספוגנה	V;2;PL;IMP;FEM
-ספג	תספגו	V;2;PL;FUT:MASC
+ספג	תספגו	V;2;PL;FUT;MASC
 ספג	תספגי	V;2;SG;FUT;FEM
 ספג	תספוג	V;2;SG;FUT;MASC
 ספג	תספוג	V;3;SG;FUT;FEM
@@ -10176,7 +10176,7 @@
 סר	סרתן	V;2;PL;PST;FEM
 סר	תסור	V;2;SG;FUT;MASC
 סר	תסור	V;3;SG;FUT;FEM
-סר	תסורו	V;2;PL;FUT:MASC
+סר	תסורו	V;2;PL;FUT;MASC
 סר	תסורי	V;2;SG;FUT;FEM
 סר	תסורנה	V;2;PL;FUT;FEM
 סר	תסורנה	V;3;PL;FUT;FEM
@@ -10232,7 +10232,7 @@
 עבר	תעבור	V;3;SG;FUT;FEM
 עבר	תעבורנה	V;2;PL;FUT;FEM
 עבר	תעבורנה	V;3;PL;FUT;FEM
-עבר	תעברו	V;2;PL;FUT:MASC
+עבר	תעברו	V;2;PL;FUT;MASC
 עבר	תעברי	V;2;SG;FUT;FEM
 עודד	אעודד	V;1;SG;FUT
 עודד	יעודד	V;3;SG;FUT;MASC
@@ -10258,7 +10258,7 @@
 עודד	עודדתן	V;2;PL;PST;FEM
 עודד	תעודד	V;2;SG;FUT;MASC
 עודד	תעודד	V;3;SG;FUT;FEM
-עודד	תעודדו	V;2;PL;FUT:MASC
+עודד	תעודדו	V;2;PL;FUT;MASC
 עודד	תעודדי	V;2;SG;FUT;FEM
 עודד	תעודדנה	V;2;PL;FUT;FEM
 עודד	תעודדנה	V;3;PL;FUT;FEM
@@ -10312,7 +10312,7 @@
 עורר	עוררתן	V;2;PL;PST;FEM
 עורר	תעורר	V;2;SG;FUT;MASC
 עורר	תעורר	V;3;SG;FUT;FEM
-עורר	תעוררו	V;2;PL;FUT:MASC
+עורר	תעוררו	V;2;PL;FUT;MASC
 עורר	תעוררי	V;2;SG;FUT;FEM
 עורר	תעוררנה	V;2;PL;FUT;FEM
 עורר	תעוררנה	V;3;PL;FUT;FEM
@@ -10340,7 +10340,7 @@
 עטה	עטתה	V;3;SG;PST;FEM
 עטה	תעטה	V;2;SG;FUT;MASC
 עטה	תעטה	V;3;SG;FUT;FEM
-עטה	תעטו	V;2;PL;FUT:MASC
+עטה	תעטו	V;2;PL;FUT;MASC
 עטה	תעטי	V;2;SG;FUT;FEM
 עטה	תעטינה	V;2;PL;FUT;FEM
 עטה	תעטינה	V;3;PL;FUT;FEM
@@ -10370,7 +10370,7 @@
 עטף	תעטוף	V;3;SG;FUT;FEM
 עטף	תעטופנה	V;2;PL;FUT;FEM
 עטף	תעטופנה	V;3;PL;FUT;FEM
-עטף	תעטפו	V;2;PL;FUT:MASC
+עטף	תעטפו	V;2;PL;FUT;MASC
 עטף	תעטפי	V;2;SG;FUT;FEM
 עין	העין	N;SG;DEF
 עין	העיניים	N;PL;DEF
@@ -10450,7 +10450,7 @@
 עישן	תעשׁן	V;3;SG;FUT;FEM
 עישן	תעשׁנה	V;2;PL;FUT;FEM
 עישן	תעשׁנה	V;3;PL;FUT;FEM
-עישן	תעשׁנו	V;2;PL;FUT:MASC
+עישן	תעשׁנו	V;2;PL;FUT;MASC
 עישן	תעשׁני	V;2;SG;FUT;FEM
 עלז	אעלוז	V;1;SG;FUT
 עלז	יעלוז	V;3;SG;FUT;MASC
@@ -10478,7 +10478,7 @@
 עלז	תעלוז	V;3;SG;FUT;FEM
 עלז	תעלוזנה	V;2;PL;FUT;FEM
 עלז	תעלוזנה	V;3;PL;FUT;FEM
-עלז	תעלזו	V;2;PL;FUT:MASC
+עלז	תעלזו	V;2;PL;FUT;MASC
 עלז	תעלזי	V;2;SG;FUT;FEM
 עמד	אעמוד	V;1;SG;FUT
 עמד	יעמדו	V;3;PL;FUT;MASC
@@ -10502,7 +10502,7 @@
 עמד	עמדתן	V;2;PL;PST;FEM
 עמד	עמוד	V;2;SG;IMP;MASC
 עמד	עמודנה	V;2;PL;IMP;FEM
-עמד	תעמדו	V;2;PL;FUT:MASC
+עמד	תעמדו	V;2;PL;FUT;MASC
 עמד	תעמדי	V;2;SG;FUT;FEM
 עמד	תעמוד	V;2;SG;FUT;MASC
 עמד	תעמוד	V;3;SG;FUT;FEM
@@ -10558,7 +10558,7 @@
 ענה	ענתה	V;3;SG;PST;FEM
 ענה	תענה	V;2;SG;FUT;MASC
 ענה	תענה	V;3;SG;FUT;FEM
-ענה	תענו	V;2;PL;FUT:MASC
+ענה	תענו	V;2;PL;FUT;MASC
 ענה	תעני	V;2;SG;FUT;FEM
 ענה	תענינה	V;2;PL;FUT;FEM
 ענה	תענינה	V;3;PL;FUT;FEM
@@ -10586,7 +10586,7 @@
 עף	עפתן	V;2;PL;PST;FEM
 עף	תעוף	V;2;SG;FUT;MASC
 עף	תעוף	V;3;SG;FUT;FEM
-עף	תעופו	V;2;PL;FUT:MASC
+עף	תעופו	V;2;PL;FUT;MASC
 עף	תעופי	V;2;SG;FUT;FEM
 עף	תעופנה	V;2;PL;FUT;FEM
 עף	תעופנה	V;3;PL;FUT;FEM
@@ -10616,7 +10616,7 @@
 עצר	תעצור	V;3;SG;FUT;FEM
 עצר	תעצורנה	V;2;PL;FUT;FEM
 עצר	תעצורנה	V;3;PL;FUT;FEM
-עצר	תעצרו	V;2;PL;FUT:MASC
+עצר	תעצרו	V;2;PL;FUT;MASC
 עצר	תעצרי	V;2;SG;FUT;FEM
 עקב	העקב	N;SG;DEF
 עקב	העקבים	N;PL;DEF
@@ -10670,7 +10670,7 @@
 עקף	תעקוף	V;3;SG;FUT;FEM
 עקף	תעקופנה	V;2;PL;FUT;FEM
 עקף	תעקופנה	V;3;PL;FUT;FEM
-עקף	תעקפו	V;2;PL;FUT:MASC
+עקף	תעקפו	V;2;PL;FUT;MASC
 עקף	תעקפי	V;2;SG;FUT;FEM
 עקץ	אעקוץ	V;1;SG;FUT
 עקץ	יעקוץ	V;3;SG;FUT;MASC
@@ -10698,7 +10698,7 @@
 עקץ	תעקוץ	V;3;SG;FUT;FEM
 עקץ	תעקוצנה	V;2;PL;FUT;FEM
 עקץ	תעקוצנה	V;3;PL;FUT;FEM
-עקץ	תעקצו	V;2;PL;FUT:MASC
+עקץ	תעקצו	V;2;PL;FUT;MASC
 עקץ	תעקצי	V;2;SG;FUT;FEM
 עקרב	העקרב	N;SG;DEF
 עקרב	העקרבים	N;PL;DEF
@@ -10776,7 +10776,7 @@
 עשה	עשׂתה	V;3;SG;PST;FEM
 עשה	תעשׂה	V;2;SG;FUT;MASC
 עשה	תעשׂה	V;3;SG;FUT;FEM
-עשה	תעשׂו	V;2;PL;FUT:MASC
+עשה	תעשׂו	V;2;PL;FUT;MASC
 עשה	תעשׂי	V;2;SG;FUT;FEM
 עשה	תעשׂינה	V;2;PL;FUT;FEM
 עשה	תעשׂינה	V;3;PL;FUT;FEM
@@ -10804,7 +10804,7 @@
 פגע	פוגעת	V;SG;PRS;FEM
 פגע	תפגע	V;2;SG;FUT;MASC
 פגע	תפגע	V;3;SG;FUT;FEM
-פגע	תפגעו	V;2;PL;FUT:MASC
+פגע	תפגעו	V;2;PL;FUT;MASC
 פגע	תפגעי	V;2;SG;FUT;FEM
 פגע	תפגענה	V;2;PL;FUT;FEM
 פגע	תפגענה	V;3;PL;FUT;FEM
@@ -10834,7 +10834,7 @@
 פגש	תפגוש	V;3;SG;FUT;FEM
 פגש	תפגושנה	V;2;PL;FUT;FEM
 פגש	תפגושנה	V;3;PL;FUT;FEM
-פגש	תפגשׁו	V;2;PL;FUT:MASC
+פגש	תפגשׁו	V;2;PL;FUT;MASC
 פגש	תפגשׁי	V;2;SG;FUT;FEM
 פזמון	הפזמון	N;SG;DEF
 פזמון	הפזמונים	N;PL;DEF
@@ -10886,7 +10886,7 @@
 פחד	פחדתן	V;2;PL;PST;FEM
 פחד	תפחד	V;2;SG;FUT;MASC
 פחד	תפחד	V;3;SG;FUT;FEM
-פחד	תפחדו	V;2;PL;FUT:MASC
+פחד	תפחדו	V;2;PL;FUT;MASC
 פחד	תפחדי	V;2;SG;FUT;FEM
 פחד	תפחדנה	V;2;PL;FUT;FEM
 פחד	תפחדנה	V;3;PL;FUT;FEM
@@ -10914,7 +10914,7 @@
 פינה	פנינה	V;2;PL;IMP;FEM
 פינה	תפנה	V;2;SG;FUT;MASC
 פינה	תפנה	V;3;SG;FUT;FEM
-פינה	תפנו	V;2;PL;FUT:MASC
+פינה	תפנו	V;2;PL;FUT;MASC
 פינה	תפני	V;2;SG;FUT;FEM
 פינה	תפנינה	V;2;PL;FUT;FEM
 פינה	תפנינה	V;3;PL;FUT;FEM
@@ -10942,7 +10942,7 @@
 פישט	פשטנה	V;2;PL;IMP;FEM
 פישט	תפשט	V;2;SG;FUT;MASC
 פישט	תפשט	V;3;SG;FUT;FEM
-פישט	תפשטו	V;2;PL;FUT:MASC
+פישט	תפשטו	V;2;PL;FUT;MASC
 פישט	תפשטי	V;2;SG;FUT;FEM
 פישט	תפשטנה	V;2;PL;FUT;FEM
 פישט	תפשטנה	V;3;PL;FUT;FEM
@@ -11022,7 +11022,7 @@
 פצע	פצעתן	V;2;PL;PST;FEM
 פצע	תפצע	V;2;SG;FUT;MASC
 פצע	תפצע	V;3;SG;FUT;FEM
-פצע	תפצעו	V;2;PL;FUT:MASC
+פצע	תפצעו	V;2;PL;FUT;MASC
 פצע	תפצעי	V;2;SG;FUT;FEM
 פצע	תפצענה	V;2;PL;FUT;FEM
 פצע	תפצענה	V;3;PL;FUT;FEM
@@ -11048,7 +11048,7 @@
 פקד	פקדתן	V;2;PL;PST;FEM
 פקד	פקוד	V;2;SG;IMP;MASC
 פקד	פקודנה	V;2;PL;IMP;FEM
-פקד	תפקדו	V;2;PL;FUT:MASC
+פקד	תפקדו	V;2;PL;FUT;MASC
 פקד	תפקדי	V;2;SG;FUT;FEM
 פקד	תפקוד	V;2;SG;FUT;MASC
 פקד	תפקוד	V;3;SG;FUT;FEM
@@ -11078,7 +11078,7 @@
 פקח	פקחתן	V;2;PL;PST;FEM
 פקח	תפקח	V;2;SG;FUT;MASC
 פקח	תפקח	V;3;SG;FUT;FEM
-פקח	תפקחו	V;2;PL;FUT:MASC
+פקח	תפקחו	V;2;PL;FUT;MASC
 פקח	תפקחי	V;2;SG;FUT;FEM
 פקח	תפקחנה	V;2;PL;FUT;FEM
 פקח	תפקחנה	V;3;PL;FUT;FEM
@@ -11236,7 +11236,7 @@
 פתח	פתחתן	V;2;PL;PST;FEM
 פתח	תפתח	V;2;SG;FUT;MASC
 פתח	תפתח	V;3;SG;FUT;FEM
-פתח	תפתחו	V;2;PL;FUT:MASC
+פתח	תפתחו	V;2;PL;FUT;MASC
 פתח	תפתחי	V;2;SG;FUT;FEM
 פתח	תפתחנה	V;2;PL;FUT;FEM
 פתח	תפתחנה	V;3;PL;FUT;FEM
@@ -11316,7 +11316,7 @@
 צייר	ציירתן	V;2;PL;PST;FEM
 צייר	תצייר	V;2;SG;FUT;MASC
 צייר	תצייר	V;3;SG;FUT;FEM
-צייר	תציירו	V;2;PL;FUT:MASC
+צייר	תציירו	V;2;PL;FUT;MASC
 צייר	תציירי	V;2;SG;FUT;FEM
 צייר	תציירנה	V;2;PL;FUT;FEM
 צייר	תציירנה	V;3;PL;FUT;FEM
@@ -11344,7 +11344,7 @@
 ציפה	צפינה	V;2;PL;IMP;FEM
 ציפה	תצפה	V;2;SG;FUT;MASC
 ציפה	תצפה	V;3;SG;FUT;FEM
-ציפה	תצפו	V;2;PL;FUT:MASC
+ציפה	תצפו	V;2;PL;FUT;MASC
 ציפה	תצפי	V;2;SG;FUT;FEM
 ציפה	תצפינה	V;2;PL;FUT;FEM
 ציפה	תצפינה	V;3;PL;FUT;FEM
@@ -11372,7 +11372,7 @@
 צם	צמתן	V;2;PL;PST;FEM
 צם	תצום	V;2;SG;FUT;MASC
 צם	תצום	V;3;SG;FUT;FEM
-צם	תצומו	V;2;PL;FUT:MASC
+צם	תצומו	V;2;PL;FUT;MASC
 צם	תצומי	V;2;SG;FUT;FEM
 צם	תצומנה	V;2;PL;FUT;FEM
 צם	תצומנה	V;3;PL;FUT;FEM
@@ -11426,7 +11426,7 @@
 צפה	צפתה	V;3;SG;PST;FEM
 צפה	תצפה	V;2;SG;FUT;MASC
 צפה	תצפה	V;3;SG;FUT;FEM
-צפה	תצפו	V;2;PL;FUT:MASC
+צפה	תצפו	V;2;PL;FUT;MASC
 צפה	תצפי	V;2;SG;FUT;FEM
 צפה	תצפינה	V;2;PL;FUT;FEM
 צפה	תצפינה	V;3;PL;FUT;FEM
@@ -11454,7 +11454,7 @@
 צרח	צרחתן	V;2;PL;PST;FEM
 צרח	תצרח	V;2;SG;FUT;MASC
 צרח	תצרח	V;3;SG;FUT;FEM
-צרח	תצרחו	V;2;PL;FUT:MASC
+צרח	תצרחו	V;2;PL;FUT;MASC
 צרח	תצרחי	V;2;SG;FUT;FEM
 צרח	תצרחנה	V;2;PL;FUT;FEM
 צרח	תצרחנה	V;3;PL;FUT;FEM
@@ -11484,7 +11484,7 @@
 צרך	תצרוך	V;3;SG;FUT;FEM
 צרך	תצרוכנה	V;2;PL;FUT;FEM
 צרך	תצרוכנה	V;3;PL;FUT;FEM
-צרך	תצרכו	V;2;PL;FUT:MASC
+צרך	תצרכו	V;2;PL;FUT;MASC
 צרך	תצרכי	V;2;SG;FUT;FEM
 קבע	אקבע	V;1;SG;FUT
 קבע	יקבע	V;3;SG;FUT;MASC
@@ -11510,7 +11510,7 @@
 קבע	קובעת	V;SG;PRS;FEM
 קבע	תקבע	V;2;SG;FUT;MASC
 קבע	תקבע	V;3;SG;FUT;FEM
-קבע	תקבעו	V;2;PL;FUT:MASC
+קבע	תקבעו	V;2;PL;FUT;MASC
 קבע	תקבעי	V;2;SG;FUT;FEM
 קבע	תקבענה	V;2;PL;FUT;FEM
 קבע	תקבענה	V;3;PL;FUT;FEM
@@ -11538,7 +11538,7 @@
 קדם	קודמת	V;SG;PRS;FEM
 קדם	תקדם	V;2;SG;FUT;MASC
 קדם	תקדם	V;3;SG;FUT;FEM
-קדם	תקדמו	V;2;PL;FUT:MASC
+קדם	תקדמו	V;2;PL;FUT;MASC
 קדם	תקדמי	V;2;SG;FUT;FEM
 קדם	תקדמנה	V;2;PL;FUT;FEM
 קדם	תקדמנה	V;3;PL;FUT;FEM
@@ -11587,7 +11587,7 @@
 קוצר	קוצרתן	V;2;PL;PST;FEM
 קוצר	תקוצר	V;2;SG;FUT;MASC
 קוצר	תקוצר	V;3;SG;FUT;FEM
-קוצר	תקוצרו	V;2;PL;FUT:MASC
+קוצר	תקוצרו	V;2;PL;FUT;MASC
 קוצר	תקוצרי	V;2;SG;FUT;FEM
 קוצר	תקוצרנה	V;2;PL;FUT;FEM
 קוצר	תקוצרנה	V;3;PL;FUT;FEM
@@ -11617,7 +11617,7 @@
 קטון	תקטן	V;3;SG;FUT;FEM
 קטון	תקטנה	V;2;PL;FUT;FEM
 קטון	תקטנה	V;3;PL;FUT;FEM
-קטון	תקטנו	V;2;PL;FUT:MASC
+קטון	תקטנו	V;2;PL;FUT;MASC
 קטון	תקטני	V;2;SG;FUT;FEM
 קטף	אקטוף	V;1;SG;FUT
 קטף	יקטוף	V;3;SG;FUT;MASC
@@ -11645,7 +11645,7 @@
 קטף	תקטוף	V;3;SG;FUT;FEM
 קטף	תקטופנה	V;2;PL;FUT;FEM
 קטף	תקטופנה	V;3;PL;FUT;FEM
-קטף	תקטפו	V;2;PL;FUT:MASC
+קטף	תקטפו	V;2;PL;FUT;MASC
 קטף	תקטפי	V;2;SG;FUT;FEM
 קיבל	אקבל	V;1;SG;FUT
 קיבל	יקבל	V;3;SG;FUT;MASC
@@ -11671,7 +11671,7 @@
 קיבל	קיבלתן	V;2;PL;PST;FEM
 קיבל	תקבל	V;2;SG;FUT;MASC
 קיבל	תקבל	V;3;SG;FUT;FEM
-קיבל	תקבלו	V;2;PL;FUT:MASC
+קיבל	תקבלו	V;2;PL;FUT;MASC
 קיבל	תקבלי	V;2;SG;FUT;FEM
 קיבל	תקבלנה	V;2;PL;FUT;FEM
 קיבל	תקבלנה	V;3;PL;FUT;FEM
@@ -11699,7 +11699,7 @@
 קיים	קיימתן	V;2;PL;PST;FEM
 קיים	תקיים	V;2;SG;FUT;MASC
 קיים	תקיים	V;3;SG;FUT;FEM
-קיים	תקיימו	V;2;PL;FUT:MASC
+קיים	תקיימו	V;2;PL;FUT;MASC
 קיים	תקיימי	V;2;SG;FUT;FEM
 קיים	תקיימנה	V;2;PL;FUT;FEM
 קיים	תקיימנה	V;3;PL;FUT;FEM
@@ -11727,7 +11727,7 @@
 קילקל	קלקלנה	V;2;PL;IMP;FEM
 קילקל	תקלקל	V;2;SG;FUT;MASC
 קילקל	תקלקל	V;3;SG;FUT;FEM
-קילקל	תקלקלו	V;2;PL;FUT:MASC
+קילקל	תקלקלו	V;2;PL;FUT;MASC
 קילקל	תקלקלי	V;2;SG;FUT;FEM
 קילקל	תקלקלנה	V;2;PL;FUT;FEM
 קילקל	תקלקלנה	V;3;PL;FUT;FEM
@@ -11755,7 +11755,7 @@
 קינא	קנאנה	V;2;PL;IMP;FEM
 קינא	תקנא	V;2;SG;FUT;MASC
 קינא	תקנא	V;3;SG;FUT;FEM
-קינא	תקנאו	V;2;PL;FUT:MASC
+קינא	תקנאו	V;2;PL;FUT;MASC
 קינא	תקנאי	V;2;SG;FUT;FEM
 קינא	תקנאנה	V;2;PL;FUT;FEM
 קינא	תקנאנה	V;3;PL;FUT;FEM
@@ -11783,7 +11783,7 @@
 קיפל	קפלנה	V;2;PL;IMP;FEM
 קיפל	תקפל	V;2;SG;FUT;MASC
 קיפל	תקפל	V;3;SG;FUT;FEM
-קיפל	תקפלו	V;2;PL;FUT:MASC
+קיפל	תקפלו	V;2;PL;FUT;MASC
 קיפל	תקפלי	V;2;SG;FUT;FEM
 קיפל	תקפלנה	V;2;PL;FUT;FEM
 קיפל	תקפלנה	V;3;PL;FUT;FEM
@@ -11837,7 +11837,7 @@
 קיצר	קצרנה	V;2;PL;IMP;FEM
 קיצר	תקצר	V;2;SG;FUT;MASC
 קיצר	תקצר	V;3;SG;FUT;FEM
-קיצר	תקצרו	V;2;PL;FUT:MASC
+קיצר	תקצרו	V;2;PL;FUT;MASC
 קיצר	תקצרי	V;2;SG;FUT;FEM
 קיצר	תקצרנה	V;2;PL;FUT;FEM
 קיצר	תקצרנה	V;3;PL;FUT;FEM
@@ -11867,7 +11867,7 @@
 קלט	תקלוט	V;3;SG;FUT;FEM
 קלט	תקלוטנה	V;2;PL;FUT;FEM
 קלט	תקלוטנה	V;3;PL;FUT;FEM
-קלט	תקלטו	V;2;PL;FUT:MASC
+קלט	תקלטו	V;2;PL;FUT;MASC
 קלט	תקלטי	V;2;SG;FUT;FEM
 קם	אקום	V;1;SG;FUT
 קם	יקום	V;3;SG;FUT;MASC
@@ -11893,7 +11893,7 @@
 קם	קמתן	V;2;PL;PST;FEM
 קם	תקום	V;2;SG;FUT;MASC
 קם	תקום	V;3;SG;FUT;FEM
-קם	תקומו	V;2;PL;FUT:MASC
+קם	תקומו	V;2;PL;FUT;MASC
 קם	תקומי	V;2;SG;FUT;FEM
 קם	תקומנה	V;2;PL;FUT;FEM
 קם	תקומנה	V;3;PL;FUT;FEM
@@ -11921,7 +11921,7 @@
 קנח	קנחתן	V;2;PL;PST;FEM
 קנח	תקנח	V;2;SG;FUT;MASC
 קנח	תקנח	V;3;SG;FUT;FEM
-קנח	תקנחו	V;2;PL;FUT:MASC
+קנח	תקנחו	V;2;PL;FUT;MASC
 קנח	תקנחי	V;2;SG;FUT;FEM
 קנח	תקנחנה	V;2;PL;FUT;FEM
 קנח	תקנחנה	V;3;PL;FUT;FEM
@@ -11949,7 +11949,7 @@
 קפא	קפאתן	V;2;PL;PST;FEM
 קפא	תקפא	V;2;SG;FUT;MASC
 קפא	תקפא	V;3;SG;FUT;FEM
-קפא	תקפאו	V;2;PL;FUT:MASC
+קפא	תקפאו	V;2;PL;FUT;MASC
 קפא	תקפאי	V;2;SG;FUT;FEM
 קפא	תקפאנה	V;2;PL;FUT;FEM
 קפא	תקפאנה	V;3;PL;FUT;FEM
@@ -11977,7 +11977,7 @@
 קרע	קרעתן	V;2;PL;PST;FEM
 קרע	תקרע	V;2;SG;FUT;MASC
 קרע	תקרע	V;3;SG;FUT;FEM
-קרע	תקרעו	V;2;PL;FUT:MASC
+קרע	תקרעו	V;2;PL;FUT;MASC
 קרע	תקרעי	V;2;SG;FUT;FEM
 קרע	תקרענה	V;2;PL;FUT;FEM
 קרע	תקרענה	V;3;PL;FUT;FEM
@@ -12031,7 +12031,7 @@
 רבה	רבתה	V;3;SG;PST;FEM
 רבה	תרבה	V;2;SG;FUT;MASC
 רבה	תרבה	V;3;SG;FUT;FEM
-רבה	תרבו	V;2;PL;FUT:MASC
+רבה	תרבו	V;2;PL;FUT;MASC
 רבה	תרבי	V;2;SG;FUT;FEM
 רבה	תרבינה	V;3;PL;FUT;FEM
 רבה	תרבנה	V;2;PL;FUT;FEM
@@ -12059,7 +12059,7 @@
 רומם	רוממתן	V;2;PL;PST;FEM
 רומם	תרומם	V;2;SG;FUT;MASC
 רומם	תרומם	V;3;SG;FUT;FEM
-רומם	תרוממו	V;2;PL;FUT:MASC
+רומם	תרוממו	V;2;PL;FUT;MASC
 רומם	תרוממי	V;2;SG;FUT;FEM
 רומם	תרוממנה	V;2;PL;FUT;FEM
 רומם	תרוממנה	V;3;PL;FUT;FEM
@@ -12082,7 +12082,7 @@
 רופא	רופאתן	V;2;PL;PST;FEM
 רופא	תרופא	V;2;SG;FUT;MASC
 רופא	תרופא	V;3;SG;FUT;FEM
-רופא	תרופאו	V;2;PL;FUT:MASC
+רופא	תרופאו	V;2;PL;FUT;MASC
 רופא	תרופאי	V;2;SG;FUT;FEM
 רופא	תרופאנה	V;2;PL;FUT;FEM
 רופא	תרופאנה	V;3;PL;FUT;FEM
@@ -12105,7 +12105,7 @@
 רותך	רותכתן	V;2;PL;PST;FEM
 רותך	תרותך	V;2;SG;FUT;MASC
 רותך	תרותך	V;3;SG;FUT;FEM
-רותך	תרותכו	V;2;PL;FUT:MASC
+רותך	תרותכו	V;2;PL;FUT;MASC
 רותך	תרותכי	V;2;SG;FUT;FEM
 רותך	תרותכנה	V;2;PL;FUT;FEM
 רותך	תרותכנה	V;3;PL;FUT;FEM
@@ -12133,7 +12133,7 @@
 רזה	רזתה	V;3;SG;PST;FEM
 רזה	תרזה	V;2;SG;FUT;MASC
 רזה	תרזה	V;3;SG;FUT;FEM
-רזה	תרזו	V;2;PL;FUT:MASC
+רזה	תרזו	V;2;PL;FUT;MASC
 רזה	תרזי	V;2;SG;FUT;FEM
 רזה	תרזינה	V;3;PL;FUT;FEM
 רזה	תרזנה	V;2;PL;FUT;FEM
@@ -12161,7 +12161,7 @@
 ריחף	ריחפתן	V;2;PL;PST;FEM
 ריחף	תרחף	V;2;SG;FUT;MASC
 ריחף	תרחף	V;3;SG;FUT;FEM
-ריחף	תרחפו	V;2;PL;FUT:MASC
+ריחף	תרחפו	V;2;PL;FUT;MASC
 ריחף	תרחפי	V;2;SG;FUT;FEM
 ריחף	תרחפנה	V;2;PL;FUT;FEM
 ריחף	תרחפנה	V;3;PL;FUT;FEM
@@ -12189,7 +12189,7 @@
 ריפא	רפאנה	V;2;PL;IMP;FEM
 ריפא	תרפא	V;2;SG;FUT;MASC
 ריפא	תרפא	V;3;SG;FUT;FEM
-ריפא	תרפאו	V;2;PL;FUT:MASC
+ריפא	תרפאו	V;2;PL;FUT;MASC
 ריפא	תרפאי	V;2;SG;FUT;FEM
 ריפא	תרפאנה	V;2;PL;FUT;FEM
 ריפא	תרפאנה	V;3;PL;FUT;FEM
@@ -12217,7 +12217,7 @@
 ריצה	רצינה	V;2;PL;IMP;FEM
 ריצה	תרצה	V;2;SG;FUT;MASC
 ריצה	תרצה	V;3;SG;FUT;FEM
-ריצה	תרצו	V;2;PL;FUT:MASC
+ריצה	תרצו	V;2;PL;FUT;MASC
 ריצה	תרצי	V;2;SG;FUT;FEM
 ריצה	תרצינה	V;2;PL;FUT;FEM
 ריצה	תרצינה	V;3;PL;FUT;FEM
@@ -12245,7 +12245,7 @@
 ריתך	רתכנה	V;2;PL;IMP;FEM
 ריתך	תרתך	V;2;SG;FUT;MASC
 ריתך	תרתך	V;3;SG;FUT;FEM
-ריתך	תרתכו	V;2;PL;FUT:MASC
+ריתך	תרתכו	V;2;PL;FUT;MASC
 ריתך	תרתכי	V;2;SG;FUT;FEM
 ריתך	תרתכנה	V;2;PL;FUT;FEM
 ריתך	תרתכנה	V;3;PL;FUT;FEM
@@ -12275,7 +12275,7 @@
 רמז	תרמוז	V;3;SG;FUT;FEM
 רמז	תרמוזנה	V;2;PL;FUT;FEM
 רמז	תרמוזנה	V;3;PL;FUT;FEM
-רמז	תרמזו	V;2;PL;FUT:MASC
+רמז	תרמזו	V;2;PL;FUT;MASC
 רמז	תרמזי	V;2;SG;FUT;FEM
 רעב	ארעב	V;1;SG;FUT
 רעב	ירעב	V;3;SG;FUT;MASC
@@ -12301,7 +12301,7 @@
 רעב	רעבתן	V;2;PL;PST;FEM
 רעב	תרעב	V;2;SG;FUT;MASC
 רעב	תרעב	V;3;SG;FUT;FEM
-רעב	תרעבו	V;2;PL;FUT:MASC
+רעב	תרעבו	V;2;PL;FUT;MASC
 רעב	תרעבי	V;2;SG;FUT;FEM
 רעב	תרעבנה	V;2;PL;FUT;FEM
 רעב	תרעבנה	V;3;PL;FUT;FEM
@@ -12329,7 +12329,7 @@
 רפא	רפאתן	V;2;PL;PST;FEM
 רפא	תרפא	V;2;SG;FUT;MASC
 רפא	תרפא	V;3;SG;FUT;FEM
-רפא	תרפאו	V;2;PL;FUT:MASC
+רפא	תרפאו	V;2;PL;FUT;MASC
 רפא	תרפאי	V;2;SG;FUT;FEM
 רפא	תרפאנה	V;2;PL;FUT;FEM
 רפא	תרפאנה	V;3;PL;FUT;FEM
@@ -12357,7 +12357,7 @@
 רץ	רצתן	V;2;PL;PST;FEM
 רץ	תרוץ	V;2;SG;FUT;MASC
 רץ	תרוץ	V;3;SG;FUT;FEM
-רץ	תרוצו	V;2;PL;FUT:MASC
+רץ	תרוצו	V;2;PL;FUT;MASC
 רץ	תרוצי	V;2;SG;FUT;FEM
 רץ	תרוצנה	V;2;PL;FUT;FEM
 רץ	תרוצנה	V;3;PL;FUT;FEM
@@ -12385,7 +12385,7 @@
 רצה	רצתה	V;3;SG;PST;FEM
 רצה	תרצה	V;2;SG;FUT;MASC
 רצה	תרצה	V;3;SG;FUT;FEM
-רצה	תרצו	V;2;PL;FUT:MASC
+רצה	תרצו	V;2;PL;FUT;MASC
 רצה	תרצי	V;2;SG;FUT;FEM
 רצה	תרצינה	V;2;PL;FUT;FEM
 רצה	תרצינה	V;3;PL;FUT;FEM
@@ -12437,7 +12437,7 @@
 רקד	רקדתן	V;2;PL;PST;FEM
 רקד	רקוד	V;2;SG;IMP;MASC
 רקד	רקודנה	V;2;PL;IMP;FEM
-רקד	תרקדו	V;2;PL;FUT:MASC
+רקד	תרקדו	V;2;PL;FUT;MASC
 רקד	תרקדי	V;2;SG;FUT;FEM
 רקד	תרקוד	V;2;SG;FUT;MASC
 רקד	תרקוד	V;3;SG;FUT;FEM
@@ -12469,7 +12469,7 @@
 רשם	תרשום	V;3;SG;FUT;FEM
 רשם	תרשומנה	V;2;PL;FUT;FEM
 רשם	תרשומנה	V;3;PL;FUT;FEM
-רשם	תרשׁמו	V;2;PL;FUT:MASC
+רשם	תרשׁמו	V;2;PL;FUT;MASC
 רשם	תרשׁמי	V;2;SG;FUT;FEM
 שוטט	אשׁוטט	V;1;SG;FUT
 שוטט	ישׁוטט	V;3;SG;FUT;MASC
@@ -12495,7 +12495,7 @@
 שוטט	שׁוטטתן	V;2;PL;PST;FEM
 שוטט	תשׁוטט	V;2;SG;FUT;MASC
 שוטט	תשׁוטט	V;3;SG;FUT;FEM
-שוטט	תשׁוטטו	V;2;PL;FUT:MASC
+שוטט	תשׁוטטו	V;2;PL;FUT;MASC
 שוטט	תשׁוטטי	V;2;SG;FUT;FEM
 שוטט	תשׁוטטנה	V;2;PL;FUT;FEM
 שוטט	תשׁוטטנה	V;3;PL;FUT;FEM
@@ -12518,7 +12518,7 @@
 שונה	שונתה	V;3;SG;PST;FEM
 שונה	תשונה	V;2;SG;FUT;MASC
 שונה	תשונה	V;3;SG;FUT;FEM
-שונה	תשונו	V;2;PL;FUT:MASC
+שונה	תשונו	V;2;PL;FUT;MASC
 שונה	תשוני	V;2;SG;FUT;FEM
 שונה	תשונינה	V;2;PL;FUT;FEM
 שונה	תשונינה	V;3;PL;FUT;FEM
@@ -12631,7 +12631,7 @@
 שטף	תשטוף	V;3;SG;FUT;FEM
 שטף	תשטופנה	V;2;PL;FUT;FEM
 שטף	תשטופנה	V;3;PL;FUT;FEM
-שטף	תשׁטפו	V;2;PL;FUT:MASC
+שטף	תשׁטפו	V;2;PL;FUT;MASC
 שטף	תשׁטפי	V;2;SG;FUT;FEM
 שט	שׁוט	V;2;SG;IMP;MASC
 שט	שׁוטו	V;2;PL;IMP;MASC
@@ -12652,7 +12652,7 @@
 שט	שׁטתן	V;2;PL;PST;FEM
 שט	תשׁוט	V;2;SG;FUT;MASC
 שט	תשׁוט	V;3;SG;FUT;FEM
-שט	תשׁוטו	V;2;PL;FUT:MASC
+שט	תשׁוטו	V;2;PL;FUT;MASC
 שט	תשׁוטי	V;2;SG;FUT;FEM
 שט	תשוטנה	V;2;PL;FUT;FEM
 שט	תשוטנה	V;3;PL;FUT;FEM
@@ -12680,7 +12680,7 @@
 שיגר	שיגרתן	V;2;PL;PST;FEM
 שיגר	תשׁגר	V;2;SG;FUT;MASC
 שיגר	תשׁגר	V;3;SG;FUT;FEM
-שיגר	תשׁגרו	V;2;PL;FUT:MASC
+שיגר	תשׁגרו	V;2;PL;FUT;MASC
 שיגר	תשׁגרי	V;2;SG;FUT;FEM
 שיגר	תשׁגרנה	V;2;PL;FUT;FEM
 שיגר	תשׁגרנה	V;3;PL;FUT;FEM
@@ -12734,7 +12734,7 @@
 שימש	שׁמשׁנה	V;2;PL;IMP;FEM
 שימש	תשׁמשׁ	V;2;SG;FUT;MASC
 שימש	תשׁמשׁ	V;3;SG;FUT;FEM
-שימש	תשׁמשׁו	V;2;PL;FUT:MASC
+שימש	תשׁמשׁו	V;2;PL;FUT;MASC
 שימש	תשׁמשׁי	V;2;SG;FUT;FEM
 שימש	תשׁמשׁנה	V;2;PL;FUT;FEM
 שימש	תשׁמשׁנה	V;3;PL;FUT;FEM
@@ -12762,7 +12762,7 @@
 שיקר	שׁקרנה	V;2;PL;IMP;FEM
 שיקר	תשׁקר	V;2;SG;FUT;MASC
 שיקר	תשׁקר	V;3;SG;FUT;FEM
-שיקר	תשׁקרו	V;2;PL;FUT:MASC
+שיקר	תשׁקרו	V;2;PL;FUT;MASC
 שיקר	תשׁקרי	V;2;SG;FUT;FEM
 שיקר	תשׁקרנה	V;2;PL;FUT;FEM
 שיקר	תשׁקרנה	V;3;PL;FUT;FEM
@@ -12790,7 +12790,7 @@
 שכח	שׁכחתן	V;2;PL;PST;FEM
 שכח	תשׁכח	V;2;SG;FUT;MASC
 שכח	תשׁכח	V;3;SG;FUT;FEM
-שכח	תשׁכחו	V;2;PL;FUT:MASC
+שכח	תשׁכחו	V;2;PL;FUT;MASC
 שכח	תשׁכחי	V;2;SG;FUT;FEM
 שכח	תשׁכחנה	V;2;PL;FUT;FEM
 שכח	תשׁכחנה	V;3;PL;FUT;FEM
@@ -12820,7 +12820,7 @@
 שכן	תשכון	V;3;SG;FUT;FEM
 שכן	תשכונה	V;2;PL;FUT;FEM
 שכן	תשכונה	V;3;PL;FUT;FEM
-שכן	תשׁכנו	V;2;PL;FUT:MASC
+שכן	תשׁכנו	V;2;PL;FUT;MASC
 שכן	תשׁכני	V;2;SG;FUT;FEM
 שלג	השׁלג	N;SG;DEF
 שלג	השׁלגים	N;PL;DEF
@@ -12872,7 +12872,7 @@
 שלח	שׁלחתן	V;2;PL;PST;FEM
 שלח	תשׁלח	V;2;SG;FUT;MASC
 שלח	תשׁלח	V;3;SG;FUT;FEM
-שלח	תשׁלחו	V;2;PL;FUT:MASC
+שלח	תשׁלחו	V;2;PL;FUT;MASC
 שלח	תשׁלחי	V;2;SG;FUT;FEM
 שלח	תשׁלחנה	V;2;PL;FUT;FEM
 שלח	תשׁלחנה	V;3;PL;FUT;FEM
@@ -12902,7 +12902,7 @@
 שלט	תשלוט	V;3;SG;FUT;FEM
 שלט	תשלוטנה	V;2;PL;FUT;FEM
 שלט	תשלוטנה	V;3;PL;FUT;FEM
-שלט	תשׁלטו	V;2;PL;FUT:MASC
+שלט	תשׁלטו	V;2;PL;FUT;MASC
 שלט	תשׁלטי	V;2;SG;FUT;FEM
 שמחה	השׂמחה	N;SG;DEF
 שמחה	השׂמחות	N;PL;DEF
@@ -12980,7 +12980,7 @@
 שמע	שׁמעתן	V;2;PL;PST;FEM
 שמע	תשׁמע	V;2;SG;FUT;MASC
 שמע	תשׁמע	V;3;SG;FUT;FEM
-שמע	תשׁמעו	V;2;PL;FUT:MASC
+שמע	תשׁמעו	V;2;PL;FUT;MASC
 שמע	תשׁמעי	V;2;SG;FUT;FEM
 שמע	תשׁמענה	V;2;PL;FUT;FEM
 שמע	תשׁמענה	V;3;PL;FUT;FEM
@@ -13010,7 +13010,7 @@
 שמר	תשמור	V;3;SG;FUT;FEM
 שמר	תשמורנה	V;2;PL;FUT;FEM
 שמר	תשמורנה	V;3;PL;FUT;FEM
-שמר	תשׁמרו	V;2;PL;FUT:MASC
+שמר	תשׁמרו	V;2;PL;FUT;MASC
 שמר	תשׁמרי	V;2;SG;FUT;FEM
 שן	השיניים	N;PL;DEF
 שן	השׁן	N;SG;DEF
@@ -13064,7 +13064,7 @@
 שפך	תשפוך	V;3;SG;FUT;FEM
 שפך	תשפוכנה	V;2;PL;FUT;FEM
 שפך	תשפוכנה	V;3;PL;FUT;FEM
-שפך	תשׁפכו	V;2;PL;FUT:MASC
+שפך	תשׁפכו	V;2;PL;FUT;MASC
 שפך	תשׁפכי	V;2;SG;FUT;FEM
 שפע	אשׁפע	V;1;SG;FUT
 שפע	ישׁפע	V;3;SG;FUT;MASC
@@ -13090,7 +13090,7 @@
 שפע	שׁפעתן	V;2;PL;PST;FEM
 שפע	תשׁפע	V;2;SG;FUT;MASC
 שפע	תשׁפע	V;3;SG;FUT;FEM
-שפע	תשׁפעו	V;2;PL;FUT:MASC
+שפע	תשׁפעו	V;2;PL;FUT;MASC
 שפע	תשׁפעי	V;2;SG;FUT;FEM
 שפע	תשׁפענה	V;2;PL;FUT;FEM
 שפע	תשׁפענה	V;3;PL;FUT;FEM
@@ -13172,7 +13172,7 @@
 שרף	תשרוף	V;3;SG;FUT;FEM
 שרף	תשרופנה	V;2;PL;FUT;FEM
 שרף	תשרופנה	V;3;PL;FUT;FEM
-שרף	תשׂרפו	V;2;PL;FUT:MASC
+שרף	תשׂרפו	V;2;PL;FUT;MASC
 שרף	תשׂרפי	V;2;SG;FUT;FEM
 שרץ	השׁרץ	N;SG;DEF
 שרץ	השׁרצים	N;PL;DEF
@@ -13226,7 +13226,7 @@
 שרק	תשרוק	V;3;SG;FUT;FEM
 שרק	תשרוקנה	V;2;PL;FUT;FEM
 שרק	תשרוקנה	V;3;PL;FUT;FEM
-שרק	תשׁרקו	V;2;PL;FUT:MASC
+שרק	תשׁרקו	V;2;PL;FUT;MASC
 שרק	תשׁרקי	V;2;SG;FUT;FEM
 שרשרת	השׁרשׁראות	N;PL;DEF
 שרשרת	השׁרשׁרת	N;SG;DEF
@@ -13278,7 +13278,7 @@
 שתה	שתתה	V;3;SG;PST;FEM
 שתה	תשתה	V;2;SG;FUT;MASC
 שתה	תשתה	V;3;SG;FUT;FEM
-שתה	תשתו	V;2;PL;FUT:MASC
+שתה	תשתו	V;2;PL;FUT;MASC
 שתה	תשתי	V;2;SG;FUT;FEM
 שתה	תשתינה	V;2;PL;FUT;FEM
 שתה	תשתינה	V;3;PL;FUT;FEM
@@ -13308,7 +13308,7 @@
 שתק	תשתוק	V;3;SG;FUT;FEM
 שתק	תשתוקנה	V;2;PL;FUT;FEM
 שתק	תשתוקנה	V;3;PL;FUT;FEM
-שתק	תשׁתקו	V;2;PL;FUT:MASC
+שתק	תשׁתקו	V;2;PL;FUT;MASC
 שתק	תשׁתקי	V;2;SG;FUT;FEM
 תבוסה	התבוסה	N;SG;DEF
 תבוסה	התבוסות	N;PL;DEF
@@ -13360,7 +13360,7 @@
 תבע	תובעת	V;SG;PRS;FEM
 תבע	תתבע	V;2;SG;FUT;MASC
 תבע	תתבע	V;3;SG;FUT;FEM
-תבע	תתבעו	V;2;PL;FUT:MASC
+תבע	תתבעו	V;2;PL;FUT;MASC
 תבע	תתבעי	V;2;SG;FUT;FEM
 תבע	תתבענה	V;2;PL;FUT;FEM
 תבע	תתבענה	V;3;PL;FUT;FEM
@@ -13383,7 +13383,7 @@
 תובל	תובלתן	V;2;PL;PST;FEM
 תובל	תתובל	V;2;SG;FUT;MASC
 תובל	תתובל	V;3;SG;FUT;FEM
-תובל	תתובלו	V;2;PL;FUT:MASC
+תובל	תתובלו	V;2;PL;FUT;MASC
 תובל	תתובלי	V;2;SG;FUT;FEM
 תובל	תתובלנה	V;2;PL;FUT;FEM
 תובל	תתובלנה	V;3;PL;FUT;FEM
@@ -13489,7 +13489,7 @@
 תיאר	תיארתן	V;2;PL;PST;FEM
 תיאר	תתאר	V;2;SG;FUT;MASC
 תיאר	תתאר	V;3;SG;FUT;FEM
-תיאר	תתארו	V;2;PL;FUT:MASC
+תיאר	תתארו	V;2;PL;FUT;MASC
 תיאר	תתארי	V;2;SG;FUT;FEM
 תיאר	תתארנה	V;2;PL;FUT;FEM
 תיאר	תתארנה	V;3;PL;FUT;FEM
@@ -13517,7 +13517,7 @@
 תיבל	תיבלתן	V;2;PL;PST;FEM
 תיבל	תתבל	V;2;SG;FUT;MASC
 תיבל	תתבל	V;3;SG;FUT;FEM
-תיבל	תתבלו	V;2;PL;FUT:MASC
+תיבל	תתבלו	V;2;PL;FUT;MASC
 תיבל	תתבלי	V;2;SG;FUT;FEM
 תיבל	תתבלנה	V;2;PL;FUT;FEM
 תיבל	תתבלנה	V;3;PL;FUT;FEM
@@ -13545,7 +13545,7 @@
 תיעב	תעבנה	V;2;PL;IMP;FEM
 תיעב	תתעב	V;2;SG;FUT;MASC
 תיעב	תתעב	V;3;SG;FUT;FEM
-תיעב	תתעבו	V;2;PL;FUT:MASC
+תיעב	תתעבו	V;2;PL;FUT;MASC
 תיעב	תתעבי	V;2;SG;FUT;FEM
 תיעב	תתעבנה	V;2;PL;FUT;FEM
 תיעב	תתעבנה	V;3;PL;FUT;FEM
@@ -13573,7 +13573,7 @@
 תירגל	תרגלנה	V;2;PL;IMP;FEM
 תירגל	תתרגל	V;2;SG;FUT;MASC
 תירגל	תתרגל	V;3;SG;FUT;FEM
-תירגל	תתרגלו	V;2;PL;FUT:MASC
+תירגל	תתרגלו	V;2;PL;FUT;MASC
 תירגל	תתרגלי	V;2;SG;FUT;FEM
 תירגל	תתרגלנה	V;2;PL;FUT;FEM
 תירגל	תתרגלנה	V;3;PL;FUT;FEM
@@ -13681,7 +13681,7 @@
 תפר	תתפור	V;3;SG;FUT;FEM
 תפר	תתפורנה	V;2;PL;FUT;FEM
 תפר	תתפורנה	V;3;PL;FUT;FEM
-תפר	תתפרו	V;2;PL;FUT:MASC
+תפר	תתפרו	V;2;PL;FUT;MASC
 תפר	תתפרי	V;2;SG;FUT;FEM
 תקווה	התקווה	N;SG;DEF
 תקווה	התקוות	N;PL;DEF
@@ -13765,7 +13765,7 @@
 תרם	תתרום	V;3;SG;FUT;FEM
 תרם	תתרומנה	V;2;PL;FUT;FEM
 תרם	תתרומנה	V;3;PL;FUT;FEM
-תרם	תתרמו	V;2;PL;FUT:MASC
+תרם	תתרמו	V;2;PL;FUT;MASC
 תרם	תתרמי	V;2;SG;FUT;FEM
 תר	נתור	V;1;PL;FUT
 תר	תור	V;2;SG;IMP;MASC
@@ -13787,7 +13787,7 @@
 תר	תרתן	V;2;PL;PST;FEM
 תר	תתור	V;2;SG;FUT;MASC
 תר	תתור	V;3;SG;FUT;FEM
-תר	תתורו	V;2;PL;FUT:MASC
+תר	תתורו	V;2;PL;FUT;MASC
 תר	תתורי	V;2;SG;FUT;FEM
 תר	תתורנה	V;2;PL;FUT;FEM
 תר	תתורנה	V;3;PL;FUT;FEM
