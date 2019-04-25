@@ -1,7 +1,7 @@
 # heb
 
 
-Hewbrew
+Hebrew
 
 
 
