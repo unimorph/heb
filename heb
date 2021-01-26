@@ -3100,10 +3100,6 @@
 החמיץ	תחמיצי	V;2;SG;FUT;FEM
 החמיץ	תחמצנה	V;2;PL;FUT;FEM
 החמיץ	תחמצנה	V;3;PL;FUT;FEM
-היה	(*הווה)	V;SG;PRS;MASC
-היה	(*הווה)	V;SG;PRS;FEM
-היה	(*הווים)	V;PL;PRS;MASC
-היה	(*הוות)	V;PL;PRS;FEM
 היה	אהיה	V;1;SG;FUT
 היה	היה	V;3;SG;PST;MASC
 היה	היה	V;2;SG;IMP;MASC
@@ -3118,12 +3114,12 @@
 היה	הייתי	V;1;SG;PST
 היה	הייתם	V;2;PL;PST;MASC
 היה	הייתן	V;2;PL;PST;FEM
-היה	יהיה/יהא	V;3;SG;FUT;MASC
+היה	יהיה	V;3;SG;FUT;MASC
 היה	יהיו	V;3;PL;FUT;MASC
 היה	להיות	V;NFIN
 היה	נהיה	V;1;PL;FUT
 היה	תהיה	V;2;SG;FUT;MASC
-היה	תהיה/תהא	V;3;SG;FUT;FEM
+היה	תהיה	V;3;SG;FUT;FEM
 היה	תהיו	V;2;PL;FUT;MASC
 היה	תהיי	V;2;SG;FUT;FEM
 היה	תהיינה	V;2;PL;FUT;FEM
@@ -7127,10 +7123,6 @@
 יכול	תוכלי	V;2;SG;FUT;FEM
 יכול	תוכלנה	V;2;PL;FUT;FEM
 יכול	תוכלנה	V;3;PL;FUT;FEM
-יכול	–	V;2;SG;IMP;MASC
-יכול	–	V;2;SG;IMP;FEM
-יכול	–	V;2;PL;IMP;MASC
-יכול	–	V;2;PL;IMP;FEM
 ירה	אירה	V;1;SG;FUT
 ירה	יורה	V;SG;PRS;MASC
 ירה	יורה	V;SG;PRS;FEM
@@ -14315,7 +14307,6 @@
 אומץ	תאומצי	V;2;SG;FUT;FEM
 אומץ	תאומצנה	V;2;PL;FUT;FEM
 אומץ	תאומצנה	V;3;PL;FUT;FEM
-אור	-	V;NFIN
 אור	אאור	V;1;SG;FUT
 אור	אור	V;3;SG;PST;MASC
 אור	אור	V;SG;PRS;MASC
@@ -14395,7 +14386,6 @@
 אותת	תאותתי	V;2;SG;FUT;FEM
 אותת	תאותתנה	V;2;PL;FUT;FEM
 אותת	תאותתנה	V;3;PL;FUT;FEM
-אזל	-	V.MSDR
 אזל	אאזל	V;1;SG;FUT
 אזל	אוזל	V;SG;PRS;MASC
 אזל	אוזלות	V;PL;PRS;FEM
@@ -14946,7 +14936,6 @@
 ארז	תארוזנה	V;3;PL;FUT;FEM
 ארז	תארזו	V;2;PL;FUT;MASC
 ארז	תארזי	V;2;SG;FUT;FEM
-ארח	-	V.MSDR
 ארח	אארח	V;1;SG;FUT
 ארח	אורח	V;SG;PRS;MASC
 ארח	אורחות	V;PL;PRS;FEM
@@ -15282,7 +15271,6 @@
 ביכר	תבכרי	V;2;SG;FUT;FEM
 ביכר	תבכרנה	V;2;PL;FUT;FEM
 ביכר	תבכרנה	V;3;PL;FUT;FEM
-בילע	-	V.MSDR
 בילע	אבלע	V;1;SG;FUT
 בילע	בילע	V;3;SG;PST;MASC
 בילע	בילעה	V;3;SG;PST;FEM
@@ -17000,7 +16988,6 @@
 הגן	תגנה	V;3;PL;FUT;FEM
 הגן	תגנו	V;2;PL;FUT;MASC
 הגן	תגני	V;2;SG;FUT;FEM
-הדאיג	-	V.MSDR
 הדאיג	אדאיג	V;1;SG;FUT
 הדאיג	הדאג	V;2;SG;IMP;MASC
 הדאיג	הדאגנה	V;2;PL;IMP;FEM
@@ -17877,7 +17864,6 @@
 החכים	תחכימי	V;2;SG;FUT;FEM
 החכים	תחכמנה	V;2;PL;FUT;FEM
 החכים	תחכמנה	V;3;PL;FUT;FEM
-החל	-	V.MSDR
 החל	אחל	V;1;SG;FUT
 החל	החל	V;3;SG;PST;MASC
 החל	החל	V;2;SG;IMP;MASC
@@ -18196,7 +18182,6 @@
 הימהם	תהמהמי	V;2;SG;FUT;FEM
 הימהם	תהמהמנה	V;2;PL;FUT;FEM
 הימהם	תהמהמנה	V;3;PL;FUT;FEM
-הימין	-	V.MSDR
 הימין	אימין	V;1;SG;FUT
 הימין	הימין	V;3;SG;PST;MASC
 הימין	הימינה	V;3;SG;PST;FEM
@@ -19733,7 +19718,6 @@
 הצית	תציתי	V;2;SG;FUT;FEM
 הצית	תצתנה	V;2;PL;FUT;FEM
 הצית	תצתנה	V;3;PL;FUT;FEM
-הצל	-	V.MSDR
 הצל	אצל	V;1;SG;FUT
 הצל	הצל	V;3;SG;PST;MASC
 הצל	הצל	V;2;SG;IMP;MASC
@@ -19878,7 +19862,6 @@
 הקל	תקלי	V;2;SG;FUT;FEM
 הקל	תקלנה	V;2;PL;FUT;FEM
 הקל	תקלנה	V;3;PL;FUT;FEM
-הקר	-	V.MSDR
 הקר	אקר	V;1;SG;FUT
 הקר	הקר	V;3;SG;PST;MASC
 הקר	הקר	V;2;SG;IMP;MASC
@@ -19907,7 +19890,6 @@
 הקר	תקרי	V;2;SG;FUT;FEM
 הקר	תקרנה	V;2;PL;FUT;FEM
 הקר	תקרנה	V;3;PL;FUT;FEM
-הראה	-	V.MSDR
 הראה	אראה	V;1;SG;FUT
 הראה	הראה	V;3;SG;PST;MASC
 הראה	הראה	V;2;SG;IMP;MASC
@@ -20167,7 +20149,6 @@
 הרע	תרעי	V;2;SG;FUT;FEM
 הרע	תרענה	V;2;PL;FUT;FEM
 הרע	תרענה	V;3;PL;FUT;FEM
-הרשים	-	V.MSDR
 הרשים	ארשים	V;1;SG;FUT
 הרשים	הרשים	V;3;SG;PST;MASC
 הרשים	הרשימה	V;3;SG;PST;FEM
@@ -21269,7 +21250,6 @@
 התאכזב	תתאכזבי	V;2;SG;FUT;FEM
 התאכזב	תתאכזבנה	V;2;PL;FUT;FEM
 התאכזב	תתאכזבנה	V;3;PL;FUT;FEM
-התאמן	-	V.MSDR
 התאמן	אתאמן	V;1;SG;FUT
 התאמן	התאמן	V;3;SG;PST;MASC
 התאמן	התאמן	V;2;SG;IMP;MASC
@@ -23053,7 +23033,6 @@
 זיעזע	תזעזעי	V;2;SG;FUT;FEM
 זיעזע	תזעזענה	V;2;PL;FUT;FEM
 זיעזע	תזעזענה	V;3;PL;FUT;FEM
-זנה	-	V.MSDR
 זנה	אזנה	V;1;SG;FUT
 זנה	זונה	V;SG;PRS;MASC
 זנה	זונה	V;SG;PRS;FEM
@@ -23867,7 +23846,6 @@
 חכם	תחכמי	V;2;SG;FUT;FEM
 חכם	תחכמנה	V;2;PL;FUT;FEM
 חכם	תחכמנה	V;3;PL;FUT;FEM
-חל	-	V.MSDR
 חל	אחול	V;1;SG;FUT
 חל	חול	V;2;SG;IMP;MASC
 חל	חולו	V;2;PL;IMP;MASC
@@ -23925,7 +23903,6 @@
 חלב	תחלוב	V;3;SG;FUT;FEM
 חלב	תחלובנה	V;2;PL;FUT;FEM
 חלב	תחלובנה	V;3;PL;FUT;FEM
-חלה	-	V.MSDR
 חלה	אחלה	V;1;SG;FUT
 חלה	חולה	V;SG;PRS;MASC
 חלה	חולה	V;SG;PRS;FEM
@@ -24099,7 +24076,6 @@
 חנק	תחנוקנה	V;3;PL;FUT;FEM
 חנק	תחנקו	V;2;PL;FUT;MASC
 חנק	תחנקי	V;2;SG;FUT;FEM
-חסה	-	V.MSDR
 חסה	אחסה	V;1;SG;FUT
 חסה	חוסה	V;SG;PRS;MASC
 חסה	חוסה	V;SG;PRS;FEM
@@ -25325,7 +25301,6 @@
 כרת	תכרותנה	V;3;PL;FUT;FEM
 כרת	תכרתו	V;2;PL;FUT;MASC
 כרת	תכרתי	V;2;SG;FUT;FEM
-להט	-	V.MSDR
 להט	אלהט	V;1;SG;FUT
 להט	ילהט	V;3;SG;FUT;MASC
 להט	ילהטו	V;3;PL;FUT;MASC
@@ -25580,7 +25555,6 @@
 מיאן	תמאנה	V;3;PL;FUT;FEM
 מיאן	תמאנו	V;2;PL;FUT;MASC
 מיאן	תמאני	V;2;SG;FUT;FEM
-מיהר	-	V.MSDR
 מיהר	אמהר	V;1;SG;FUT
 מיהר	ימהר	V;3;SG;FUT;MASC
 מיהר	ימהרו	V;3;PL;FUT;MASC
@@ -25983,7 +25957,6 @@
 נאף	תנאפי	V;2;SG;FUT;FEM
 נאף	תנאפנה	V;2;PL;FUT;FEM
 נאף	תנאפנה	V;3;PL;FUT;FEM
-נאצל	-	V.MSDR
 נאצל	איאצל	V;1;SG;FUT
 נאצל	היאצל	V;2;SG;IMP;MASC
 נאצל	היאצלו	V;2;PL;IMP;MASC
@@ -26185,7 +26158,6 @@
 נגלה	תיגלי	V;2;SG;FUT;FEM
 נגלה	תיגלינה	V;2;PL;FUT;FEM
 נגלה	תיגלינה	V;3;PL;FUT;FEM
-נגנב	-	V.MSDR
 נגנב	אגנב	V;1;SG;FUT
 נגנב	היגנב	V;2;SG;IMP;MASC
 נגנב	היגנבו	V;2;PL;IMP;MASC
@@ -26330,7 +26302,6 @@
 נהג	תנהגי	V;2;SG;FUT;FEM
 נהג	תנהגנה	V;2;PL;FUT;FEM
 נהג	תנהגנה	V;3;PL;FUT;FEM
-נהגה	-	V.MSDR
 נהגה	איהגה	V;1;SG;FUT
 נהגה	היהגה	V;2;SG;IMP;MASC
 נהגה	היהגו	V;2;PL;IMP;MASC
@@ -26401,7 +26372,6 @@
 נהנה	תיהני	V;2;SG;FUT;FEM
 נהנה	תיהנינה	V;2;PL;FUT;FEM
 נהנה	תיהנינה	V;3;PL;FUT;FEM
-נהרג	-	V.MSDR
 נהרג	איהרג	V;1;SG;FUT
 נהרג	היהרג	V;2;SG;IMP;MASC
 נהרג	היהרגו	V;2;PL;IMP;MASC
@@ -26574,7 +26544,6 @@
 נחלק	תיחלקי	V;2;SG;FUT;FEM
 נחלק	תיחלקנה	V;2;PL;FUT;FEM
 נחלק	תיחלקנה	V;3;PL;FUT;FEM
-נחקר	-	V.MSDR
 נחקר	איחקר	V;1;SG;FUT
 נחקר	היחקר	V;2;SG;IMP;MASC
 נחקר	היחקרו	V;2;PL;IMP;MASC
@@ -26603,7 +26572,6 @@
 נחקר	תיחקרי	V;2;SG;FUT;FEM
 נחקר	תיחקרנה	V;2;PL;FUT;FEM
 נחקר	תיחקרנה	V;3;PL;FUT;FEM
-נחשב	-	V.MSDR
 נחשב	איחשב	V;1;SG;FUT
 נחשב	היחשב	V;2;SG;IMP;MASC
 נחשב	היחשבו	V;2;PL;IMP;MASC
@@ -26719,7 +26687,6 @@
 ניחם	תנחמי	V;2;SG;FUT;FEM
 ניחם	תנחמנה	V;2;PL;FUT;FEM
 ניחם	תנחמנה	V;3;PL;FUT;FEM
-ניטל	-	V.MSDR
 ניטל	אנטל	V;1;SG;FUT
 ניטל	הינטל	V;2;SG;IMP;MASC
 ניטל	הינטלו	V;2;PL;IMP;MASC
@@ -26935,7 +26902,6 @@
 נישא	תינשאי	V;2;SG;FUT;FEM
 נישא	תינשאנה	V;2;PL;FUT;FEM
 נישא	תינשאנה	V;3;PL;FUT;FEM
-ניתן	-	V.MSDR
 ניתן	אנתן	V;1;SG;FUT
 ניתן	הינתן	V;2;SG;IMP;MASC
 ניתן	הינתנה	V;2;PL;IMP;FEM
@@ -27051,7 +27017,6 @@
 נכנס	תיכנסי	V;2;SG;FUT;FEM
 נכנס	תיכנסנה	V;2;PL;FUT;FEM
 נכנס	תיכנסנה	V;3;PL;FUT;FEM
-נכרת	-	V.MSDR
 נכרת	אכרת	V;1;SG;FUT
 נכרת	היכרת	V;2;SG;IMP;MASC
 נכרת	היכרתו	V;2;PL;IMP;MASC
@@ -27109,7 +27074,6 @@
 נכשל	תיכשלי	V;2;SG;FUT;FEM
 נכשל	תיכשלנה	V;2;PL;FUT;FEM
 נכשל	תיכשלנה	V;3;PL;FUT;FEM
-נכתב	-	V.MSDR
 נכתב	אכתב	V;1;SG;FUT
 נכתב	היכתב	V;2;SG;IMP;MASC
 נכתב	היכתבו	V;2;PL;IMP;MASC
@@ -27341,7 +27305,6 @@
 נס	תנוסי	V;2;SG;FUT;FEM
 נס	תנוסנה	V;2;PL;FUT;FEM
 נס	תנוסנה	V;3;PL;FUT;FEM
-נסגר	-	V.MSDR
 נסגר	אסגר	V;1;SG;FUT
 נסגר	היסגר	V;2;SG;IMP;MASC
 נסגר	היסגרו	V;2;PL;IMP;MASC
@@ -27515,7 +27478,6 @@
 נער	תנערי	V;2;SG;FUT;FEM
 נער	תנערנה	V;2;PL;FUT;FEM
 נער	תנערנה	V;3;PL;FUT;FEM
-נעשה	-	V.MSDR
 נעשה	איעשה	V;1;SG;FUT
 נעשה	היעשה	V;2;SG;IMP;MASC
 נעשה	היעשו	V;2;PL;IMP;MASC
@@ -27602,7 +27564,6 @@
 נפח	תיפחי	V;2;SG;FUT;FEM
 נפח	תיפחנה	V;2;PL;FUT;FEM
 נפח	תיפחנה	V;3;PL;FUT;FEM
-נפטר	-	V.MSDR
 נפטר	אפטר	V;1;SG;FUT
 נפטר	היפטר	V;2;SG;IMP;MASC
 נפטר	היפטרו	V;2;PL;IMP;MASC
@@ -27776,7 +27737,6 @@
 נקבר	תיקברי	V;2;SG;FUT;FEM
 נקבר	תיקברנה	V;2;PL;FUT;FEM
 נקבר	תיקברנה	V;3;PL;FUT;FEM
-נקנה	-	V.MSDR
 נקנה	אקנה	V;1;SG;FUT
 נקנה	היקנה	V;2;SG;IMP;MASC
 נקנה	היקנו	V;2;PL;IMP;MASC
@@ -27805,7 +27765,6 @@
 נקנה	תיקני	V;2;SG;FUT;FEM
 נקנה	תיקנינה	V;2;PL;FUT;FEM
 נקנה	תיקנינה	V;3;PL;FUT;FEM
-נקרא	-	V.MSDR
 נקרא	אקרא	V;1;SG;FUT
 נקרא	היקרא	V;2;SG;IMP;MASC
 נקרא	היקראו	V;2;PL;IMP;MASC
@@ -28037,7 +27996,6 @@
 נשבע	תישבעי	V;2;SG;FUT;FEM
 נשבע	תישבענה	V;2;PL;FUT;FEM
 נשבע	תישבענה	V;3;PL;FUT;FEM
-נשבר	-	V.MSDR
 נשבר	אשבר	V;1;SG;FUT
 נשבר	הישבר	V;2;SG;IMP;MASC
 נשבר	הישברו	V;2;PL;IMP;MASC
@@ -28153,7 +28111,6 @@
 נשלט	תישלטי	V;2;SG;FUT;FEM
 נשלט	תישלטנה	V;2;PL;FUT;FEM
 נשלט	תישלטנה	V;3;PL;FUT;FEM
-נשמע	-	V.MSDR
 נשמע	אשמע	V;1;SG;FUT
 נשמע	הישמע	V;2;SG;IMP;MASC
 נשמע	הישמעו	V;2;PL;IMP;MASC
@@ -28211,7 +28168,6 @@
 נשק	תישקי	V;2;SG;FUT;FEM
 נשק	תישקנה	V;2;PL;FUT;FEM
 נשק	תישקנה	V;3;PL;FUT;FEM
-נשרף	-	V.MSDR
 נשרף	אשרף	V;1;SG;FUT
 נשרף	הישרף	V;2;SG;IMP;MASC
 נשרף	הישרפו	V;2;PL;IMP;MASC
@@ -29017,7 +28973,6 @@
 עיטר	תעטרי	V;2;SG;FUT;FEM
 עיטר	תעטרנה	V;2;PL;FUT;FEM
 עיטר	תעטרנה	V;3;PL;FUT;FEM
-עילף	-	V.MSDR
 עילף	אעלף	V;1;SG;FUT
 עילף	יעלף	V;3;SG;FUT;MASC
 עילף	יעלפו	V;3;PL;FUT;MASC
@@ -29302,7 +29257,6 @@
 ערק	תערוקנה	V;3;PL;FUT;FEM
 ערק	תערקו	V;2;PL;FUT;MASC
 ערק	תערקי	V;2;SG;FUT;FEM
-פדה	-	V.MSDR
 פדה	אפדה	V;1;SG;FUT
 פדה	יפדה	V;3;SG;FUT;MASC
 פדה	יפדו	V;3;PL;FUT;MASC
@@ -30060,7 +30014,6 @@
 פשע	תפשעי	V;2;SG;FUT;FEM
 פשע	תפשענה	V;2;PL;FUT;FEM
 פשע	תפשענה	V;3;PL;FUT;FEM
-צבא	-	V.MSDR
 צבא	אצבא	V;1;SG;FUT
 צבא	יצבא	V;3;SG;FUT;MASC
 צבא	יצבאו	V;3;PL;FUT;MASC
@@ -30926,7 +30879,6 @@
 קנה	תקני	V;2;SG;FUT;FEM
 קנה	תקנינה	V;2;PL;FUT;FEM
 קנה	תקנינה	V;3;PL;FUT;FEM
-קצף	-	V.MSDR
 קצף	אקצוף	V;1;SG;FUT
 קצף	יקצוף	V;3;SG;FUT;MASC
 קצף	יקצפו	V;3;PL;FUT;MASC
@@ -32043,7 +31995,6 @@
 שחק	תשחקי	V;2;SG;FUT;FEM
 שחק	תשחקנה	V;2;PL;FUT;FEM
 שחק	תשחקנה	V;3;PL;FUT;FEM
-שיבח	-	V.MSDR
 שיבח	אשבח	V;1;SG;FUT
 שיבח	ישבח	V;3;SG;FUT;MASC
 שיבח	ישבחו	V;3;PL;FUT;MASC
