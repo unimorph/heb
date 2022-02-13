@@ -12,7 +12,7 @@ heb - unvocalized forms (ktiv male), some vowels are unmarked
 
 heb-voc - vocalized forms (with niqqud), all vowels marked
 
-from_UD_unvoc - unvocalized forms converted from the [UD data] (https://universaldependencies.org/treebanks/he_htb/index.html)  
+from_UD_unvoc - unvocalized forms converted from the [UD data](https://universaldependencies.org/treebanks/he_htb/index.html)  
 
 ## Shared Tasks
 
