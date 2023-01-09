@@ -14,6 +14,8 @@ heb-voc - vocalized forms (with niqqud), all vowels marked
 
 from_UD_unvoc - unvocalized forms converted from the [UD data](https://universaldependencies.org/treebanks/he_htb/index.html)  
 
+`file`.args - a UniMorph 4.0 vesrion of `file`
+
 ## Shared Tasks
 
 2021: [SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages](https://aclanthology.org/2021.sigmorphon-1.25/)
